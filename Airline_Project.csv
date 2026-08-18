@@ -1,0 +1,1006 @@
+Passenger_ID,Airline,Origin,Destination,Flight_Date,Age,Class,Travel_Type,Booking_Channel,Payment_Method,Flight_Duration_Min,Distance_KM,Flight_Status,Delay_Minutes,Baggage_Count,Meal_Ordered,Rating,Ticket_Fare,Satisfaction
+PNR00001,Air India Express,Hyderabad,Mumbai,2025-09-06,38.0,Economy,Business,Website,Net Banking,181,766,Delayed,159.0,0,No,4.0,33002.96,Satisfied
+PNR00002,IndiGo,Delhi,Bangalore,2025-04-04,50.0,Economy,Business,Mobile App,UPI,117,321,On Time,0.0,3,No,3.0,14930.01,Neutral
+PNR00003,Air India Express,Delhi,Kolkata,2025-04-29,20.0,Economy,Business,Airport Counter,Net Banking,110,946,On Time,0.0,1,Yes,5.0,10004.05,Satisfied
+PNR00004,Air India Express,Mumbai,Hyderabad,2025-05-23,61.0,Business,Business,Travel Agent,Debit Card,67,334,On Time,0.0,1,No,5.0,61220.7,Satisfied
+PNR00005,IndiGo,Delhi,Mumbai,2024-09-26,27.0,Economy,Personal,Mobile App,Debit Card,154,1115,On Time,0.0,3,No,5.0,21569.41,Satisfied
+PNR00006,Air India,Delhi,Kolkata,2024-01-15,46.0,Economy,Business,Mobile App,Net Banking,104,364,On Time,0.0,2,Yes,3.0,28180.71,Neutral
+PNR00007,Vistara,Delhi,Bangalore,2024-08-18,59.0,Business,Personal,Website,Net Banking,100,1351,On Time,0.0,1,Yes,3.0,39090.92,Neutral
+PNR00008,Akasa Air,Mumbai,Bangalore,2025-09-04,18.0,Premium Economy,Personal,Website,Debit Card,234,1785,On Time,0.0,0,No,2.0,3991.35,Dissatisfied
+PNR00009,SpiceJet,Mumbai,Bangalore,2024-08-28,49.0,Economy,Personal,Website,Credit Card,111,1320,On Time,0.0,0,Yes,3.0,25080.51,Neutral
+PNR00010,Air India Express,Delhi,Mumbai,2025-07-10,59.0,Business,Personal,Website,Debit Card,121,1312,Delayed,137.0,1,Yes,1.0,23103.2,Dissatisfied
+PNR00011,Air India,Mumbai,Delhi,2025-09-24,44.0,Business,Business,Mobile App,Credit Card,175,1272,On Time,0.0,0,Yes,4.0,18781.34,Satisfied
+PNR00012,Vistara,Bangalore,Delhi,2025-08-30,49.0,Economy,Business,Website,UPI,239,1436,On Time,0.0,0,Yes,1.0,11170.38,Dissatisfied
+PNR00013,IndiGo,Delhi,Mumbai,2025-07-19,,Economy,Personal,Mobile App,Debit Card,146,1548,Cancelled,,3,No,3.0,14513.77,Neutral
+PNR00014,Air India,Bangalore,Delhi,2025-09-01,41.0,Premium Economy,Business,Mobile App,Net Banking,198,1051,On Time,0.0,3,Yes,4.0,3646.93,Satisfied
+PNR00015,Vistara,Mumbai,Bangalore,2025-12-11,37.0,Premium Economy,Business,Airport Counter,Credit Card,111,788,On Time,0.0,0,Yes,2.0,13059.72,Dissatisfied
+PNR00016,Air India Express,Kolkata,Delhi,2025-07-25,65.0,Business,Personal,Mobile App,Net Banking,172,301,On Time,0.0,0,Yes,3.0,46968.41,Neutral
+PNR00017,Vistara,Bangalore,Mumbai,2024-02-23,41.0,Economy,Business,Airport Counter,Net Banking,179,927,On Time,0.0,3,Yes,3.0,34144.07,Neutral
+PNR00018,IndiGo,Delhi,Mumbai,2024-06-11,19.0,Economy,Business,Website,Net Banking,228,460,On Time,0.0,2,No,1.0,20132.56,Dissatisfied
+PNR00019,Vistara,Mumbai,Bangalore,2025-01-09,39.0,Economy,Personal,Mobile App,Net Banking,81,1049,On Time,0.0,1,Yes,1.0,21249.38,Dissatisfied
+PNR00020,Air India,Delhi,Bangalore,2025-10-20,65.0,Premium Economy,Business,Airport Counter,Debit Card,63,846,Cancelled,,0,No,4.0,3602.81,Satisfied
+PNR00021,SpiceJet,Mumbai,Delhi,2024-06-29,63.0,Business,Business,Website,Net Banking,154,1422,Delayed,76.0,3,Yes,2.0,59265.05,Dissatisfied
+PNR00022,IndiGo,Mumbai,Bangalore,2025-11-16,57.0,Economy,Personal,Website,UPI,83,925,On Time,0.0,1,No,1.0,6940.19,Dissatisfied
+PNR00023,Akasa Air,Mumbai,Hyderabad,2025-11-12,46.0,Economy,Business,Website,Net Banking,85,1220,Delayed,74.0,3,No,4.0,31315.06,Satisfied
+PNR00024,Air India Express,Delhi,Mumbai,2025-12-27,19.0,Economy,Business,Website,Debit Card,145,350,Delayed,58.0,3,Yes,3.0,6629.47,Neutral
+PNR00025,Air India,Hyderabad,Mumbai,2025-09-11,61.0,Economy,Business,Mobile App,UPI,64,1426,On Time,0.0,3,No,5.0,34009.95,Satisfied
+PNR00026,IndiGo,Mumbai,Bangalore,2024-04-29,34.0,Economy,Business,Airport Counter,UPI,122,1381,On Time,0.0,3,Yes,2.0,32244.45,Dissatisfied
+PNR00027,IndiGo,Bangalore,Delhi,2025-08-23,65.0,Business,Personal,Mobile App,Debit Card,176,1196,Delayed,85.0,1,Yes,5.0,11529.63,Satisfied
+PNR00028,SpiceJet,Delhi,Bangalore,2024-04-03,64.0,Premium Economy,Personal,Website,Debit Card,203,517,On Time,0.0,2,Yes,5.0,37580.54,Satisfied
+PNR00029,Air India Express,Kolkata,Delhi,2025-03-17,36.0,Economy,Personal,Mobile App,Net Banking,155,1068,On Time,0.0,0,No,3.0,28530.85,Neutral
+PNR00030,Air India Express,Delhi,Mumbai,2025-01-14,52.0,Economy,Personal,Mobile App,Credit Card,92,1256,On Time,0.0,2,Yes,5.0,9474.15,Satisfied
+PNR00031,Akasa Air,Delhi,Mumbai,2025-12-27,52.0,Economy,Personal,Website,Debit Card,140,389,On Time,0.0,2,Yes,5.0,13820.94,Satisfied
+PNR00032,Vistara,Hyderabad,Mumbai,2025-12-29,53.0,Economy,Business,Travel Agent,Net Banking,80,1320,On Time,0.0,2,Yes,2.0,10625.53,Dissatisfied
+PNR00033,Akasa Air,Delhi,Bangalore,2025-01-03,29.0,Premium Economy,Business,Airport Counter,Debit Card,72,578,On Time,0.0,0,Yes,3.0,6899.41,Neutral
+PNR00034,,Delhi,Kolkata,2024-03-16,36.0,Business,Personal,Mobile App,Debit Card,68,754,On Time,0.0,0,Yes,4.0,23726.88,Satisfied
+PNR00035,Vistara,Delhi,Bangalore,2025-07-18,53.0,Premium Economy,Business,Mobile App,UPI,210,1467,Cancelled,,1,Yes,5.0,16685.69,Satisfied
+PNR00036,IndiGo,Delhi,Kolkata,2025-05-06,27.0,Premium Economy,Business,Website,Credit Card,204,1576,Delayed,131.0,1,Yes,5.0,12095.89,Satisfied
+PNR00037,SpiceJet,Mumbai,Delhi,2025-05-14,39.0,Business,Personal,Mobile App,Net Banking,204,810,On Time,0.0,0,Yes,3.0,19050.36,Neutral
+PNR00038,Vistara,Mumbai,Hyderabad,2024-06-21,20.0,Economy,Business,Website,Credit Card,200,1053,Delayed,176.0,0,No,4.0,33770.61,Satisfied
+PNR00039,Air India Express,Mumbai,Delhi,2024-04-26,42.0,Economy,Personal,Website,Credit Card,193,357,On Time,0.0,0,No,5.0,10722.18,Satisfied
+PNR00040,Vistara,Bangalore,Mumbai,2024-02-16,35.0,Economy,Personal,Mobile App,Net Banking,108,1466,Delayed,21.0,1,No,4.0,5969.57,Satisfied
+PNR00041,SpiceJet,Hyderabad,Mumbai,2025-11-06,45.0,Economy,Business,Mobile App,Net Banking,149,997,Cancelled,,1,Yes,1.0,12559.65,Dissatisfied
+PNR00042,Air India Express,Mumbai,Bangalore,2025-08-16,23.0,Economy,Personal,Website,Debit Card,174,555,Delayed,118.0,0,Yes,1.0,27772.07,Dissatisfied
+PNR00043,IndiGo,Mumbai,Delhi,2024-10-08,28.0,Business,Personal,Travel Agent,Debit Card,122,1540,On Time,0.0,2,Yes,4.0,52054.71,Satisfied
+PNR00044,SpiceJet,Bangalore,Delhi,2025-03-12,20.0,Premium Economy,Personal,Mobile App,Credit Card,82,1296,On Time,0.0,1,Yes,5.0,26640.81,Satisfied
+PNR00045,Akasa Air,Mumbai,Delhi,2024-02-03,57.0,Economy,Personal,Mobile App,Debit Card,151,394,Delayed,59.0,3,No,4.0,20730.48,Satisfied
+PNR00046,Akasa Air,Delhi,Kolkata,2025-09-15,34.0,Premium Economy,Personal,Travel Agent,UPI,106,1218,Delayed,47.0,1,No,3.0,6549.08,Neutral
+PNR00047,IndiGo,Bangalore,Mumbai,2025-04-25,55.0,Economy,Business,Travel Agent,Credit Card,138,1319,On Time,0.0,3,No,1.0,10892.94,Dissatisfied
+PNR00048,SpiceJet,Delhi,Mumbai,2024-02-22,23.0,Economy,Business,Website,UPI,185,342,On Time,0.0,2,Yes,4.0,8411.1,Satisfied
+PNR00049,Air India,Mumbai,Bangalore,2024-07-13,49.0,Business,Personal,Website,Credit Card,214,392,On Time,0.0,3,Yes,5.0,36599.85,Satisfied
+PNR00050,SpiceJet,Delhi,Kolkata,2024-12-11,29.0,Economy,Business,Website,Debit Card,105,845,Delayed,130.0,1,Yes,3.0,32428.35,Neutral
+PNR00051,SpiceJet,Mumbai,Delhi,2024-09-13,43.0,Economy,Personal,Mobile App,Net Banking,67,924,On Time,0.0,1,No,2.0,26792.81,Dissatisfied
+PNR00052,Akasa Air,Hyderabad,Mumbai,2024-01-03,24.0,Economy,Business,Website,Debit Card,170,1218,On Time,0.0,2,Yes,1.0,26465.67,Dissatisfied
+PNR00053,Air India Express,Kolkata,Delhi,2024-09-29,56.0,Economy,Business,Website,Credit Card,145,1797,On Time,0.0,2,No,2.0,5324.91,Dissatisfied
+PNR00054,Akasa Air,Delhi,Mumbai,2025-01-03,64.0,Economy,Personal,Mobile App,UPI,142,724,On Time,0.0,0,Yes,1.0,10209.87,Dissatisfied
+PNR00055,Akasa Air,Delhi,Bangalore,2025-08-04,23.0,Business,Business,Travel Agent,Net Banking,171,815,Delayed,140.0,2,Yes,5.0,61969.15,Satisfied
+PNR00056,Akasa Air,Delhi,Mumbai,2024-03-15,37.0,Business,Business,Travel Agent,Debit Card,63,945,Delayed,88.0,2,No,,53557.08,Neutral
+PNR00057,SpiceJet,Bangalore,Delhi,2024-04-27,43.0,Economy,Business,Website,Debit Card,127,1023,Delayed,47.0,0,No,4.0,12920.87,Satisfied
+PNR00058,Vistara,Mumbai,Delhi,2025-11-20,23.0,Economy,Personal,Website,Debit Card,69,560,On Time,0.0,2,No,1.0,6292.62,Dissatisfied
+PNR00059,Akasa Air,Mumbai,Hyderabad,2025-08-28,52.0,Premium Economy,Business,Airport Counter,UPI,154,617,Delayed,85.0,2,Yes,4.0,35831.32,Satisfied
+PNR00060,Vistara,Delhi,Kolkata,2024-09-26,54.0,Premium Economy,Business,Website,Debit Card,119,1097,On Time,0.0,3,Yes,2.0,18305.36,Dissatisfied
+PNR00061,Akasa Air,Mumbai,Bangalore,2024-01-23,55.0,Economy,Business,Mobile App,Debit Card,122,442,On Time,0.0,3,Yes,3.0,16524.66,Neutral
+PNR00062,Vistara,Mumbai,Hyderabad,2025-07-07,25.0,Economy,Personal,Travel Agent,Debit Card,74,1612,Delayed,164.0,2,Yes,4.0,21021.41,Satisfied
+PNR00063,IndiGo,Delhi,Bangalore,2024-04-27,27.0,Economy,Business,Mobile App,UPI,97,1482,Delayed,14.0,0,Yes,4.0,27586.16,Satisfied
+PNR00064,Vistara,Mumbai,Bangalore,2024-10-18,53.0,Economy,Business,Airport Counter,Debit Card,85,1606,On Time,0.0,2,No,3.0,7483.92,Neutral
+PNR00065,SpiceJet,Hyderabad,Mumbai,2025-09-14,35.0,Economy,Business,Airport Counter,Credit Card,163,1127,Delayed,81.0,2,Yes,4.0,14669.15,Satisfied
+PNR00066,Air India,Bangalore,Delhi,2025-04-06,46.0,Business,Business,Website,Credit Card,99,1620,On Time,0.0,3,Yes,1.0,23930.57,Dissatisfied
+PNR00067,Akasa Air,Mumbai,Hyderabad,2025-10-22,57.0,Premium Economy,Business,Travel Agent,Debit Card,234,1268,On Time,0.0,2,Yes,2.0,38874.37,Dissatisfied
+PNR00068,IndiGo,Mumbai,Hyderabad,2025-04-19,35.0,Economy,Business,Mobile App,UPI,221,646,On Time,0.0,0,No,5.0,32232.49,Satisfied
+PNR00069,Air India,Bangalore,Delhi,2024-06-04,43.0,Economy,Personal,Mobile App,Net Banking,173,1792,On Time,0.0,3,No,1.0,12236.87,Dissatisfied
+PNR00070,SpiceJet,Mumbai,Hyderabad,2024-11-13,36.0,Economy,Business,Mobile App,Net Banking,91,969,On Time,0.0,0,No,2.0,19542.68,Dissatisfied
+PNR00071,Air India Express,Mumbai,Delhi,2025-11-08,47.0,Economy,Business,Website,UPI,238,1130,On Time,0.0,1,No,2.0,15783.86,Dissatisfied
+PNR00072,Air India Express,Delhi,Mumbai,2024-12-14,24.0,Economy,Business,Website,UPI,67,1132,On Time,0.0,1,Yes,5.0,,Satisfied
+PNR00073,Air India,Hyderabad,Mumbai,2024-04-05,51.0,Economy,Personal,Airport Counter,Net Banking,147,1401,On Time,0.0,0,Yes,2.0,2922.56,Dissatisfied
+PNR00074,Air India,Mumbai,Hyderabad,2024-05-26,38.0,Business,Personal,Travel Agent,Credit Card,171,1704,Delayed,157.0,2,Yes,2.0,25738.96,Dissatisfied
+PNR00075,Air India Express,Bangalore,Mumbai,2024-09-12,22.0,Business,Business,Airport Counter,Net Banking,196,1549,On Time,0.0,1,No,3.0,56831.31,Neutral
+PNR00076,Air India,Delhi,Mumbai,2025-06-09,34.0,Premium Economy,Business,Website,Debit Card,68,851,Delayed,13.0,1,No,5.0,29957.65,Satisfied
+PNR00077,SpiceJet,Bangalore,Delhi,2024-05-07,35.0,Economy,Business,Mobile App,Credit Card,144,341,On Time,0.0,3,Yes,2.0,7050.6,Dissatisfied
+PNR00078,Vistara,Delhi,Kolkata,2025-10-07,48.0,Economy,Personal,Website,Credit Card,227,909,Delayed,131.0,1,Yes,4.0,33655.38,Satisfied
+PNR00079,Air India,Mumbai,Bangalore,2025-01-05,53.0,Economy,Business,Mobile App,Credit Card,85,328,Delayed,63.0,1,Yes,5.0,18222.04,Satisfied
+PNR00080,IndiGo,Bangalore,Mumbai,2024-05-27,64.0,Business,Business,Mobile App,Debit Card,140,1257,On Time,0.0,0,Yes,1.0,33486.24,Dissatisfied
+PNR00081,Vistara,Hyderabad,Mumbai,2024-01-25,59.0,Economy,Business,Airport Counter,Debit Card,98,430,On Time,0.0,2,Yes,3.0,32312.69,Neutral
+PNR00082,SpiceJet,Mumbai,Delhi,2025-07-22,27.0,Economy,Personal,Travel Agent,Credit Card,114,311,Delayed,127.0,3,No,1.0,31859.32,Dissatisfied
+PNR00083,Air India Express,Kolkata,Delhi,2025-06-21,58.0,Premium Economy,Personal,Website,Credit Card,106,1611,On Time,0.0,2,Yes,5.0,31509.92,Satisfied
+PNR00084,Vistara,Hyderabad,Mumbai,2025-04-21,40.0,Business,Personal,Website,Debit Card,141,1546,On Time,0.0,1,No,3.0,37299.62,Neutral
+PNR00085,SpiceJet,Delhi,Mumbai,2024-06-19,20.0,Premium Economy,Business,Website,Credit Card,227,1285,On Time,0.0,1,Yes,2.0,23286.56,Dissatisfied
+PNR00086,SpiceJet,Kolkata,Delhi,2025-03-25,61.0,Business,Business,Airport Counter,Credit Card,114,1038,On Time,0.0,3,No,4.0,7582.0,Satisfied
+PNR00087,Air India,Delhi,Bangalore,2025-11-27,61.0,Economy,Business,Website,UPI,75,1763,On Time,0.0,0,No,1.0,6090.41,Dissatisfied
+PNR00088,Akasa Air,Hyderabad,Mumbai,2024-11-19,,Economy,Business,Airport Counter,Credit Card,205,592,On Time,0.0,0,No,4.0,33583.51,Satisfied
+PNR00089,SpiceJet,Delhi,Bangalore,2025-01-14,60.0,Business,Personal,Airport Counter,Debit Card,98,1763,On Time,0.0,3,Yes,4.0,53512.81,Satisfied
+PNR00090,Akasa Air,Delhi,Bangalore,2024-12-31,62.0,Economy,Business,Website,UPI,133,1430,Delayed,14.0,0,No,1.0,19343.46,Dissatisfied
+PNR00091,Air India Express,Kolkata,Delhi,2025-02-22,59.0,Premium Economy,Business,Travel Agent,Debit Card,237,1149,On Time,0.0,0,No,1.0,37901.94,Dissatisfied
+PNR00092,SpiceJet,Delhi,Mumbai,2025-09-08,28.0,Economy,Personal,Airport Counter,Net Banking,126,934,On Time,0.0,2,No,5.0,26394.41,Satisfied
+PNR00093,IndiGo,Hyderabad,Mumbai,2024-02-07,32.0,Premium Economy,Business,Website,Net Banking,131,1574,On Time,0.0,3,Yes,1.0,5399.16,Dissatisfied
+PNR00094,SpiceJet,Mumbai,Bangalore,2025-07-21,20.0,Economy,Business,Airport Counter,UPI,99,339,Delayed,101.0,0,Yes,1.0,13355.29,Dissatisfied
+PNR00095,SpiceJet,Delhi,Kolkata,2024-12-21,59.0,Economy,Personal,Airport Counter,Credit Card,214,721,On Time,0.0,2,Yes,3.0,9930.32,Neutral
+PNR00096,IndiGo,Bangalore,Mumbai,2025-12-18,19.0,Economy,Business,Website,Credit Card,136,594,On Time,0.0,2,Yes,5.0,27844.98,Satisfied
+PNR00097,Akasa Air,Mumbai,Bangalore,2025-03-30,47.0,Business,Business,Mobile App,Debit Card,133,1556,Delayed,31.0,3,Yes,4.0,8468.47,Satisfied
+PNR00098,Vistara,Mumbai,Delhi,2025-02-04,29.0,Economy,Personal,Website,Debit Card,197,1185,Cancelled,,2,No,4.0,23546.14,Satisfied
+PNR00099,Air India Express,Mumbai,Hyderabad,2024-02-02,46.0,Economy,Personal,Travel Agent,Debit Card,193,1178,On Time,0.0,1,No,1.0,5821.29,Dissatisfied
+PNR00100,Air India,Mumbai,Hyderabad,2024-06-05,32.0,Premium Economy,Personal,Website,UPI,134,1183,On Time,0.0,0,No,4.0,31519.53,Satisfied
+PNR00101,SpiceJet,Bangalore,Mumbai,2025-10-20,23.0,Economy,Personal,Travel Agent,UPI,190,1580,On Time,0.0,0,No,2.0,30591.64,Dissatisfied
+PNR00102,Vistara,Hyderabad,Mumbai,2025-10-18,63.0,Economy,Business,Mobile App,UPI,152,1632,On Time,0.0,3,Yes,4.0,33944.12,Satisfied
+PNR00103,Air India Express,Delhi,Kolkata,2024-07-24,47.0,Economy,Personal,,Net Banking,76,1559,On Time,0.0,1,Yes,2.0,28420.67,Dissatisfied
+PNR00104,Vistara,Mumbai,Delhi,2024-09-30,25.0,Economy,Personal,Website,Credit Card,123,637,Delayed,111.0,0,Yes,3.0,5910.23,Neutral
+PNR00105,Air India,Delhi,Kolkata,2025-11-02,63.0,Economy,Personal,Mobile App,Net Banking,139,1633,Delayed,106.0,1,No,1.0,13895.38,Dissatisfied
+PNR00106,Air India,Bangalore,Mumbai,2024-04-12,43.0,Economy,Personal,Travel Agent,Debit Card,225,1170,On Time,0.0,0,No,5.0,25460.46,Satisfied
+PNR00107,Akasa Air,Delhi,Kolkata,2024-03-13,23.0,Economy,Personal,Airport Counter,Debit Card,162,522,On Time,0.0,3,Yes,3.0,18242.95,Neutral
+PNR00108,Vistara,Bangalore,Mumbai,2025-01-24,33.0,Economy,Personal,Mobile App,Debit Card,117,321,On Time,0.0,1,Yes,4.0,7685.2,Satisfied
+PNR00109,SpiceJet,Mumbai,Bangalore,2025-07-20,36.0,Economy,Personal,Travel Agent,UPI,159,984,On Time,0.0,1,No,5.0,34880.85,Satisfied
+PNR00110,Air India,Mumbai,Bangalore,2025-12-14,45.0,Economy,Business,Website,Net Banking,94,744,On Time,0.0,0,No,5.0,30002.97,Satisfied
+PNR00111,SpiceJet,Bangalore,Mumbai,2024-12-29,45.0,Economy,Business,Mobile App,Credit Card,185,831,On Time,0.0,0,Yes,4.0,30886.26,Satisfied
+PNR00112,IndiGo,Bangalore,Mumbai,2024-10-21,23.0,Economy,Personal,Website,Credit Card,229,1054,On Time,0.0,0,No,3.0,27720.01,Neutral
+PNR00113,Air India Express,Mumbai,Hyderabad,2025-06-09,59.0,Economy,Personal,Mobile App,Debit Card,137,301,On Time,0.0,0,Yes,1.0,24035.19,Dissatisfied
+PNR00114,Akasa Air,Mumbai,Delhi,2024-01-28,42.0,Premium Economy,Business,Travel Agent,Net Banking,125,1486,On Time,0.0,2,No,3.0,37464.68,Neutral
+PNR00115,Akasa Air,Kolkata,Delhi,2024-12-26,46.0,Economy,Personal,Travel Agent,Net Banking,60,432,On Time,0.0,3,Yes,5.0,14093.79,Satisfied
+PNR00116,Air India Express,Delhi,Bangalore,2024-06-04,61.0,Economy,Business,Airport Counter,Credit Card,170,919,On Time,0.0,3,Yes,1.0,6468.57,Dissatisfied
+PNR00117,Akasa Air,Delhi,Bangalore,2024-06-09,22.0,Premium Economy,Business,Mobile App,UPI,238,1529,On Time,0.0,1,Yes,5.0,36848.81,Satisfied
+PNR00118,Vistara,Delhi,Mumbai,2025-03-03,40.0,Economy,Business,Travel Agent,Debit Card,97,450,Delayed,17.0,1,Yes,5.0,16921.88,Satisfied
+PNR00119,SpiceJet,Bangalore,Delhi,2024-07-11,64.0,Business,Personal,Mobile App,Credit Card,114,1442,Delayed,56.0,3,No,3.0,58960.5,Neutral
+PNR00120,Akasa Air,Bangalore,Mumbai,2024-01-01,50.0,Premium Economy,Business,Travel Agent,Debit Card,206,1610,On Time,0.0,1,No,1.0,36791.11,Dissatisfied
+PNR00121,Air India,Delhi,Kolkata,2024-06-07,30.0,Premium Economy,Personal,Mobile App,Debit Card,127,1704,Delayed,32.0,2,No,1.0,7688.15,Dissatisfied
+PNR00122,Akasa Air,Mumbai,Hyderabad,2025-12-25,42.0,Economy,Business,Travel Agent,Net Banking,202,1388,On Time,0.0,0,Yes,1.0,16943.63,Dissatisfied
+PNR00123,Akasa Air,Kolkata,Delhi,2025-09-13,28.0,Economy,Business,Airport Counter,Net Banking,133,1261,Delayed,165.0,0,No,1.0,14856.36,Dissatisfied
+PNR00124,IndiGo,Delhi,Bangalore,2024-10-26,32.0,Premium Economy,Personal,Travel Agent,UPI,74,342,On Time,0.0,0,Yes,5.0,38023.19,Satisfied
+PNR00125,Air India,Bangalore,Mumbai,2024-02-20,28.0,Business,Business,Website,Credit Card,74,623,On Time,0.0,0,Yes,3.0,58881.94,Neutral
+PNR00126,Air India Express,Mumbai,Bangalore,2024-05-23,25.0,Premium Economy,Business,Airport Counter,Debit Card,165,1743,On Time,0.0,2,Yes,4.0,10076.1,Satisfied
+PNR00127,SpiceJet,Mumbai,Hyderabad,2025-03-20,59.0,Business,Business,Travel Agent,Credit Card,101,1251,On Time,0.0,0,No,3.0,4651.16,Neutral
+PNR00128,Akasa Air,Bangalore,Delhi,2025-12-26,38.0,Economy,Personal,Mobile App,Credit Card,196,1349,Delayed,161.0,3,No,3.0,27867.08,Neutral
+PNR00129,IndiGo,Hyderabad,Mumbai,2025-09-03,36.0,Premium Economy,Business,Mobile App,Credit Card,119,1490,On Time,0.0,0,Yes,3.0,36901.13,Neutral
+PNR00130,Air India,Mumbai,Hyderabad,2025-10-23,38.0,Economy,Personal,Mobile App,Debit Card,235,1104,On Time,0.0,0,No,1.0,34603.03,Dissatisfied
+PNR00131,Vistara,Mumbai,Hyderabad,2025-10-19,38.0,Economy,Personal,Website,Net Banking,126,1697,On Time,0.0,2,No,2.0,31929.56,Dissatisfied
+PNR00132,SpiceJet,Bangalore,Mumbai,2024-12-18,57.0,Economy,Business,Mobile App,Net Banking,223,372,On Time,0.0,3,Yes,5.0,4772.78,Satisfied
+PNR00133,SpiceJet,Hyderabad,Mumbai,2025-12-12,55.0,Economy,Business,Website,Debit Card,109,366,On Time,0.0,3,No,1.0,34853.12,Dissatisfied
+PNR00134,Akasa Air,Bangalore,Mumbai,2025-10-23,25.0,Business,Business,Travel Agent,Credit Card,103,1765,On Time,0.0,1,Yes,1.0,52575.68,Dissatisfied
+PNR00135,Air India Express,Mumbai,Delhi,2025-10-09,33.0,Economy,Personal,Website,Net Banking,62,536,Delayed,117.0,0,No,5.0,5520.2,Satisfied
+PNR00136,Akasa Air,Delhi,Mumbai,2024-06-09,25.0,Premium Economy,Personal,Website,Credit Card,75,759,On Time,0.0,0,Yes,5.0,16506.55,Satisfied
+PNR00137,Air India,Delhi,Kolkata,2024-06-28,18.0,Business,Business,Travel Agent,UPI,210,1519,Cancelled,,0,Yes,4.0,58939.82,Satisfied
+PNR00138,IndiGo,Bangalore,Delhi,2025-03-04,35.0,Business,Personal,Travel Agent,Net Banking,94,1481,On Time,0.0,1,Yes,5.0,5839.29,Satisfied
+PNR00139,Vistara,Delhi,Mumbai,2025-04-10,52.0,Premium Economy,Business,Airport Counter,Net Banking,79,565,On Time,0.0,0,No,5.0,15383.73,Satisfied
+PNR00140,Vistara,Delhi,Kolkata,2024-01-25,23.0,Economy,Business,Mobile App,UPI,200,1440,Cancelled,,3,No,4.0,12634.02,Satisfied
+PNR00141,Akasa Air,Bangalore,Mumbai,2025-03-22,35.0,Economy,Personal,Travel Agent,UPI,193,971,On Time,0.0,0,No,2.0,9382.05,Dissatisfied
+PNR00142,Akasa Air,Delhi,Mumbai,2024-02-25,48.0,Economy,Personal,Website,UPI,142,1422,On Time,0.0,3,No,4.0,34892.65,Satisfied
+PNR00143,Air India,Delhi,Bangalore,2025-01-14,56.0,Economy,Business,Mobile App,UPI,111,1544,Delayed,71.0,3,Yes,3.0,15959.22,Neutral
+PNR00144,Akasa Air,Mumbai,Hyderabad,2025-08-20,54.0,Economy,Business,Mobile App,Debit Card,192,809,On Time,0.0,1,No,5.0,9494.06,Satisfied
+PNR00145,,Kolkata,Delhi,2024-07-31,62.0,Economy,Business,Website,UPI,141,472,On Time,0.0,3,Yes,5.0,18367.84,Satisfied
+PNR00146,Air India Express,Delhi,Mumbai,2025-08-16,65.0,Economy,Personal,Website,Net Banking,239,1745,Delayed,146.0,0,No,4.0,4983.55,Satisfied
+PNR00147,Air India,Kolkata,Delhi,2024-10-10,57.0,Business,Personal,Mobile App,Net Banking,93,1075,On Time,0.0,0,Yes,4.0,34464.98,Satisfied
+PNR00148,SpiceJet,Hyderabad,Mumbai,2024-07-18,30.0,Premium Economy,Personal,Website,Credit Card,146,342,Cancelled,,0,Yes,4.0,16638.43,Satisfied
+PNR00149,Vistara,Mumbai,Hyderabad,2025-07-16,45.0,Premium Economy,Personal,Website,Debit Card,64,1072,On Time,0.0,3,No,1.0,41063.64,Dissatisfied
+PNR00150,IndiGo,Mumbai,Bangalore,2025-01-16,53.0,Business,Business,Airport Counter,Debit Card,127,468,Delayed,149.0,2,No,5.0,38571.73,Satisfied
+PNR00151,Air India Express,Delhi,Mumbai,2025-06-05,5.0,Business,Business,Mobile App,UPI,74,572,On Time,0.0,1,No,4.0,18580.52,Satisfied
+PNR00152,SpiceJet,Mumbai,Bangalore,2024-04-22,92.0,Premium Economy,Personal,Travel Agent,Credit Card,179,421,On Time,0.0,0,No,5.0,41157.49,Satisfied
+PNR00153,Akasa Air,Hyderabad,Mumbai,2025-10-08,63.0,Economy,Business,Travel Agent,Credit Card,210,535,Delayed,38.0,0,Yes,5.0,24772.19,Satisfied
+PNR00154,Air India Express,Delhi,Mumbai,2025-04-07,48.0,Economy,Business,Travel Agent,Credit Card,210,387,On Time,0.0,2,Yes,5.0,5547.1,Satisfied
+PNR00155,Air India Express,Delhi,Kolkata,2024-04-20,54.0,Economy,Personal,Travel Agent,UPI,195,661,Cancelled,,3,Yes,2.0,23870.71,Dissatisfied
+PNR00156,Air India,Kolkata,Delhi,2024-10-28,38.0,Economy,Personal,Mobile App,Debit Card,214,1389,Delayed,67.0,1,No,1.0,33637.39,Dissatisfied
+PNR00157,Air India,Bangalore,Mumbai,2024-03-10,28.0,Business,Business,Mobile App,Net Banking,115,1534,Delayed,163.0,0,No,5.0,6200.68,Satisfied
+PNR00158,Akasa Air,Bangalore,Mumbai,2024-01-20,62.0,Business,Business,Travel Agent,Credit Card,76,1442,On Time,0.0,2,No,2.0,39563.08,Dissatisfied
+PNR00159,Vistara,Mumbai,Bangalore,2024-07-29,63.0,Economy,Personal,Travel Agent,UPI,209,963,Delayed,28.0,3,Yes,1.0,16605.63,Dissatisfied
+PNR00160,IndiGo,Bangalore,Mumbai,2024-10-29,45.0,Economy,Business,Mobile App,Net Banking,116,1319,Delayed,152.0,1,No,4.0,14974.57,Satisfied
+PNR00161,Air India,Kolkata,Delhi,2025-05-19,33.0,Economy,Business,Website,Debit Card,120,437,On Time,0.0,1,No,5.0,27933.91,Satisfied
+PNR00162,Vistara,Kolkata,Delhi,2024-10-28,52.0,Premium Economy,Business,Travel Agent,Debit Card,213,880,Delayed,109.0,1,No,2.0,38466.22,Dissatisfied
+PNR00163,Air India,Bangalore,Mumbai,2024-06-30,23.0,Economy,Personal,Travel Agent,Net Banking,233,1687,On Time,0.0,3,Yes,4.0,11460.9,Satisfied
+PNR00164,Air India Express,Hyderabad,Mumbai,2025-02-03,27.0,Economy,Business,Airport Counter,UPI,165,504,On Time,0.0,1,No,5.0,19803.67,Satisfied
+PNR00165,Air India,Mumbai,Hyderabad,2025-09-30,23.0,Premium Economy,Personal,Mobile App,UPI,202,971,On Time,0.0,1,Yes,1.0,22284.76,Dissatisfied
+PNR00166,SpiceJet,Delhi,Mumbai,2024-05-10,22.0,Economy,Business,Airport Counter,Net Banking,146,1283,On Time,0.0,0,Yes,5.0,9822.8,Satisfied
+PNR00167,IndiGo,Delhi,Kolkata,2025-08-20,24.0,Business,Business,Mobile App,UPI,92,892,On Time,0.0,1,No,2.0,9280.93,Dissatisfied
+PNR00168,Akasa Air,Delhi,Mumbai,2025-05-31,18.0,Premium Economy,Personal,Mobile App,Net Banking,61,321,On Time,0.0,2,No,4.0,16882.96,Satisfied
+PNR00169,Vistara,Mumbai,Bangalore,2025-01-25,49.0,Economy,Personal,Travel Agent,UPI,80,831,On Time,0.0,0,No,4.0,30793.8,Satisfied
+PNR00170,Vistara,Delhi,Kolkata,2024-02-27,57.0,Economy,Personal,Website,UPI,87,1349,Delayed,106.0,1,No,4.0,17180.15,Satisfied
+PNR00171,Vistara,Delhi,Mumbai,2025-12-09,60.0,Economy,Business,Website,Net Banking,110,1078,Delayed,94.0,3,No,2.0,7633.53,Dissatisfied
+PNR00172,Air India Express,Bangalore,Delhi,2025-01-20,29.0,Business,Personal,Website,Net Banking,66,1147,On Time,0.0,3,Yes,5.0,47359.16,Satisfied
+PNR00173,Vistara,Delhi,Bangalore,2024-12-31,21.0,Economy,Personal,Website,Credit Card,78,843,On Time,0.0,2,Yes,5.0,12997.86,Satisfied
+PNR00174,Air India Express,Bangalore,Delhi,2025-07-24,48.0,Economy,Personal,Airport Counter,Debit Card,187,430,On Time,0.0,2,Yes,5.0,12135.92,Satisfied
+PNR00175,Akasa Air,Delhi,Mumbai,2024-07-29,23.0,Economy,Personal,Mobile App,Credit Card,119,1700,On Time,0.0,1,No,4.0,19576.63,Satisfied
+PNR00176,SpiceJet,Hyderabad,Mumbai,2024-07-08,43.0,Economy,Personal,Travel Agent,Debit Card,220,1280,Delayed,32.0,3,No,1.0,29847.05,Dissatisfied
+PNR00177,Vistara,Mumbai,Bangalore,2025-12-24,50.0,Economy,Business,Website,UPI,184,571,On Time,0.0,0,No,1.0,29703.84,Dissatisfied
+PNR00178,Vistara,Bangalore,Mumbai,2024-05-22,42.0,Premium Economy,Business,Travel Agent,Net Banking,80,526,Delayed,48.0,0,No,5.0,38055.05,Satisfied
+PNR00179,Vistara,Mumbai,Delhi,2024-09-07,23.0,Economy,Business,Mobile App,Net Banking,210,1766,On Time,0.0,1,Yes,3.0,16232.82,Neutral
+PNR00180,Air India,Hyderabad,Mumbai,2024-09-26,41.0,Economy,Personal,Website,UPI,213,913,Delayed,28.0,0,No,5.0,33791.34,Satisfied
+PNR00181,Air India,Mumbai,Hyderabad,2025-02-01,36.0,Economy,Business,Website,Credit Card,179,1233,On Time,0.0,3,Yes,3.0,4912.83,Neutral
+PNR00182,Air India,Delhi,Kolkata,2024-03-08,21.0,Premium Economy,Personal,Airport Counter,UPI,67,813,On Time,0.0,3,Yes,1.0,14126.32,Dissatisfied
+PNR00183,Air India Express,Mumbai,Bangalore,2025-07-29,28.0,Economy,Business,Travel Agent,UPI,109,1792,On Time,0.0,0,Yes,5.0,3560.98,Satisfied
+PNR00184,Vistara,Mumbai,Delhi,2025-12-28,51.0,Economy,Business,Website,Net Banking,124,1331,On Time,0.0,2,No,2.0,7856.8,Dissatisfied
+PNR00185,Akasa Air,Hyderabad,Mumbai,2025-07-03,38.0,Premium Economy,Business,Mobile App,Net Banking,79,804,On Time,0.0,3,No,4.0,40070.71,Satisfied
+PNR00186,IndiGo,Mumbai,Hyderabad,2025-08-06,58.0,Business,Business,Website,Debit Card,146,1585,On Time,0.0,3,Yes,2.0,61334.66,Dissatisfied
+PNR00187,SpiceJet,Mumbai,Delhi,2025-02-27,52.0,Economy,Business,Mobile App,Credit Card,201,1614,On Time,0.0,1,Yes,3.0,29927.55,Neutral
+PNR00188,Air India,Kolkata,Delhi,2024-12-06,56.0,Economy,Business,Airport Counter,Credit Card,236,1003,Delayed,58.0,0,No,5.0,13719.75,Satisfied
+PNR00189,Air India,Mumbai,Hyderabad,2025-12-04,30.0,Economy,Business,Mobile App,Net Banking,70,1206,Delayed,81.0,3,No,5.0,22256.92,Satisfied
+PNR00190,Air India,Kolkata,Delhi,2024-09-06,56.0,Economy,Business,Website,UPI,67,1476,On Time,0.0,3,No,2.0,24121.99,Dissatisfied
+PNR00191,Air India,Bangalore,Mumbai,2025-04-29,35.0,Economy,Personal,Mobile App,UPI,206,711,On Time,0.0,2,Yes,5.0,24556.77,Satisfied
+PNR00192,IndiGo,Mumbai,Bangalore,2024-09-22,28.0,Economy,Business,Website,UPI,201,509,Delayed,164.0,0,No,3.0,19853.94,Neutral
+PNR00193,IndiGo,Mumbai,Delhi,2024-09-24,58.0,Economy,Personal,Website,Credit Card,222,534,Delayed,136.0,2,No,1.0,4690.0,Dissatisfied
+PNR00194,SpiceJet,Bangalore,Delhi,2025-10-19,60.0,Economy,Business,Airport Counter,Debit Card,223,910,On Time,0.0,1,Yes,3.0,30370.78,Neutral
+PNR00195,Air India,Mumbai,Hyderabad,2024-03-15,57.0,Economy,Personal,Travel Agent,Credit Card,107,971,On Time,0.0,1,Yes,5.0,23486.57,Satisfied
+PNR00196,SpiceJet,Hyderabad,Mumbai,2024-07-11,18.0,Economy,Business,Mobile App,UPI,106,1471,On Time,0.0,2,No,3.0,12614.57,Neutral
+PNR00197,Akasa Air,Delhi,Bangalore,2025-11-18,25.0,Business,Business,Travel Agent,Credit Card,175,1763,Cancelled,,1,Yes,3.0,35616.89,Neutral
+PNR00198,SpiceJet,Bangalore,Mumbai,2024-06-03,43.0,Economy,Business,Website,UPI,233,662,On Time,0.0,0,Yes,5.0,29653.11,Satisfied
+PNR00199,SpiceJet,Kolkata,Delhi,2024-02-04,54.0,Economy,Personal,Airport Counter,Credit Card,146,945,On Time,0.0,1,Yes,5.0,34049.12,Satisfied
+PNR00200,Akasa Air,Bangalore,Mumbai,2024-06-13,22.0,Economy,Business,Travel Agent,UPI,108,973,On Time,0.0,3,No,2.0,4373.55,Dissatisfied
+PNR00201,Akasa Air,Delhi,Bangalore,2024-05-18,61.0,Economy,Personal,Website,UPI,162,1135,On Time,0.0,1,No,3.0,27927.62,Neutral
+PNR00202,Vistara,Delhi,Mumbai,2024-08-01,57.0,Economy,Personal,Website,Credit Card,211,1061,On Time,0.0,3,No,3.0,32057.27,Neutral
+PNR00203,Vistara,Bangalore,Delhi,2025-07-12,62.0,Economy,Personal,Website,Credit Card,199,545,On Time,0.0,0,No,4.0,34012.25,Satisfied
+PNR00204,Vistara,Mumbai,Bangalore,2024-10-30,43.0,Business,Personal,Mobile App,Debit Card,167,1119,On Time,0.0,1,No,3.0,34409.61,Neutral
+PNR00205,Air India,Mumbai,Bangalore,2025-11-21,34.0,Premium Economy,Personal,Mobile App,Credit Card,141,903,On Time,0.0,2,Yes,4.0,3123.55,Satisfied
+PNR00206,Air India,Mumbai,Delhi,2024-05-26,50.0,Economy,Business,Mobile App,UPI,122,1646,Delayed,123.0,3,No,3.0,30841.57,Neutral
+PNR00207,IndiGo,Kolkata,Delhi,2024-07-22,38.0,Economy,Personal,Airport Counter,Debit Card,228,995,On Time,0.0,0,Yes,3.0,26480.76,Neutral
+PNR00208,Air India,Delhi,Bangalore,2025-07-02,18.0,Premium Economy,Personal,Travel Agent,Net Banking,200,947,Delayed,113.0,2,No,4.0,18877.15,Satisfied
+PNR00209,Akasa Air,Mumbai,Bangalore,2024-07-06,25.0,Economy,Business,Airport Counter,Debit Card,232,1613,On Time,0.0,2,No,4.0,25480.31,Satisfied
+PNR00210,Air India Express,Delhi,Mumbai,2025-04-18,19.0,Economy,Business,Website,Net Banking,72,483,On Time,0.0,3,Yes,3.0,3215.87,Neutral
+PNR00211,SpiceJet,Mumbai,Hyderabad,2024-08-20,18.0,Economy,Business,Mobile App,Credit Card,217,736,On Time,0.0,0,No,2.0,21540.61,Dissatisfied
+PNR00212,Akasa Air,Bangalore,Mumbai,2024-06-08,37.0,Economy,Business,Website,UPI,173,1337,On Time,0.0,2,Yes,3.0,27698.75,Neutral
+PNR00213,IndiGo,Mumbai,Hyderabad,2024-10-16,48.0,Premium Economy,Business,Mobile App,Credit Card,141,653,On Time,0.0,1,No,2.0,13770.61,Dissatisfied
+PNR00214,Akasa Air,Mumbai,Delhi,2024-03-28,40.0,Economy,Personal,Website,UPI,109,689,Delayed,116.0,2,No,2.0,12683.81,Dissatisfied
+PNR00215,Air India Express,Delhi,Mumbai,2024-05-20,32.0,Economy,Personal,Travel Agent,Credit Card,142,476,On Time,0.0,1,No,4.0,23063.14,Satisfied
+PNR00216,IndiGo,Mumbai,Hyderabad,2024-08-22,38.0,Business,Personal,Airport Counter,UPI,72,1424,Delayed,30.0,3,No,4.0,62968.78,Satisfied
+PNR00217,Air India,Delhi,Bangalore,2025-06-23,65.0,Economy,Business,Mobile App,Net Banking,100,1678,On Time,0.0,2,No,2.0,20442.25,Dissatisfied
+PNR00218,Air India Express,Delhi,Mumbai,2025-10-10,33.0,Economy,Personal,Website,Credit Card,132,1489,Delayed,171.0,0,Yes,4.0,26504.42,Satisfied
+PNR00219,Air India Express,Bangalore,Delhi,2024-05-28,61.0,Economy,Personal,Website,UPI,87,787,On Time,0.0,0,No,2.0,20173.69,Dissatisfied
+PNR00220,SpiceJet,Kolkata,Delhi,2025-06-08,63.0,Economy,Business,Website,Debit Card,224,1425,On Time,0.0,2,Yes,1.0,31947.14,Dissatisfied
+PNR00221,Air India Express,Hyderabad,Mumbai,2024-06-19,46.0,Economy,Business,Travel Agent,UPI,212,1039,Delayed,113.0,3,No,3.0,-500.0,Neutral
+PNR00222,IndiGo,Delhi,Kolkata,2025-02-24,51.0,Economy,Business,Travel Agent,Debit Card,193,1714,On Time,0.0,0,Yes,3.0,0.0,Neutral
+PNR00223,SpiceJet,Mumbai,Hyderabad,2025-09-14,53.0,Economy,Personal,Mobile App,Net Banking,110,756,On Time,0.0,1,Yes,3.0,25579.4,Neutral
+PNR00224,SpiceJet,Delhi,Mumbai,2025-02-15,51.0,Economy,Business,Airport Counter,Credit Card,138,1447,On Time,0.0,3,No,2.0,23449.21,Dissatisfied
+PNR00225,Air India Express,Bangalore,Delhi,2025-06-12,58.0,Economy,Business,Mobile App,Debit Card,118,1413,On Time,0.0,2,Yes,5.0,19636.12,Satisfied
+PNR00226,Air India Express,Mumbai,Delhi,2025-07-17,64.0,Premium Economy,Business,Website,Debit Card,161,515,On Time,0.0,0,No,4.0,27605.95,Satisfied
+PNR00227,Vistara,Hyderabad,Mumbai,2025-02-25,50.0,Economy,Personal,Airport Counter,Debit Card,214,314,On Time,0.0,1,No,2.0,8360.01,Dissatisfied
+PNR00228,Akasa Air,Mumbai,Bangalore,2025-06-01,47.0,Economy,Business,Travel Agent,Net Banking,152,819,Cancelled,,1,No,4.0,23921.2,Satisfied
+PNR00229,Air India,Bangalore,Mumbai,2024-09-08,52.0,Premium Economy,Personal,Mobile App,UPI,107,995,On Time,0.0,1,No,2.0,41265.94,Dissatisfied
+PNR00230,Air India Express,Mumbai,Bangalore,2025-07-24,46.0,Premium Economy,Business,Airport Counter,Debit Card,184,1677,Delayed,150.0,1,No,4.0,12646.27,Satisfied
+PNR00231,Air India,Mumbai,Hyderabad,2024-07-05,34.0,Premium Economy,Business,Website,Debit Card,143,1053,Delayed,165.0,1,No,5.0,11660.96,Satisfied
+PNR00232,Air India Express,Hyderabad,Mumbai,2025-07-20,19.0,Economy,Business,Mobile App,Credit Card,235,1089,On Time,0.0,3,Yes,3.0,33532.53,Neutral
+PNR00233,Air India,Delhi,Kolkata,2024-11-22,46.0,Economy,Business,Website,UPI,126,1279,On Time,0.0,1,No,5.0,10657.54,Satisfied
+PNR00234,Air India Express,Delhi,Bangalore,2024-03-22,44.0,Economy,Business,Airport Counter,Net Banking,127,1260,On Time,0.0,2,Yes,1.0,9932.57,Dissatisfied
+PNR00235,Air India,Mumbai,Delhi,2024-12-19,39.0,Economy,Personal,Mobile App,Credit Card,228,1032,On Time,0.0,1,No,5.0,13974.14,Satisfied
+PNR00236,IndiGo,Hyderabad,Mumbai,2025-02-08,22.0,Economy,Business,Website,Credit Card,191,1090,On Time,0.0,3,Yes,4.0,23171.38,Satisfied
+PNR00237,Vistara,Bangalore,Mumbai,2025-02-24,32.0,Economy,Personal,Website,Net Banking,188,1006,On Time,0.0,3,Yes,4.0,7426.84,Satisfied
+PNR00238,Air India,Mumbai,Delhi,2024-06-29,40.0,Business,Business,Mobile App,Credit Card,175,578,On Time,0.0,0,Yes,5.0,46803.0,Satisfied
+PNR00239,Akasa Air,Delhi,Bangalore,2025-05-29,37.0,Premium Economy,Personal,Website,UPI,187,641,On Time,0.0,0,No,2.0,14814.31,Dissatisfied
+PNR00240,Akasa Air,Delhi,Bangalore,2024-04-21,42.0,Economy,Business,Airport Counter,Net Banking,214,505,Cancelled,,3,No,5.0,7362.05,Satisfied
+PNR00241,Vistara,Mumbai,Hyderabad,2024-07-20,48.0,Economy,Business,Website,Net Banking,91,742,On Time,0.0,0,Yes,4.0,23045.18,Satisfied
+PNR00242,Vistara,Delhi,Bangalore,2024-04-11,54.0,Economy,Business,Airport Counter,Net Banking,124,1514,On Time,0.0,2,No,3.0,28614.34,Neutral
+PNR00243,IndiGo,Mumbai,Hyderabad,2025-02-21,34.0,Economy,Business,Travel Agent,Credit Card,228,776,Delayed,72.0,0,No,5.0,33280.45,Satisfied
+PNR00244,Air India,Mumbai,Delhi,2025-04-18,20.0,Premium Economy,Personal,Mobile App,UPI,74,1423,Delayed,172.0,3,No,1.0,40840.03,Dissatisfied
+PNR00245,SpiceJet,Mumbai,Hyderabad,2025-12-28,21.0,Premium Economy,Business,Airport Counter,UPI,118,1224,On Time,0.0,0,No,5.0,40499.02,Satisfied
+PNR00246,Akasa Air,Mumbai,Bangalore,2025-12-16,,Business,Personal,Travel Agent,Net Banking,139,1190,On Time,0.0,3,No,1.0,51105.86,Dissatisfied
+PNR00247,Akasa Air,Hyderabad,Mumbai,2025-09-17,20.0,Business,Business,Travel Agent,Net Banking,75,1314,On Time,0.0,3,Yes,3.0,15698.52,Neutral
+PNR00248,Air India Express,Mumbai,Delhi,2024-04-06,23.0,Business,Personal,Website,Credit Card,64,868,On Time,0.0,3,Yes,5.0,8718.5,Satisfied
+PNR00249,Akasa Air,Mumbai,Hyderabad,2024-10-15,21.0,Premium Economy,Personal,Website,UPI,200,1407,Delayed,157.0,0,Yes,2.0,38674.51,Dissatisfied
+PNR00250,IndiGo,Kolkata,Delhi,2024-11-17,34.0,Business,Personal,Website,Net Banking,65,1648,On Time,0.0,2,No,3.0,39920.74,Neutral
+PNR00251,IndiGo,Delhi,Kolkata,2024-07-26,52.0,Premium Economy,Business,Mobile App,UPI,61,885,On Time,0.0,1,Yes,1.0,6590.61,Dissatisfied
+PNR00252,Air India Express,Mumbai,Bangalore,2025-04-27,37.0,Economy,Personal,Mobile App,UPI,170,1737,On Time,0.0,0,No,1.0,19587.08,Dissatisfied
+PNR00253,Vistara,Delhi,Mumbai,2025-03-27,46.0,Economy,Business,Airport Counter,Debit Card,124,894,Delayed,158.0,2,No,4.0,25287.04,Satisfied
+PNR00254,Air India,Mumbai,Delhi,2024-03-08,62.0,Economy,Personal,Website,Credit Card,66,1116,Delayed,115.0,3,No,1.0,18686.31,Dissatisfied
+PNR00255,Vistara,Bangalore,Delhi,2025-05-21,52.0,Premium Economy,Personal,Travel Agent,UPI,144,1450,Delayed,163.0,2,No,1.0,24328.16,Dissatisfied
+PNR00256,Air India,Kolkata,Delhi,2025-05-07,37.0,Economy,Personal,Travel Agent,UPI,227,338,On Time,0.0,0,Yes,5.0,5007.22,Satisfied
+PNR00257,IndiGo,Hyderabad,Mumbai,2024-03-01,28.0,Economy,Personal,Mobile App,Debit Card,237,1262,Cancelled,,1,No,3.0,18538.78,Neutral
+PNR00258,SpiceJet,Hyderabad,Mumbai,2025-01-21,63.0,Economy,Personal,Website,Debit Card,161,1132,On Time,0.0,0,Yes,3.0,19995.79,Neutral
+PNR00259,Air India,Mumbai,Delhi,2025-10-10,54.0,Premium Economy,Business,Airport Counter,UPI,141,867,Delayed,177.0,3,No,3.0,39514.94,Neutral
+PNR00260,Air India Express,Delhi,Mumbai,2024-03-03,51.0,Economy,Business,Website,Net Banking,209,811,On Time,0.0,2,No,4.0,9325.95,Satisfied
+PNR00261,Air India,Mumbai,Hyderabad,2024-04-30,20.0,Economy,Business,Travel Agent,Net Banking,188,1361,On Time,0.0,2,No,4.0,17001.54,Satisfied
+PNR00262,Air India Express,Delhi,Bangalore,2024-07-14,18.0,Economy,Personal,Website,Credit Card,199,1767,On Time,0.0,3,No,5.0,12503.36,Satisfied
+PNR00263,SpiceJet,Bangalore,Mumbai,2024-06-25,63.0,Business,Personal,Website,Credit Card,165,613,On Time,0.0,0,No,1.0,54740.78,Dissatisfied
+PNR00264,IndiGo,Mumbai,Hyderabad,2024-03-16,34.0,Economy,Business,Mobile App,UPI,217,1124,On Time,0.0,1,Yes,5.0,7871.75,Satisfied
+PNR00265,SpiceJet,Delhi,Mumbai,2025-10-07,54.0,Economy,Business,Website,Debit Card,167,1341,On Time,0.0,1,No,2.0,14013.82,Dissatisfied
+PNR00266,Air India Express,Mumbai,Bangalore,2025-11-04,53.0,Economy,Business,Mobile App,UPI,87,1334,On Time,0.0,1,No,3.0,20598.55,Neutral
+PNR00267,Air India,Mumbai,Delhi,2024-07-13,36.0,Premium Economy,Business,Website,Credit Card,133,474,Delayed,171.0,0,No,5.0,30168.46,Satisfied
+PNR00268,SpiceJet,Mumbai,Hyderabad,2024-10-08,41.0,Economy,Personal,Travel Agent,Debit Card,76,370,On Time,0.0,0,No,1.0,30362.54,Dissatisfied
+PNR00269,Vistara,Mumbai,Bangalore,2025-06-24,32.0,Premium Economy,Personal,Travel Agent,Credit Card,176,715,On Time,0.0,0,No,1.0,21918.69,Dissatisfied
+PNR00270,Vistara,Bangalore,Delhi,2024-07-17,58.0,Premium Economy,Business,Mobile App,UPI,216,638,On Time,0.0,1,No,2.0,38169.19,Dissatisfied
+PNR00271,IndiGo,Hyderabad,Mumbai,2025-06-01,39.0,Premium Economy,Business,Airport Counter,Debit Card,163,591,On Time,0.0,0,No,4.0,41890.11,Satisfied
+PNR00272,Vistara,Kolkata,Delhi,2024-11-18,46.0,Economy,Business,Website,Debit Card,142,302,On Time,0.0,3,No,2.0,13873.21,Dissatisfied
+PNR00273,Vistara,Delhi,Mumbai,2024-12-13,26.0,Economy,Business,Website,Net Banking,218,1447,Delayed,67.0,0,No,2.0,27151.31,Dissatisfied
+PNR00274,Vistara,Delhi,Bangalore,2025-12-04,36.0,Economy,Business,Airport Counter,Credit Card,103,870,On Time,0.0,3,No,3.0,16577.8,Neutral
+PNR00275,IndiGo,Bangalore,Mumbai,2025-04-29,59.0,Economy,Business,Travel Agent,Net Banking,121,1237,On Time,0.0,2,Yes,5.0,9484.66,Satisfied
+PNR00276,Akasa Air,Kolkata,Delhi,2025-01-29,61.0,Economy,Business,Mobile App,UPI,139,892,On Time,0.0,3,Yes,1.0,11082.01,Dissatisfied
+PNR00277,Akasa Air,Mumbai,Bangalore,2024-03-01,47.0,Economy,Business,Travel Agent,Credit Card,188,1289,On Time,0.0,2,Yes,5.0,28985.54,Satisfied
+PNR00278,Air India Express,Mumbai,Hyderabad,2024-12-05,23.0,Economy,Business,Website,UPI,160,639,On Time,0.0,0,No,3.0,29290.62,Neutral
+PNR00279,Air India Express,Hyderabad,Mumbai,2025-11-20,63.0,Economy,Business,Mobile App,UPI,235,1201,Delayed,113.0,0,No,2.0,26810.15,Dissatisfied
+PNR00280,Air India,Bangalore,Delhi,2025-11-18,55.0,Business,Personal,Travel Agent,Credit Card,86,1599,Delayed,118.0,2,Yes,5.0,23109.11,Satisfied
+PNR00281,Vistara,Bangalore,Mumbai,2025-11-29,28.0,Economy,Business,Website,Credit Card,208,798,On Time,0.0,1,Yes,2.0,25450.15,Dissatisfied
+PNR00282,Air India Express,Mumbai,Hyderabad,2024-08-22,32.0,Economy,Personal,Mobile App,Credit Card,158,814,On Time,0.0,0,No,3.0,24474.08,Neutral
+PNR00283,SpiceJet,Delhi,Kolkata,2024-02-17,37.0,Business,Business,Mobile App,UPI,146,950,On Time,0.0,0,No,4.0,54871.15,Satisfied
+PNR00284,IndiGo,Bangalore,Mumbai,2024-01-14,55.0,Premium Economy,Personal,Mobile App,UPI,91,488,Delayed,142.0,2,No,1.0,28296.92,Dissatisfied
+PNR00285,IndiGo,Bangalore,Delhi,2024-03-04,36.0,Economy,Business,Website,Debit Card,130,1583,On Time,0.0,0,No,2.0,3122.21,Dissatisfied
+PNR00286,Air India,Mumbai,Hyderabad,2024-07-25,60.0,Premium Economy,Personal,Mobile App,Net Banking,71,1619,Cancelled,,0,Yes,5.0,35517.89,Satisfied
+PNR00287,IndiGo,Bangalore,Mumbai,2025-08-09,43.0,Premium Economy,Business,Website,Credit Card,167,1473,On Time,0.0,3,Yes,3.0,11238.04,Neutral
+PNR00288,SpiceJet,Hyderabad,Mumbai,2024-06-03,65.0,Premium Economy,Personal,Website,Debit Card,147,1579,On Time,0.0,2,No,5.0,5433.37,Satisfied
+PNR00289,Air India Express,Mumbai,Hyderabad,2024-03-04,29.0,Economy,Personal,Travel Agent,UPI,101,1673,On Time,0.0,1,No,2.0,11228.27,Dissatisfied
+PNR00290,IndiGo,Bangalore,Mumbai,2025-04-29,32.0,Economy,Business,Travel Agent,Debit Card,143,883,On Time,0.0,0,Yes,4.0,29365.1,Satisfied
+PNR00291,Air India Express,Mumbai,Delhi,2025-09-28,53.0,Economy,Personal,Website,Net Banking,72,335,On Time,0.0,3,Yes,2.0,29452.71,Dissatisfied
+PNR00292,Vistara,Delhi,Bangalore,2024-09-22,55.0,Economy,Personal,Website,Debit Card,227,1451,Delayed,74.0,2,No,2.0,29227.39,Dissatisfied
+PNR00293,IndiGo,Delhi,Bangalore,2024-03-29,51.0,Premium Economy,Personal,Airport Counter,UPI,235,829,On Time,0.0,2,No,1.0,32841.25,Dissatisfied
+PNR00294,Air India Express,Kolkata,Delhi,2024-03-22,44.0,Economy,Business,Travel Agent,UPI,136,500,On Time,0.0,3,Yes,4.0,16024.72,Satisfied
+PNR00295,Akasa Air,Hyderabad,Mumbai,2024-08-16,30.0,Premium Economy,Business,Airport Counter,Debit Card,193,1278,On Time,0.0,2,No,5.0,28805.02,Satisfied
+PNR00296,Akasa Air,Bangalore,Delhi,2024-02-22,45.0,Economy,Personal,Mobile App,Debit Card,215,1560,Cancelled,,3,Yes,3.0,33014.09,Neutral
+PNR00297,Vistara,Mumbai,Delhi,2024-12-14,48.0,Premium Economy,Business,Website,Debit Card,128,607,On Time,0.0,2,Yes,5.0,27315.64,Satisfied
+PNR00298,IndiGo,Delhi,Mumbai,2025-05-14,37.0,Economy,Business,Website,Debit Card,140,1231,On Time,0.0,2,Yes,3.0,10239.77,Neutral
+PNR00299,Vistara,Mumbai,Hyderabad,2025-05-11,54.0,Premium Economy,Personal,Travel Agent,UPI,215,1796,On Time,0.0,2,No,2.0,18516.76,Dissatisfied
+PNR00300,Akasa Air,Delhi,Mumbai,2024-06-19,30.0,Economy,Personal,Website,UPI,153,960,Delayed,117.0,2,Yes,4.0,11550.3,Satisfied
+PNR00301,Air India,Bangalore,Mumbai,2025-11-24,26.0,Premium Economy,Personal,Website,Net Banking,170,1324,On Time,0.0,0,No,1.0,26724.46,Dissatisfied
+PNR00302,Vistara,Mumbai,Delhi,2024-08-19,60.0,Premium Economy,Business,Travel Agent,Net Banking,101,1182,On Time,0.0,0,No,2.0,15403.93,Dissatisfied
+PNR00303,SpiceJet,Mumbai,Bangalore,2024-08-20,25.0,Economy,Business,Website,Debit Card,236,526,On Time,0.0,2,No,3.0,,Neutral
+PNR00304,Vistara,Hyderabad,Mumbai,2024-01-28,55.0,Economy,Business,Mobile App,Credit Card,97,1442,On Time,0.0,1,No,2.0,25771.62,Dissatisfied
+PNR00305,Air India,Bangalore,Mumbai,2024-03-23,63.0,Economy,Business,Travel Agent,UPI,158,1095,Cancelled,,3,Yes,4.0,8950.96,Satisfied
+PNR00306,Vistara,Delhi,Kolkata,2024-07-02,64.0,Economy,Personal,Mobile App,Debit Card,135,1610,On Time,0.0,3,No,2.0,31904.91,Dissatisfied
+PNR00307,Air India Express,Hyderabad,Mumbai,2024-07-29,27.0,Premium Economy,Personal,Website,UPI,126,451,On Time,0.0,0,No,2.0,30967.7,Dissatisfied
+PNR00308,IndiGo,Bangalore,Mumbai,2025-04-15,29.0,Economy,Business,Mobile App,Debit Card,191,386,On Time,0.0,1,No,4.0,29505.85,Satisfied
+PNR00309,Akasa Air,Delhi,Bangalore,2024-10-20,50.0,Economy,Personal,Mobile App,Net Banking,202,549,On Time,0.0,0,Yes,3.0,13678.62,Neutral
+PNR00310,Air India Express,Delhi,Mumbai,2025-12-26,38.0,Business,Business,Website,Credit Card,163,491,On Time,0.0,2,No,5.0,10276.13,Satisfied
+PNR00311,SpiceJet,Mumbai,Hyderabad,2024-02-25,54.0,Economy,Personal,Travel Agent,Net Banking,161,1520,On Time,0.0,2,No,4.0,30876.04,Satisfied
+PNR00312,SpiceJet,Hyderabad,Mumbai,2025-08-28,45.0,Economy,Business,Website,Net Banking,162,997,On Time,0.0,0,No,5.0,22454.03,Satisfied
+PNR00313,Air India,Delhi,Kolkata,2025-11-24,59.0,Premium Economy,Business,Airport Counter,Net Banking,229,704,On Time,0.0,2,Yes,2.0,9085.4,Dissatisfied
+PNR00314,Akasa Air,Mumbai,Delhi,2025-08-12,65.0,Economy,Business,Website,UPI,232,1073,Delayed,36.0,0,No,5.0,9138.02,Satisfied
+PNR00315,Air India Express,Bangalore,Delhi,2025-07-23,22.0,Economy,Business,Mobile App,Net Banking,108,706,On Time,0.0,2,No,2.0,13293.57,Dissatisfied
+PNR00316,Air India,Mumbai,Hyderabad,2025-02-02,61.0,Business,Personal,Website,UPI,78,874,On Time,0.0,2,Yes,4.0,52158.25,Satisfied
+PNR00317,SpiceJet,Mumbai,Delhi,2024-12-28,24.0,Economy,Personal,Mobile App,Net Banking,109,1388,On Time,0.0,3,Yes,4.0,20580.66,Satisfied
+PNR00318,Air India Express,Bangalore,Mumbai,2024-10-10,62.0,Premium Economy,Business,Website,UPI,155,536,Delayed,54.0,1,No,4.0,38740.4,Satisfied
+PNR00319,IndiGo,Delhi,Kolkata,2025-04-02,33.0,Premium Economy,Business,Travel Agent,UPI,205,1181,Delayed,160.0,0,Yes,2.0,12248.63,Dissatisfied
+PNR00320,Air India Express,Bangalore,Mumbai,2024-01-06,46.0,Economy,Business,Website,Debit Card,91,1469,On Time,0.0,3,No,3.0,29425.86,Neutral
+PNR00321,Vistara,Mumbai,Delhi,2025-01-22,49.0,Economy,Personal,Travel Agent,UPI,140,1108,Delayed,159.0,3,No,5.0,34685.8,Satisfied
+PNR00322,Vistara,Delhi,Kolkata,2025-08-21,29.0,Economy,Business,Website,Debit Card,73,524,On Time,0.0,2,Yes,4.0,20259.9,Satisfied
+PNR00323,Akasa Air,Delhi,Kolkata,2024-08-24,45.0,Premium Economy,Personal,Website,Debit Card,171,794,On Time,0.0,2,Yes,3.0,26495.53,Neutral
+PNR00324,IndiGo,Kolkata,Delhi,2025-04-03,52.0,Business,Business,Website,Debit Card,70,704,Delayed,85.0,0,Yes,3.0,6804.42,Neutral
+PNR00325,Air India,Mumbai,Bangalore,2025-04-27,35.0,Economy,Personal,Website,Net Banking,149,955,On Time,0.0,3,Yes,2.0,4511.29,Dissatisfied
+PNR00326,Vistara,Hyderabad,Mumbai,2025-12-03,24.0,Economy,Business,Travel Agent,Credit Card,170,874,On Time,0.0,0,Yes,5.0,5346.72,Satisfied
+PNR00327,IndiGo,Bangalore,Mumbai,2025-09-21,45.0,Business,Business,Website,Debit Card,152,1498,On Time,0.0,3,No,5.0,47060.46,Satisfied
+PNR00328,Air India Express,Bangalore,Mumbai,2025-04-05,36.0,Premium Economy,Personal,Website,Net Banking,165,1344,Delayed,72.0,3,Yes,2.0,5210.54,Dissatisfied
+PNR00329,Air India Express,Mumbai,Bangalore,2024-02-03,40.0,Economy,Business,Airport Counter,Net Banking,200,1750,On Time,0.0,0,Yes,3.0,23563.41,Neutral
+PNR00330,Air India Express,Delhi,Kolkata,2024-01-09,37.0,Economy,Business,Travel Agent,UPI,91,687,On Time,0.0,1,Yes,4.0,5139.96,Satisfied
+PNR00331,IndiGo,Delhi,Kolkata,2025-08-29,59.0,Business,Personal,Travel Agent,Credit Card,-40,879,On Time,0.0,2,Yes,5.0,49428.32,Satisfied
+PNR00332,Vistara,Bangalore,Mumbai,2024-05-09,27.0,Economy,Business,Mobile App,Net Banking,119,443,Delayed,128.0,0,No,2.0,19517.02,Dissatisfied
+PNR00333,Air India Express,Mumbai,Delhi,2024-12-13,50.0,Economy,Personal,Website,Net Banking,124,858,On Time,0.0,2,Yes,2.0,24399.76,Dissatisfied
+PNR00334,SpiceJet,Mumbai,Bangalore,2024-07-13,29.0,Business,Personal,Website,Debit Card,86,1180,On Time,0.0,1,Yes,5.0,31647.9,Satisfied
+PNR00335,IndiGo,Hyderabad,Mumbai,2024-12-26,50.0,Economy,Personal,Website,Credit Card,177,853,Delayed,116.0,2,No,2.0,8462.2,Dissatisfied
+PNR00336,Air India,Delhi,Mumbai,2025-02-27,29.0,Economy,Personal,Travel Agent,Net Banking,132,887,On Time,0.0,3,No,3.0,20314.72,Neutral
+PNR00337,Akasa Air,Delhi,Mumbai,2025-07-22,48.0,Economy,Personal,Mobile App,Credit Card,137,1517,On Time,0.0,0,Yes,5.0,22029.64,Satisfied
+PNR00338,Akasa Air,Delhi,Mumbai,2024-05-29,29.0,Premium Economy,Personal,Airport Counter,Net Banking,95,1743,Delayed,170.0,0,No,2.0,25666.62,Dissatisfied
+PNR00339,SpiceJet,Delhi,Bangalore,2025-10-22,21.0,Economy,Business,Travel Agent,Credit Card,163,1785,On Time,0.0,1,Yes,4.0,32538.26,Satisfied
+PNR00340,Akasa Air,Delhi,Mumbai,2024-04-18,22.0,Economy,Business,Website,UPI,86,671,On Time,0.0,2,Yes,4.0,10770.64,Satisfied
+PNR00341,Akasa Air,Mumbai,Hyderabad,2024-09-07,49.0,Economy,Personal,Mobile App,Debit Card,94,1524,On Time,0.0,3,Yes,1.0,12734.85,Dissatisfied
+PNR00342,Vistara,Mumbai,Hyderabad,2025-07-19,64.0,Business,Personal,Mobile App,Credit Card,147,353,On Time,0.0,0,Yes,1.0,33108.59,Dissatisfied
+PNR00343,Air India Express,Bangalore,Delhi,2024-01-29,25.0,Economy,Personal,Travel Agent,Net Banking,171,1246,On Time,0.0,0,Yes,4.0,16342.98,Satisfied
+PNR00344,Vistara,Bangalore,Delhi,2025-11-15,44.0,Premium Economy,Personal,Website,UPI,230,952,On Time,0.0,1,Yes,4.0,24490.99,Satisfied
+PNR00345,IndiGo,Mumbai,Bangalore,2024-10-25,43.0,Premium Economy,Personal,Travel Agent,UPI,136,1223,On Time,0.0,2,Yes,3.0,27873.19,Neutral
+PNR00346,Vistara,Bangalore,Delhi,2025-03-02,51.0,Economy,Personal,Travel Agent,Net Banking,78,1771,Delayed,81.0,2,Yes,3.0,32001.4,Neutral
+PNR00347,Air India Express,Delhi,Kolkata,2025-10-27,29.0,Economy,Personal,Website,Net Banking,161,951,Delayed,22.0,0,No,1.0,33912.79,Dissatisfied
+PNR00348,Air India Express,Mumbai,Delhi,2024-12-31,24.0,Economy,Personal,Travel Agent,Debit Card,181,822,On Time,0.0,2,Yes,1.0,4516.19,Dissatisfied
+PNR00349,Vistara,Mumbai,Delhi,2024-11-29,53.0,Economy,Business,Website,Net Banking,94,1097,On Time,0.0,2,No,1.0,15981.83,Dissatisfied
+PNR00350,IndiGo,Delhi,Bangalore,2024-11-15,55.0,Business,Personal,Airport Counter,Credit Card,146,516,On Time,0.0,0,No,5.0,11005.71,Satisfied
+PNR00351,Vistara,Bangalore,Mumbai,2025-05-27,50.0,Economy,Personal,Website,UPI,221,1212,On Time,0.0,0,Yes,5.0,10763.49,Satisfied
+PNR00352,Air India Express,Delhi,Mumbai,2024-10-09,60.0,Economy,Business,Website,UPI,91,676,Delayed,40.0,3,No,2.0,17772.25,Dissatisfied
+PNR00353,Air India,Bangalore,Mumbai,2025-10-31,47.0,Premium Economy,Personal,Mobile App,Debit Card,81,1526,On Time,0.0,2,No,2.0,41522.23,Dissatisfied
+PNR00354,IndiGo,Bangalore,Delhi,2024-02-13,23.0,Economy,Business,Airport Counter,Debit Card,211,897,On Time,0.0,0,Yes,4.0,33392.32,Satisfied
+PNR00355,Vistara,Mumbai,Hyderabad,2024-09-02,26.0,Premium Economy,Business,Website,UPI,208,1143,On Time,0.0,2,Yes,2.0,26378.98,Dissatisfied
+PNR00356,Vistara,Delhi,Mumbai,2025-02-25,61.0,Economy,Business,Travel Agent,Net Banking,224,1509,On Time,0.0,3,Yes,5.0,4713.54,Satisfied
+PNR00357,IndiGo,Bangalore,Delhi,2024-01-25,59.0,Business,Business,Mobile App,UPI,144,443,On Time,0.0,0,Yes,5.0,39855.02,Satisfied
+PNR00358,IndiGo,Delhi,Bangalore,2025-03-18,49.0,Premium Economy,Business,Mobile App,UPI,133,1574,On Time,0.0,1,Yes,3.0,4994.86,Neutral
+PNR00359,Akasa Air,Mumbai,Bangalore,2025-06-03,20.0,Economy,Business,Website,Net Banking,181,639,On Time,0.0,0,No,1.0,20630.89,Dissatisfied
+PNR00360,SpiceJet,Delhi,Bangalore,2024-01-15,24.0,Economy,Business,Mobile App,Credit Card,130,525,On Time,0.0,3,No,1.0,5008.59,Dissatisfied
+PNR00361,Air India Express,Delhi,Kolkata,2025-11-30,34.0,Premium Economy,Business,Website,Debit Card,213,1691,On Time,0.0,2,Yes,5.0,6554.48,Satisfied
+PNR00362,Air India Express,Delhi,Mumbai,2024-06-27,45.0,Premium Economy,Business,Travel Agent,Net Banking,115,1478,On Time,0.0,1,No,3.0,40744.31,Neutral
+PNR00363,Akasa Air,Hyderabad,Mumbai,2025-05-01,65.0,Economy,Business,Website,UPI,153,728,On Time,0.0,1,No,2.0,13289.56,Dissatisfied
+PNR00364,Air India Express,Delhi,Mumbai,2025-03-14,64.0,Economy,Personal,Airport Counter,Credit Card,206,334,On Time,0.0,0,No,3.0,34292.17,Neutral
+PNR00365,Akasa Air,Mumbai,Bangalore,2024-03-16,35.0,Economy,Business,Website,Debit Card,151,998,On Time,0.0,1,No,3.0,17438.45,Neutral
+PNR00366,Akasa Air,Mumbai,Hyderabad,2025-06-11,39.0,Economy,Business,Website,UPI,87,718,On Time,0.0,1,No,1.0,15795.27,Dissatisfied
+PNR00367,Akasa Air,Mumbai,Hyderabad,2024-12-17,40.0,Economy,Business,Travel Agent,UPI,217,790,On Time,0.0,0,Yes,3.0,29393.71,Neutral
+PNR00368,Vistara,Kolkata,Delhi,2024-02-19,24.0,Premium Economy,Business,Travel Agent,Credit Card,235,639,Delayed,99.0,3,No,5.0,20181.03,Satisfied
+PNR00369,Air India Express,Delhi,Bangalore,2025-02-04,45.0,Economy,Business,Mobile App,UPI,87,1236,On Time,0.0,1,Yes,3.0,21506.9,Neutral
+PNR00370,Vistara,Mumbai,Hyderabad,2024-08-12,52.0,Premium Economy,Business,Website,UPI,211,445,Delayed,162.0,0,No,3.0,25935.65,Neutral
+PNR00371,IndiGo,Mumbai,Bangalore,2025-12-23,40.0,Economy,Business,Website,Credit Card,84,827,On Time,0.0,3,No,2.0,12458.5,Dissatisfied
+PNR00372,SpiceJet,Bangalore,Delhi,2025-09-25,38.0,Economy,Business,Website,Debit Card,129,1172,Delayed,27.0,3,Yes,5.0,28885.65,Satisfied
+PNR00373,Air India Express,Hyderabad,Mumbai,2025-09-12,26.0,Business,Business,Website,Net Banking,196,453,Delayed,14.0,3,No,2.0,52240.62,Dissatisfied
+PNR00374,Air India Express,Kolkata,Delhi,2024-11-25,62.0,Business,Business,Website,Credit Card,154,916,On Time,0.0,2,Yes,5.0,5940.15,Satisfied
+PNR00375,Air India Express,Hyderabad,Mumbai,2024-09-24,30.0,Business,Business,Mobile App,Debit Card,96,1397,On Time,0.0,2,No,5.0,59170.82,Satisfied
+PNR00376,Akasa Air,Kolkata,Delhi,2024-03-29,22.0,Economy,Business,Website,Credit Card,90,1757,Delayed,112.0,3,Yes,3.0,12646.17,Neutral
+PNR00377,IndiGo,Bangalore,Delhi,2024-07-10,37.0,Economy,Business,Mobile App,Debit Card,128,1278,Delayed,114.0,3,No,4.0,31652.35,Satisfied
+PNR00378,Akasa Air,Mumbai,Delhi,2025-09-03,36.0,Premium Economy,Personal,Website,UPI,66,766,On Time,0.0,3,No,3.0,37144.06,Neutral
+PNR00379,SpiceJet,Mumbai,Hyderabad,2025-06-05,44.0,Economy,Personal,Airport Counter,Credit Card,93,847,On Time,0.0,2,No,3.0,19093.54,Neutral
+PNR00380,Vistara,Delhi,Mumbai,2024-03-15,45.0,Economy,Personal,Website,Net Banking,225,1512,On Time,0.0,2,No,4.0,11906.83,Satisfied
+PNR00381,Akasa Air,Mumbai,Hyderabad,2025-09-12,26.0,Premium Economy,Personal,Website,UPI,188,968,On Time,0.0,0,Yes,3.0,40419.42,Neutral
+PNR00382,Akasa Air,Mumbai,Hyderabad,2024-03-27,61.0,Premium Economy,Business,Website,Net Banking,100,1446,On Time,0.0,2,No,3.0,33929.46,Neutral
+PNR00383,Vistara,Bangalore,Mumbai,2025-03-21,64.0,Economy,Personal,Airport Counter,UPI,158,415,Delayed,33.0,3,Yes,2.0,12454.78,Dissatisfied
+PNR00384,IndiGo,Bangalore,Delhi,2024-09-27,44.0,Economy,Personal,Mobile App,Credit Card,109,1103,On Time,0.0,3,No,5.0,7025.76,Satisfied
+PNR00385,Akasa Air,Bangalore,Mumbai,2024-01-01,30.0,Economy,Business,Website,Debit Card,93,1769,On Time,0.0,0,Yes,5.0,16015.49,Satisfied
+PNR00386,Akasa Air,Hyderabad,Mumbai,2024-11-05,44.0,Economy,Personal,Mobile App,Net Banking,189,1532,On Time,0.0,0,No,5.0,29158.23,Satisfied
+PNR00387,IndiGo,Mumbai,Delhi,2024-09-29,60.0,Economy,Personal,Travel Agent,Debit Card,139,741,On Time,0.0,2,No,5.0,32422.47,Satisfied
+PNR00388,Vistara,Delhi,Kolkata,2025-05-02,54.0,Economy,Business,Website,Debit Card,229,564,On Time,0.0,1,No,1.0,26030.95,Dissatisfied
+PNR00389,Air India,Mumbai,Delhi,2024-08-03,18.0,Economy,Business,Travel Agent,Credit Card,191,1583,Delayed,114.0,2,Yes,2.0,4249.49,Dissatisfied
+PNR00390,IndiGo,Hyderabad,Mumbai,2025-03-15,30.0,Economy,Business,Travel Agent,Debit Card,77,993,Delayed,155.0,2,No,2.0,19886.42,Dissatisfied
+PNR00391,Air India Express,Mumbai,Bangalore,2024-09-04,24.0,Economy,Personal,Airport Counter,Credit Card,205,1619,Delayed,116.0,0,No,1.0,2726.92,Dissatisfied
+PNR00392,Air India Express,Kolkata,Delhi,2024-05-07,23.0,Economy,Business,Website,Net Banking,79,1734,On Time,0.0,2,Yes,1.0,11969.23,Dissatisfied
+PNR00393,Vistara,Bangalore,Delhi,2024-07-30,28.0,Premium Economy,Business,Travel Agent,Debit Card,185,1736,On Time,0.0,2,No,1.0,35928.28,Dissatisfied
+PNR00394,Akasa Air,Mumbai,Bangalore,2025-07-22,36.0,Economy,Personal,Mobile App,Credit Card,231,1437,On Time,0.0,0,Yes,5.0,7017.57,Satisfied
+PNR00395,Vistara,Bangalore,Delhi,2025-06-21,57.0,Premium Economy,Personal,Airport Counter,Credit Card,139,1287,Delayed,144.0,3,No,4.0,14269.77,Satisfied
+PNR00396,Akasa Air,Bangalore,Mumbai,2025-08-12,31.0,Economy,Personal,Website,Credit Card,75,626,On Time,0.0,1,No,1.0,23479.87,Dissatisfied
+PNR00397,Akasa Air,Delhi,Bangalore,2024-07-29,23.0,Economy,Business,Website,UPI,205,1201,On Time,0.0,2,Yes,4.0,8320.59,Satisfied
+PNR00398,Vistara,Delhi,Kolkata,2024-05-09,22.0,Business,Business,Travel Agent,Debit Card,114,1147,Delayed,76.0,2,No,1.0,59376.75,Dissatisfied
+PNR00399,Vistara,Kolkata,Delhi,2024-10-13,49.0,Economy,Business,Website,Net Banking,141,1366,Delayed,19.0,2,No,4.0,20437.93,Satisfied
+PNR00400,Air India Express,Mumbai,Delhi,2024-03-14,,Premium Economy,Personal,Airport Counter,Net Banking,174,1514,On Time,0.0,2,No,4.0,10959.42,Satisfied
+PNR00401,Akasa Air,Delhi,Mumbai,2025-09-30,19.0,Business,Business,Travel Agent,Debit Card,95,413,On Time,0.0,1,Yes,2.0,46929.29,Dissatisfied
+PNR00402,Vistara,Delhi,Bangalore,2024-02-10,55.0,Economy,Business,Website,Credit Card,232,643,Delayed,105.0,0,Yes,1.0,13642.27,Dissatisfied
+PNR00403,Air India,Delhi,Bangalore,2024-04-03,65.0,Premium Economy,Business,Airport Counter,Net Banking,227,1253,On Time,0.0,0,Yes,4.0,38743.08,Satisfied
+PNR00404,IndiGo,Mumbai,Delhi,2024-01-14,26.0,Economy,Personal,Travel Agent,Net Banking,236,456,On Time,0.0,3,Yes,3.0,17613.68,Neutral
+PNR00405,SpiceJet,Mumbai,Hyderabad,2025-06-21,36.0,Economy,Personal,Travel Agent,UPI,213,453,On Time,0.0,1,No,4.0,27270.67,Satisfied
+PNR00406,Air India,Hyderabad,Mumbai,2024-02-18,20.0,Economy,Personal,Airport Counter,UPI,114,965,On Time,0.0,3,No,5.0,26706.81,Satisfied
+PNR00407,Air India,Mumbai,Delhi,2024-09-22,42.0,Economy,Personal,Mobile App,Debit Card,177,763,On Time,0.0,3,No,3.0,6167.4,Neutral
+PNR00408,Akasa Air,Mumbai,Hyderabad,2025-06-21,50.0,Economy,Business,Mobile App,Debit Card,180,600,Cancelled,,1,No,1.0,31683.54,Dissatisfied
+PNR00409,Air India Express,Mumbai,Delhi,2025-08-12,30.0,Premium Economy,Business,Mobile App,Net Banking,185,909,On Time,0.0,0,Yes,5.0,28869.12,Satisfied
+PNR00410,Akasa Air,Delhi,Mumbai,2024-10-02,37.0,Economy,Personal,Airport Counter,Debit Card,105,1198,On Time,0.0,1,No,5.0,31665.41,Satisfied
+PNR00411,Akasa Air,Delhi,Mumbai,2024-06-28,29.0,Economy,Business,Mobile App,Net Banking,182,1569,On Time,0.0,3,No,3.0,5238.59,Neutral
+PNR00412,Vistara,Delhi,Bangalore,2024-05-22,28.0,Premium Economy,Personal,Website,UPI,190,677,On Time,0.0,0,No,5.0,35624.7,Satisfied
+PNR00413,Akasa Air,Hyderabad,Mumbai,2025-04-16,59.0,Economy,Business,Travel Agent,Debit Card,184,846,On Time,0.0,1,No,2.0,26097.76,Dissatisfied
+PNR00414,Air India,Mumbai,Bangalore,2025-05-30,48.0,Premium Economy,Personal,Airport Counter,Debit Card,229,1720,Delayed,139.0,3,No,2.0,10167.6,Dissatisfied
+PNR00415,SpiceJet,Mumbai,Bangalore,2025-03-22,28.0,Economy,Business,Website,Credit Card,186,951,Delayed,121.0,3,No,2.0,16678.0,Dissatisfied
+PNR00416,Akasa Air,Bangalore,Delhi,2025-10-22,38.0,Business,Personal,Mobile App,Credit Card,109,777,Delayed,47.0,1,No,4.0,54354.42,Satisfied
+PNR00417,Akasa Air,Kolkata,Delhi,2025-10-18,23.0,Economy,Business,Travel Agent,Credit Card,110,541,On Time,0.0,0,Yes,1.0,16447.36,Dissatisfied
+PNR00418,Air India Express,Delhi,Kolkata,2024-10-24,49.0,Premium Economy,Business,Airport Counter,Credit Card,86,409,On Time,0.0,1,Yes,5.0,31043.95,Satisfied
+PNR00419,Air India,Delhi,Bangalore,2025-06-13,19.0,Economy,Personal,Airport Counter,Credit Card,234,1228,On Time,0.0,1,Yes,5.0,31256.26,Satisfied
+PNR00420,SpiceJet,Kolkata,Delhi,2025-03-11,40.0,Business,Personal,Mobile App,Credit Card,236,438,Delayed,77.0,1,No,5.0,21467.58,Satisfied
+PNR00421,IndiGo,Mumbai,Hyderabad,2024-05-19,33.0,Economy,Business,Airport Counter,Credit Card,83,845,On Time,0.0,1,Yes,5.0,9660.37,Satisfied
+PNR00422,Vistara,Kolkata,Delhi,2024-04-17,29.0,Economy,Personal,Website,Credit Card,215,893,On Time,0.0,1,No,4.0,28566.24,Satisfied
+PNR00423,SpiceJet,Delhi,Bangalore,2024-11-25,28.0,Economy,Business,Travel Agent,Net Banking,111,1144,Delayed,49.0,3,No,4.0,27084.66,Satisfied
+PNR00424,Air India,Bangalore,Mumbai,2025-09-11,28.0,Economy,Business,Mobile App,Credit Card,85,1256,On Time,0.0,2,Yes,3.0,9114.88,Neutral
+PNR00425,SpiceJet,Bangalore,Mumbai,2024-12-01,57.0,Economy,Business,Mobile App,Net Banking,218,1120,Delayed,18.0,3,Yes,4.0,15109.11,Satisfied
+PNR00426,Vistara,Delhi,Bangalore,2024-08-13,51.0,Business,Personal,Mobile App,Debit Card,136,914,On Time,0.0,0,Yes,1.0,49271.0,Dissatisfied
+PNR00427,Vistara,Kolkata,Delhi,2025-01-11,60.0,Economy,Business,Website,Debit Card,202,977,On Time,0.0,3,No,4.0,34240.07,Satisfied
+PNR00428,Air India Express,Delhi,Mumbai,2024-04-10,53.0,Business,Personal,Mobile App,Credit Card,68,872,On Time,0.0,0,No,5.0,40080.37,Satisfied
+PNR00429,SpiceJet,Delhi,Mumbai,2024-01-28,32.0,Economy,Business,Mobile App,UPI,229,1659,On Time,0.0,0,Yes,3.0,30631.06,Neutral
+PNR00430,Akasa Air,Kolkata,Delhi,2024-03-30,56.0,Premium Economy,Business,Travel Agent,Credit Card,108,1769,On Time,0.0,2,Yes,3.0,23065.09,Neutral
+PNR00431,Air India,Kolkata,Delhi,2025-11-27,33.0,Business,Business,Mobile App,Net Banking,170,1784,On Time,0.0,2,No,2.0,54983.14,Dissatisfied
+PNR00432,Air India Express,Mumbai,Delhi,2024-11-06,29.0,Business,Business,Travel Agent,Credit Card,115,1007,On Time,0.0,2,No,5.0,27999.27,Satisfied
+PNR00433,Air India,Delhi,Mumbai,2024-11-28,54.0,Economy,Business,Mobile App,Net Banking,206,713,Delayed,118.0,3,Yes,4.0,4947.3,Satisfied
+PNR00434,Vistara,Delhi,Mumbai,2024-11-20,19.0,Economy,Business,Website,Debit Card,114,1077,On Time,0.0,1,Yes,3.0,19450.41,Neutral
+PNR00435,Air India,Mumbai,Delhi,2024-03-18,56.0,Economy,Business,Travel Agent,Credit Card,144,1353,On Time,0.0,3,No,3.0,3380.97,Neutral
+PNR00436,Air India Express,Delhi,Mumbai,2025-10-14,50.0,Business,Business,Mobile App,Debit Card,137,1315,On Time,0.0,2,No,1.0,50433.61,Dissatisfied
+PNR00437,Vistara,Delhi,Bangalore,2024-05-06,45.0,Economy,Business,Website,Net Banking,139,1561,On Time,0.0,0,No,1.0,11567.77,Dissatisfied
+PNR00438,Air India,Mumbai,Delhi,2025-01-21,62.0,Economy,Business,Travel Agent,Credit Card,229,576,On Time,0.0,2,Yes,4.0,5326.43,Satisfied
+PNR00439,SpiceJet,Hyderabad,Mumbai,2024-07-16,65.0,Economy,Personal,Website,Debit Card,174,672,Delayed,144.0,1,Yes,2.0,33127.07,Dissatisfied
+PNR00440,Air India,Mumbai,Delhi,2024-09-14,44.0,Premium Economy,Personal,Airport Counter,Credit Card,122,873,Cancelled,,2,No,4.0,6782.17,Satisfied
+PNR00441,Air India Express,Bangalore,Delhi,2025-12-09,42.0,Premium Economy,Business,Website,Net Banking,217,-100,On Time,0.0,1,Yes,3.0,26842.32,Neutral
+PNR00442,Air India,Hyderabad,Mumbai,2025-09-02,28.0,Business,Business,Website,Net Banking,82,508,On Time,0.0,0,No,3.0,24511.06,Neutral
+PNR00443,Air India Express,Bangalore,Mumbai,2025-12-25,18.0,Economy,Business,Website,Debit Card,236,408,On Time,0.0,1,Yes,3.0,25476.08,Neutral
+PNR00444,Vistara,Mumbai,Hyderabad,2024-03-22,46.0,Business,Personal,Mobile App,Net Banking,231,1121,On Time,0.0,2,No,1.0,18773.73,Dissatisfied
+PNR00445,Vistara,Mumbai,Bangalore,2025-01-23,35.0,Business,Personal,Mobile App,Net Banking,201,457,On Time,0.0,1,No,,17973.67,Satisfied
+PNR00446,Air India Express,Hyderabad,Mumbai,2024-01-01,42.0,Economy,Business,Website,Debit Card,194,1674,Delayed,112.0,1,No,4.0,34458.57,Satisfied
+PNR00447,Air India Express,Mumbai,Hyderabad,2025-04-23,58.0,Economy,Personal,Website,Debit Card,178,1009,Delayed,87.0,1,No,2.0,12564.24,Dissatisfied
+PNR00448,Vistara,Bangalore,Delhi,2024-03-14,39.0,Economy,Business,Mobile App,Net Banking,110,808,Delayed,147.0,2,No,4.0,9440.14,Satisfied
+PNR00449,SpiceJet,Kolkata,Delhi,2025-12-31,26.0,Business,Personal,Mobile App,Net Banking,80,835,On Time,0.0,3,No,3.0,20107.48,Neutral
+PNR00450,Air India Express,Delhi,Kolkata,2025-04-05,57.0,Premium Economy,Business,Travel Agent,Net Banking,127,1113,On Time,0.0,0,No,1.0,33330.98,Dissatisfied
+PNR00451,IndiGo,Bangalore,Mumbai,2024-06-19,45.0,Economy,Personal,Travel Agent,Net Banking,81,1690,Delayed,93.0,2,No,1.0,5893.5,Dissatisfied
+PNR00452,SpiceJet,Hyderabad,Mumbai,2024-12-18,27.0,Economy,Personal,Website,Net Banking,116,339,On Time,0.0,2,No,5.0,21002.41,Satisfied
+PNR00453,IndiGo,Bangalore,Mumbai,2025-08-01,51.0,Economy,Business,Website,Net Banking,90,1560,On Time,0.0,1,Yes,1.0,20504.33,Dissatisfied
+PNR00454,Air India,Bangalore,Delhi,2024-03-31,40.0,Premium Economy,Personal,Website,Net Banking,129,1489,On Time,0.0,3,No,4.0,13356.75,Satisfied
+PNR00455,IndiGo,Delhi,Bangalore,2024-06-14,56.0,Business,Business,Website,UPI,177,672,On Time,0.0,3,No,1.0,10538.17,Dissatisfied
+PNR00456,Akasa Air,Mumbai,Bangalore,2025-10-29,51.0,Premium Economy,Business,Airport Counter,Net Banking,61,649,Delayed,54.0,3,No,3.0,15313.99,Neutral
+PNR00457,SpiceJet,Kolkata,Delhi,2025-03-01,24.0,Economy,Business,Travel Agent,Credit Card,106,864,Delayed,163.0,3,Yes,1.0,32801.31,Dissatisfied
+PNR00458,Akasa Air,Kolkata,Delhi,2024-01-03,56.0,Business,Business,Travel Agent,UPI,123,328,On Time,0.0,2,No,2.0,8318.69,Dissatisfied
+PNR00459,Vistara,Delhi,Mumbai,2025-03-22,18.0,Premium Economy,Personal,Airport Counter,Debit Card,158,1614,On Time,0.0,2,Yes,2.0,5505.3,Dissatisfied
+PNR00460,SpiceJet,Kolkata,Delhi,2024-09-14,22.0,Premium Economy,Personal,Website,Net Banking,221,1511,On Time,0.0,0,Yes,1.0,41260.75,Dissatisfied
+PNR00461,SpiceJet,Kolkata,Delhi,2024-12-11,38.0,Economy,Personal,Website,Credit Card,85,1584,On Time,0.0,2,No,3.0,5001.5,Neutral
+PNR00462,Akasa Air,Bangalore,Delhi,2025-11-28,43.0,Premium Economy,Personal,Website,Credit Card,121,657,On Time,0.0,1,Yes,3.0,27610.93,Neutral
+PNR00463,SpiceJet,Hyderabad,Mumbai,2024-09-20,37.0,Economy,Business,Mobile App,UPI,117,1625,On Time,0.0,1,No,4.0,8617.55,Satisfied
+PNR00464,Akasa Air,Delhi,Bangalore,2025-02-10,39.0,Economy,Business,Mobile App,Debit Card,228,1416,Cancelled,,0,Yes,3.0,11411.92,Neutral
+PNR00465,IndiGo,Mumbai,Bangalore,2024-08-07,60.0,Premium Economy,Personal,Travel Agent,Credit Card,131,1026,On Time,0.0,1,Yes,1.0,36485.4,Dissatisfied
+PNR00466,Air India,Mumbai,Hyderabad,2025-03-01,27.0,Economy,Personal,Mobile App,Debit Card,239,964,Delayed,67.0,1,No,2.0,4326.95,Dissatisfied
+PNR00467,SpiceJet,Bangalore,Mumbai,2025-06-19,56.0,Economy,Business,Airport Counter,Net Banking,171,1535,Cancelled,,0,Yes,3.0,9576.19,Neutral
+PNR00468,Air India Express,Kolkata,Delhi,2025-03-24,30.0,Business,Personal,Website,Net Banking,83,810,On Time,0.0,0,Yes,1.0,25020.49,Dissatisfied
+PNR00469,Air India,Kolkata,Delhi,2024-10-25,21.0,Business,Business,Website,Debit Card,128,696,On Time,0.0,2,Yes,3.0,19649.25,Neutral
+PNR00470,Air India,Kolkata,Delhi,2024-06-24,50.0,Business,Business,Airport Counter,Debit Card,138,1325,On Time,0.0,3,No,1.0,31940.0,Dissatisfied
+PNR00471,Vistara,Bangalore,Delhi,2025-03-14,53.0,Premium Economy,Business,Website,UPI,139,894,Delayed,110.0,0,No,4.0,39025.52,Satisfied
+PNR00472,SpiceJet,Delhi,Mumbai,2025-11-11,33.0,Premium Economy,Personal,Mobile App,UPI,205,365,On Time,0.0,1,No,4.0,25210.39,Satisfied
+PNR00473,Air India,Mumbai,Delhi,2025-05-28,54.0,Economy,Personal,Website,Debit Card,235,537,On Time,0.0,3,Yes,1.0,27872.73,Dissatisfied
+PNR00474,SpiceJet,Delhi,Mumbai,2025-01-22,33.0,Economy,Business,Website,Credit Card,199,840,On Time,0.0,3,No,1.0,33467.12,Dissatisfied
+PNR00475,IndiGo,Delhi,Kolkata,2024-04-09,50.0,Economy,Business,Website,Credit Card,205,308,On Time,0.0,3,No,5.0,12235.58,Satisfied
+PNR00476,IndiGo,Delhi,Kolkata,2024-08-18,61.0,Business,Personal,Website,Debit Card,134,1593,On Time,0.0,1,No,4.0,52451.1,Satisfied
+PNR00477,Air India,Delhi,Kolkata,2025-04-05,55.0,Premium Economy,Business,Website,Debit Card,178,1785,Delayed,127.0,0,No,1.0,5408.73,Dissatisfied
+PNR00478,Air India,Mumbai,Bangalore,2024-04-23,47.0,Economy,Business,Website,Debit Card,88,942,Cancelled,,1,No,3.0,7912.5,Neutral
+PNR00479,Air India Express,Mumbai,Bangalore,2025-01-27,40.0,Economy,Personal,Travel Agent,UPI,189,1768,Delayed,86.0,1,No,2.0,25528.97,Dissatisfied
+PNR00480,Vistara,Delhi,Kolkata,2024-10-12,51.0,Economy,Business,Website,Credit Card,130,1777,Delayed,62.0,1,No,2.0,31458.2,Dissatisfied
+PNR00481,Air India Express,Mumbai,Delhi,2025-03-25,53.0,Economy,Business,Website,Debit Card,70,1677,On Time,0.0,0,Yes,2.0,13721.1,Dissatisfied
+PNR00482,SpiceJet,Hyderabad,Mumbai,2024-11-24,51.0,Premium Economy,Personal,Website,Net Banking,174,1599,On Time,0.0,2,No,2.0,19976.42,Dissatisfied
+PNR00483,Vistara,Delhi,Mumbai,2025-02-16,59.0,Economy,Personal,Website,Net Banking,226,468,Delayed,35.0,3,Yes,5.0,16805.86,Satisfied
+PNR00484,SpiceJet,Delhi,Bangalore,2024-05-12,43.0,Business,Personal,Mobile App,UPI,81,1274,Delayed,126.0,1,No,5.0,62745.24,Satisfied
+PNR00485,IndiGo,Mumbai,Delhi,2025-01-03,55.0,Business,Business,Mobile App,Credit Card,193,857,On Time,0.0,1,Yes,5.0,19144.91,Satisfied
+PNR00486,Akasa Air,Bangalore,Delhi,2025-06-21,23.0,Economy,Personal,Mobile App,Net Banking,226,1422,On Time,0.0,0,No,2.0,27784.51,Dissatisfied
+PNR00487,Vistara,Delhi,Kolkata,2024-02-21,32.0,Business,Personal,Mobile App,Debit Card,189,1220,On Time,0.0,1,No,1.0,46321.56,Dissatisfied
+PNR00488,IndiGo,Mumbai,Hyderabad,2025-01-06,26.0,Economy,Personal,Travel Agent,UPI,192,1134,On Time,0.0,0,No,5.0,19047.63,Satisfied
+PNR00489,SpiceJet,Hyderabad,Mumbai,2025-02-09,52.0,Premium Economy,Business,Website,Debit Card,159,438,On Time,0.0,2,Yes,3.0,17278.41,Neutral
+PNR00490,Air India,Mumbai,Bangalore,2025-10-25,19.0,Business,Business,Airport Counter,Debit Card,125,465,Delayed,34.0,3,Yes,3.0,41535.48,Neutral
+PNR00491,IndiGo,Delhi,Kolkata,2025-08-21,55.0,Economy,Personal,Website,UPI,208,1060,Delayed,109.0,3,No,3.0,5341.05,Neutral
+PNR00492,Air India Express,Mumbai,Bangalore,2024-08-18,29.0,Business,Business,Airport Counter,Credit Card,105,1025,On Time,0.0,0,Yes,1.0,20502.21,Dissatisfied
+PNR00493,Akasa Air,Delhi,Bangalore,2024-01-31,45.0,Economy,Personal,Website,Debit Card,70,1666,On Time,0.0,0,Yes,4.0,20115.5,Satisfied
+PNR00494,SpiceJet,Bangalore,Mumbai,2025-10-21,55.0,Premium Economy,Business,Website,UPI,84,1709,On Time,0.0,2,No,3.0,26911.53,Neutral
+PNR00495,Air India,Delhi,Kolkata,2024-11-27,52.0,Economy,Business,Website,Debit Card,153,560,Delayed,62.0,3,No,1.0,6805.3,Dissatisfied
+PNR00496,IndiGo,Bangalore,Mumbai,2025-05-12,33.0,Economy,Business,Airport Counter,Net Banking,175,631,On Time,0.0,3,Yes,4.0,6689.33,Satisfied
+PNR00497,IndiGo,Mumbai,Hyderabad,2025-11-30,30.0,Economy,Business,Website,Debit Card,74,1103,Delayed,58.0,1,No,2.0,3946.54,Dissatisfied
+PNR00498,Vistara,Kolkata,Delhi,2025-06-24,35.0,Economy,Business,Travel Agent,Credit Card,210,1056,On Time,0.0,2,No,5.0,15311.19,Satisfied
+PNR00499,Vistara,Delhi,Bangalore,2025-03-15,56.0,Economy,Personal,Travel Agent,Debit Card,136,765,On Time,0.0,3,No,1.0,32327.61,Dissatisfied
+PNR00500,Akasa Air,Mumbai,Bangalore,2025-06-29,54.0,Economy,Business,Airport Counter,UPI,143,1220,Delayed,136.0,0,Yes,3.0,20183.53,Neutral
+PNR00501,Akasa Air,Mumbai,Bangalore,2025-11-20,38.0,Economy,Business,Mobile App,UPI,230,527,Delayed,75.0,0,No,5.0,10220.7,Satisfied
+PNR00502,Air India Express,Bangalore,Delhi,2025-07-20,56.0,Economy,Personal,Website,Debit Card,60,1424,Delayed,55.0,2,No,3.0,31942.13,Neutral
+PNR00503,IndiGo,Mumbai,Delhi,2024-08-19,31.0,Economy,Business,Mobile App,UPI,223,1067,On Time,0.0,3,Yes,2.0,32227.57,Dissatisfied
+PNR00504,Air India,Mumbai,Bangalore,2024-06-30,25.0,Economy,Business,Website,UPI,165,385,Delayed,109.0,1,Yes,4.0,21614.1,Satisfied
+PNR00505,Vistara,Delhi,Bangalore,2025-04-07,54.0,Economy,Business,Mobile App,Debit Card,88,1687,On Time,0.0,2,No,3.0,17817.96,Neutral
+PNR00506,IndiGo,Hyderabad,Mumbai,2024-05-18,46.0,Economy,Business,Mobile App,Credit Card,77,738,Delayed,117.0,3,Yes,4.0,24599.08,Satisfied
+PNR00507,Air India,Delhi,Bangalore,2024-06-19,27.0,Premium Economy,Business,Airport Counter,Net Banking,74,1534,On Time,0.0,0,No,4.0,22069.09,Satisfied
+PNR00508,Air India,Delhi,Kolkata,2024-04-10,52.0,Economy,Business,Travel Agent,Debit Card,208,1267,Delayed,76.0,3,Yes,5.0,13278.88,Satisfied
+PNR00509,SpiceJet,Mumbai,Delhi,2025-10-08,49.0,Economy,Personal,Travel Agent,UPI,215,953,On Time,0.0,2,Yes,5.0,5780.6,Satisfied
+PNR00510,Akasa Air,Delhi,Mumbai,2024-02-16,57.0,Business,Business,Airport Counter,Net Banking,83,620,Delayed,160.0,0,No,2.0,9789.51,Dissatisfied
+PNR00511,SpiceJet,Kolkata,Delhi,2025-01-13,45.0,Business,Personal,Website,Net Banking,83,917,Delayed,58.0,1,Yes,7.0,13357.51,Dissatisfied
+PNR00512,,Mumbai,Hyderabad,2024-04-01,57.0,Economy,Business,Website,Debit Card,226,1513,Cancelled,,1,Yes,1.0,21303.33,Dissatisfied
+PNR00513,Air India Express,Delhi,Bangalore,2025-01-01,20.0,Economy,Business,Mobile App,UPI,207,1563,Delayed,119.0,1,No,2.0,18759.44,Dissatisfied
+PNR00514,Vistara,Delhi,Mumbai,2024-06-21,58.0,Economy,Business,Website,Net Banking,84,1092,On Time,0.0,3,No,4.0,24063.44,Satisfied
+PNR00515,Akasa Air,Mumbai,Delhi,2025-01-28,65.0,Economy,Personal,Travel Agent,Debit Card,142,1345,On Time,0.0,1,Yes,4.0,23242.29,Satisfied
+PNR00516,Akasa Air,Delhi,Mumbai,2025-01-01,26.0,Economy,Personal,Travel Agent,Credit Card,61,1672,On Time,0.0,0,No,4.0,20089.12,Satisfied
+PNR00517,SpiceJet,Mumbai,Bangalore,2024-06-03,49.0,Economy,Business,Website,Credit Card,60,534,On Time,0.0,0,Yes,1.0,7140.53,Dissatisfied
+PNR00518,Vistara,Delhi,Mumbai,2025-04-07,24.0,Economy,Personal,Travel Agent,Debit Card,113,1604,On Time,0.0,2,No,3.0,23013.61,Neutral
+PNR00519,Akasa Air,Bangalore,Delhi,2025-02-24,25.0,Premium Economy,Business,Mobile App,Net Banking,151,1402,Delayed,18.0,0,No,5.0,24915.98,Satisfied
+PNR00520,IndiGo,Delhi,Bangalore,2024-04-24,22.0,Economy,Business,Mobile App,Credit Card,180,364,Cancelled,,2,No,2.0,4213.07,Dissatisfied
+PNR00521,Air India,Delhi,Kolkata,2025-03-21,28.0,Economy,Business,Travel Agent,Net Banking,177,463,On Time,0.0,1,No,4.0,10542.55,Satisfied
+PNR00522,SpiceJet,Bangalore,Mumbai,2024-08-22,48.0,Premium Economy,Personal,Mobile App,Net Banking,146,1007,On Time,0.0,0,No,4.0,3394.46,Satisfied
+PNR00523,Vistara,Mumbai,Hyderabad,2025-07-27,56.0,Business,Personal,Website,UPI,149,531,On Time,0.0,3,No,2.0,31983.55,Dissatisfied
+PNR00524,SpiceJet,Delhi,Mumbai,2025-10-16,45.0,Business,Personal,Website,Net Banking,92,1599,Delayed,100.0,0,Yes,5.0,38515.06,Satisfied
+PNR00525,SpiceJet,Kolkata,Delhi,2025-01-23,60.0,Premium Economy,Personal,Airport Counter,UPI,200,967,On Time,0.0,2,No,5.0,35494.47,Satisfied
+PNR00526,Akasa Air,Hyderabad,Mumbai,2024-02-21,34.0,Premium Economy,Personal,Website,Debit Card,150,1612,Delayed,145.0,2,No,5.0,29684.15,Satisfied
+PNR00527,Vistara,Delhi,Mumbai,2025-06-11,37.0,Business,Business,Website,Credit Card,204,1531,On Time,0.0,3,Yes,4.0,16505.38,Satisfied
+PNR00528,Air India,Delhi,Kolkata,2025-11-18,56.0,Premium Economy,Business,Airport Counter,UPI,199,1426,On Time,0.0,1,Yes,1.0,9119.2,Dissatisfied
+PNR00529,IndiGo,Hyderabad,Mumbai,2024-04-05,42.0,Premium Economy,Personal,Airport Counter,Net Banking,185,1055,On Time,0.0,1,No,5.0,17768.29,Satisfied
+PNR00530,IndiGo,Bangalore,Delhi,2024-07-10,63.0,Premium Economy,Business,Website,Debit Card,67,1702,Cancelled,,3,Yes,3.0,24515.83,Neutral
+PNR00531,IndiGo,Delhi,Mumbai,2024-04-22,24.0,Business,Business,Mobile App,UPI,121,322,On Time,0.0,3,Yes,4.0,44929.69,Satisfied
+PNR00532,Akasa Air,Mumbai,Delhi,2025-05-26,27.0,Economy,Business,Airport Counter,Net Banking,205,344,Delayed,169.0,1,Yes,3.0,20279.55,Neutral
+PNR00533,IndiGo,Bangalore,Mumbai,2025-10-18,54.0,Economy,Personal,Mobile App,UPI,163,503,On Time,0.0,2,Yes,2.0,18503.06,Dissatisfied
+PNR00534,Vistara,Mumbai,Hyderabad,2024-05-17,29.0,Economy,Business,Mobile App,Net Banking,130,1177,On Time,0.0,0,Yes,2.0,27865.31,Dissatisfied
+PNR00535,Akasa Air,Mumbai,Hyderabad,2024-01-11,50.0,Premium Economy,Business,Mobile App,Credit Card,132,1335,Delayed,176.0,3,No,4.0,4187.85,Satisfied
+PNR00536,Vistara,Delhi,Mumbai,2025-06-10,56.0,Premium Economy,Personal,Mobile App,Credit Card,116,374,On Time,0.0,0,No,5.0,3967.87,Satisfied
+PNR00537,Vistara,Mumbai,Hyderabad,2024-03-17,55.0,Business,Business,Website,UPI,100,1014,Delayed,116.0,0,Yes,2.0,40007.93,Dissatisfied
+PNR00538,IndiGo,Bangalore,Delhi,2025-07-26,54.0,Economy,Business,Mobile App,UPI,151,1097,On Time,0.0,1,Yes,1.0,12811.89,Dissatisfied
+PNR00539,SpiceJet,Bangalore,Mumbai,2024-02-21,18.0,Economy,Business,Website,Debit Card,90,774,On Time,0.0,1,No,2.0,21250.42,Dissatisfied
+PNR00540,SpiceJet,Bangalore,Mumbai,2024-01-06,53.0,Premium Economy,Business,Travel Agent,UPI,208,1016,On Time,0.0,1,Yes,1.0,6037.28,Dissatisfied
+PNR00541,Akasa Air,Hyderabad,Mumbai,2025-02-16,37.0,Economy,Personal,Airport Counter,Debit Card,67,1667,On Time,0.0,1,Yes,1.0,17797.78,Dissatisfied
+PNR00542,Air India,Delhi,Bangalore,2025-08-11,43.0,Economy,Business,Mobile App,UPI,214,676,On Time,0.0,2,Yes,4.0,10689.94,Satisfied
+PNR00543,SpiceJet,Mumbai,Delhi,2024-06-25,57.0,Business,Business,Mobile App,Debit Card,144,356,On Time,0.0,2,No,4.0,59289.36,Satisfied
+PNR00544,Vistara,Mumbai,Hyderabad,2024-06-03,40.0,Premium Economy,Business,Travel Agent,Credit Card,96,433,On Time,0.0,1,Yes,5.0,28422.86,Satisfied
+PNR00545,Vistara,Kolkata,Delhi,2024-11-11,18.0,Economy,Business,Website,Debit Card,105,847,On Time,0.0,2,No,1.0,32718.23,Dissatisfied
+PNR00546,Air India,Kolkata,Delhi,2025-12-13,41.0,Economy,Business,Mobile App,Debit Card,187,1610,On Time,0.0,2,No,3.0,5441.13,Neutral
+PNR00547,Vistara,Bangalore,Mumbai,2024-05-17,45.0,Business,Business,Airport Counter,Net Banking,225,1380,On Time,0.0,1,Yes,2.0,34988.66,Dissatisfied
+PNR00548,Akasa Air,Kolkata,Delhi,2025-01-29,22.0,Economy,Personal,Mobile App,Credit Card,124,589,Delayed,97.0,3,Yes,4.0,7439.36,Satisfied
+PNR00549,Akasa Air,Mumbai,Delhi,2024-09-26,41.0,Economy,Personal,Mobile App,Net Banking,95,1776,On Time,0.0,3,No,2.0,19646.34,Dissatisfied
+PNR00550,Akasa Air,Mumbai,Delhi,2024-06-11,28.0,Economy,Business,Website,Credit Card,102,1488,On Time,0.0,3,No,2.0,9577.88,Dissatisfied
+PNR00551,IndiGo,Kolkata,Delhi,2024-01-26,49.0,Economy,Personal,Website,Debit Card,174,684,On Time,0.0,2,Yes,1.0,15708.2,Dissatisfied
+PNR00552,Akasa Air,Mumbai,Delhi,2025-08-07,18.0,Premium Economy,Personal,Website,Credit Card,143,1278,On Time,0.0,1,No,3.0,3490.53,Neutral
+PNR00553,Akasa Air,Mumbai,Bangalore,2025-09-29,65.0,Economy,Personal,Website,UPI,66,763,Delayed,134.0,0,No,5.0,20364.75,Satisfied
+PNR00554,IndiGo,Bangalore,Mumbai,2024-12-28,35.0,Economy,Personal,Website,UPI,211,336,On Time,0.0,3,Yes,3.0,28174.17,Neutral
+PNR00555,Vistara,Delhi,Kolkata,2025-09-28,56.0,Business,Business,Travel Agent,UPI,197,1132,On Time,0.0,0,Yes,1.0,38859.85,Dissatisfied
+PNR00556,Air India Express,Delhi,Kolkata,2025-09-08,44.0,Business,Business,,UPI,193,1485,On Time,0.0,0,Yes,1.0,36325.75,Dissatisfied
+PNR00557,IndiGo,Bangalore,Mumbai,2025-06-03,53.0,Premium Economy,Business,Mobile App,UPI,213,1351,On Time,0.0,1,Yes,2.0,25937.6,Dissatisfied
+PNR00558,IndiGo,Mumbai,Delhi,2024-10-03,56.0,Economy,Business,Travel Agent,Debit Card,124,1199,Delayed,42.0,1,Yes,2.0,12363.88,Dissatisfied
+PNR00559,Air India,Mumbai,Delhi,2025-08-14,22.0,Business,Business,Website,Credit Card,74,839,On Time,0.0,1,Yes,2.0,25865.83,Dissatisfied
+PNR00560,SpiceJet,Mumbai,Delhi,2025-04-01,64.0,Economy,Business,Travel Agent,Debit Card,69,819,On Time,0.0,2,No,1.0,19032.23,Dissatisfied
+PNR00561,Air India,Bangalore,Mumbai,2024-02-23,53.0,Economy,Personal,Travel Agent,Debit Card,181,1092,Cancelled,,1,No,2.0,28860.9,Dissatisfied
+PNR00562,IndiGo,Kolkata,Delhi,2025-12-16,33.0,Business,Business,Mobile App,Net Banking,60,883,Delayed,78.0,1,Yes,3.0,43721.13,Neutral
+PNR00563,Vistara,Bangalore,Mumbai,2024-06-26,37.0,Economy,Personal,Website,Debit Card,133,1677,On Time,0.0,0,No,4.0,9869.66,Satisfied
+PNR00564,Air India,Mumbai,Bangalore,2025-04-21,23.0,Business,Personal,Mobile App,Net Banking,134,1737,Delayed,28.0,2,Yes,1.0,16236.98,Dissatisfied
+PNR00565,SpiceJet,Delhi,Kolkata,2025-12-06,19.0,Economy,Business,Travel Agent,Net Banking,203,967,On Time,0.0,3,Yes,2.0,8370.69,Dissatisfied
+PNR00566,Akasa Air,Hyderabad,Mumbai,2025-02-24,45.0,Economy,Business,Airport Counter,UPI,164,629,Delayed,149.0,0,No,3.0,19074.52,Neutral
+PNR00567,SpiceJet,Delhi,Kolkata,2024-10-11,20.0,Economy,Business,Airport Counter,Debit Card,77,319,On Time,0.0,1,Yes,1.0,9965.78,Dissatisfied
+PNR00568,Vistara,Hyderabad,Mumbai,2024-05-15,45.0,Economy,Business,Travel Agent,UPI,62,1559,On Time,0.0,1,Yes,5.0,4392.07,Satisfied
+PNR00569,Air India Express,Mumbai,Bangalore,2024-04-19,64.0,Premium Economy,Business,Website,Debit Card,239,947,Delayed,100.0,0,No,4.0,27006.55,Satisfied
+PNR00570,SpiceJet,Delhi,Kolkata,2024-03-16,21.0,Premium Economy,Personal,Travel Agent,UPI,132,376,On Time,0.0,2,Yes,1.0,21531.66,Dissatisfied
+PNR00571,IndiGo,Delhi,Bangalore,2025-01-16,19.0,Premium Economy,Business,Mobile App,Credit Card,117,441,Delayed,150.0,1,No,2.0,12474.87,Dissatisfied
+PNR00572,Vistara,Hyderabad,Mumbai,2025-09-28,20.0,Economy,Business,Travel Agent,UPI,71,895,On Time,0.0,0,No,1.0,33991.46,Dissatisfied
+PNR00573,Air India Express,Delhi,Mumbai,2025-05-24,45.0,Economy,Personal,Mobile App,Net Banking,82,905,On Time,0.0,3,Yes,1.0,20264.99,Dissatisfied
+PNR00574,Vistara,Delhi,Kolkata,2024-11-08,41.0,Economy,Personal,Mobile App,Credit Card,142,1389,Delayed,96.0,0,Yes,1.0,28657.07,Dissatisfied
+PNR00575,Akasa Air,Bangalore,Mumbai,2025-12-05,32.0,Economy,Personal,Mobile App,Credit Card,209,1454,On Time,0.0,1,Yes,1.0,3760.98,Dissatisfied
+PNR00576,Vistara,Mumbai,Delhi,2025-08-05,22.0,Economy,Business,Travel Agent,UPI,142,356,On Time,0.0,3,Yes,1.0,28691.94,Dissatisfied
+PNR00577,IndiGo,Delhi,Mumbai,2024-10-05,40.0,Business,Business,Airport Counter,Credit Card,203,308,On Time,0.0,0,Yes,3.0,50870.75,Neutral
+PNR00578,SpiceJet,Bangalore,Mumbai,2025-10-25,50.0,Economy,Personal,Mobile App,Net Banking,223,1679,Delayed,103.0,3,Yes,4.0,11145.69,Satisfied
+PNR00579,SpiceJet,Delhi,Kolkata,2024-11-15,28.0,Business,Business,Travel Agent,Credit Card,185,605,Delayed,34.0,2,No,5.0,22206.73,Satisfied
+PNR00580,Vistara,Mumbai,Hyderabad,2025-09-21,26.0,Business,Business,Mobile App,Debit Card,153,733,Delayed,153.0,2,No,4.0,30040.03,Satisfied
+PNR00581,SpiceJet,Hyderabad,Mumbai,2024-07-01,64.0,Economy,Business,Website,Credit Card,202,371,On Time,0.0,2,No,5.0,18869.98,Satisfied
+PNR00582,Air India,Bangalore,Mumbai,2024-12-11,49.0,Economy,Personal,Mobile App,Net Banking,140,1426,On Time,0.0,2,Yes,3.0,22604.02,Neutral
+PNR00583,IndiGo,Delhi,Kolkata,2025-08-07,44.0,Economy,Business,Website,Credit Card,111,1351,Delayed,47.0,2,No,4.0,9045.47,Satisfied
+PNR00584,Air India Express,Mumbai,Hyderabad,2024-02-23,27.0,Economy,Business,Website,Net Banking,79,1658,Cancelled,,3,No,3.0,15761.32,Neutral
+PNR00585,SpiceJet,Bangalore,Mumbai,2024-02-25,54.0,Economy,Business,Travel Agent,UPI,135,1135,Delayed,70.0,3,No,3.0,15825.77,Neutral
+PNR00586,Akasa Air,Mumbai,Delhi,2024-10-04,33.0,Business,Business,Mobile App,Debit Card,116,1309,On Time,0.0,2,No,2.0,58188.88,Dissatisfied
+PNR00587,SpiceJet,Delhi,Kolkata,2024-09-25,48.0,Economy,Personal,Website,Net Banking,190,1102,On Time,0.0,2,No,5.0,5007.19,Satisfied
+PNR00588,Air India Express,Mumbai,Bangalore,2025-02-15,50.0,Economy,Personal,Mobile App,UPI,177,781,Delayed,82.0,0,No,2.0,30597.59,Dissatisfied
+PNR00589,SpiceJet,Mumbai,Hyderabad,2025-09-26,26.0,Economy,Personal,Travel Agent,UPI,112,1159,On Time,0.0,2,Yes,2.0,33761.37,Dissatisfied
+PNR00590,Akasa Air,Hyderabad,Mumbai,2025-05-06,35.0,Economy,Business,Travel Agent,Credit Card,159,1224,On Time,0.0,0,No,2.0,14847.54,Dissatisfied
+PNR00591,Air India,Bangalore,Delhi,2025-12-12,43.0,Economy,Business,Website,UPI,158,838,Delayed,50.0,0,No,2.0,26365.07,Dissatisfied
+PNR00592,IndiGo,Mumbai,Hyderabad,2025-09-05,27.0,Economy,Business,Mobile App,UPI,137,1492,On Time,0.0,1,No,2.0,8049.97,Dissatisfied
+PNR00593,SpiceJet,Hyderabad,Mumbai,2025-07-03,23.0,Economy,Personal,Airport Counter,UPI,228,1094,On Time,0.0,2,Yes,3.0,20074.62,Neutral
+PNR00594,IndiGo,Bangalore,Delhi,2024-08-08,45.0,Economy,Personal,Website,UPI,132,1369,On Time,0.0,0,No,4.0,17886.64,Satisfied
+PNR00595,Vistara,Bangalore,Delhi,2025-03-17,31.0,Premium Economy,Personal,Website,Debit Card,202,1325,On Time,0.0,0,Yes,3.0,21724.21,Neutral
+PNR00596,IndiGo,Mumbai,Delhi,2024-06-05,21.0,Economy,Personal,Website,Debit Card,60,1046,On Time,0.0,3,Yes,5.0,16945.6,Satisfied
+PNR00597,Vistara,Bangalore,Delhi,2025-09-21,18.0,Economy,Business,Mobile App,Net Banking,115,1281,On Time,0.0,0,Yes,2.0,7292.21,Dissatisfied
+PNR00598,IndiGo,Kolkata,Delhi,2024-02-29,34.0,Business,Personal,Website,Credit Card,200,556,On Time,0.0,0,No,1.0,33988.1,Dissatisfied
+PNR00599,Air India,Hyderabad,Mumbai,2024-02-25,64.0,Premium Economy,Business,Website,Credit Card,124,567,On Time,0.0,1,No,1.0,28474.3,Dissatisfied
+PNR00600,Vistara,Delhi,Mumbai,2024-05-24,19.0,Economy,Personal,Website,Debit Card,169,719,Delayed,66.0,1,No,2.0,7422.37,Dissatisfied
+PNR00601,indigo,Mumbai,Delhi,2024-05-18,33.0,Premium Economy,Personal,Mobile App,Debit Card,207,529,On Time,0.0,3,No,4.0,23751.39,Satisfied
+PNR00602,AIR INDIA,Mumbai,Bangalore,2024-08-01,44.0,Premium Economy,Business,Mobile App,Net Banking,133,360,On Time,0.0,2,No,5.0,6147.63,Satisfied
+PNR00603,SpiceJet,Kolkata,Delhi,2025-10-08,33.0,economy,Personal,Website,Net Banking,63,1286,On Time,0.0,1,Yes,1.0,19158.73,Dissatisfied
+PNR00604,Akasa Air,Mumbai,Bangalore,2025-04-30,58.0,Premium Economy,Personal,Website,Credit Card,209,416,On Time,0.0,3,No,2.0,5963.75,Dissatisfied
+PNR00605,Vistara,Kolkata,Delhi,2025-11-15,34.0,Premium Economy,Business,Website,Net Banking,213,961,On Time,0.0,0,Yes,5.0,22236.65,Satisfied
+PNR00606,SpiceJet,Delhi,Mumbai,2024-12-29,59.0,Economy,Business,Website,Net Banking,131,1750,On Time,0.0,3,Yes,1.0,24725.99,Dissatisfied
+PNR00607,Akasa Air,Hyderabad,Mumbai,2025-07-26,39.0,Premium Economy,Business,Website,Net Banking,146,1069,On Time,0.0,1,Yes,5.0,10143.61,Satisfied
+PNR00608,Akasa Air,Delhi,Bangalore,2025-04-08,60.0,Economy,Personal,Website,Credit Card,78,422,On Time,0.0,2,No,5.0,21515.03,Satisfied
+PNR00609,Vistara,Bangalore,Mumbai,2024-08-03,20.0,Economy,Business,Mobile App,Credit Card,116,956,Delayed,30.0,3,No,4.0,12213.05,Satisfied
+PNR00610,Air India,Kolkata,Delhi,2024-03-08,57.0,Economy,Business,Travel Agent,Debit Card,87,1374,On Time,0.0,3,No,1.0,17453.34,Dissatisfied
+PNR00611,SpiceJet,Kolkata,Delhi,2025-07-24,48.0,Economy,Business,Website,Credit Card,60,1390,Delayed,99.0,3,No,2.0,23454.59,Dissatisfied
+PNR00612,Akasa Air,Mumbai,Bangalore,2024-08-20,40.0,Premium Economy,Business,Mobile App,Credit Card,210,751,On Time,0.0,1,No,1.0,6665.65,Dissatisfied
+PNR00613,Air India Express,Mumbai,Bangalore,2024-03-01,18.0,Economy,Personal,Mobile App,Net Banking,206,1089,On Time,0.0,1,No,3.0,22460.49,Neutral
+PNR00614,Air India,Mumbai,Delhi,2024-11-20,46.0,Economy,Personal,Travel Agent,Net Banking,218,379,On Time,0.0,1,No,5.0,17019.03,Satisfied
+PNR00615,IndiGo,Bangalore,Mumbai,2025-03-08,51.0,Economy,Business,Travel Agent,Credit Card,215,766,Delayed,129.0,2,No,5.0,13447.55,Satisfied
+PNR00616,Akasa Air,Delhi,Mumbai,2024-11-07,49.0,Economy,Personal,Airport Counter,UPI,112,1074,On Time,0.0,1,No,1.0,6717.95,Dissatisfied
+PNR00617,IndiGo,Kolkata,Delhi,2024-02-08,43.0,Economy,Personal,Travel Agent,Credit Card,113,811,On Time,0.0,3,Yes,2.0,29168.73,Dissatisfied
+PNR00618,Air India Express,Kolkata,Delhi,2025-10-04,29.0,Economy,Personal,Travel Agent,Debit Card,174,1541,Delayed,161.0,0,No,5.0,6376.33,Satisfied
+PNR00619,Akasa Air,Mumbai,Delhi,2025-03-23,49.0,Economy,Personal,Travel Agent,Credit Card,144,466,On Time,0.0,1,No,4.0,34649.54,Satisfied
+PNR00620,IndiGo,Bangalore,Delhi,2024-03-29,34.0,Premium Economy,Personal,Mobile App,Net Banking,153,1407,Delayed,174.0,0,No,3.0,22808.0,Neutral
+PNR00621,Akasa Air,Kolkata,Delhi,2025-04-16,,Economy,Personal,Mobile App,Net Banking,169,1360,On Time,0.0,3,Yes,4.0,3725.17,Satisfied
+PNR00622,Vistara,Bangalore,Mumbai,2024-07-02,37.0,Premium Economy,Business,Website,UPI,73,844,Delayed,180.0,3,No,1.0,29199.39,Dissatisfied
+PNR00623,SpiceJet,Bangalore,Delhi,2024-01-09,26.0,Economy,Business,Website,Credit Card,86,572,On Time,0.0,0,Yes,1.0,29799.94,Dissatisfied
+PNR00624,Vistara,Delhi,Mumbai,2024-12-04,35.0,Economy,Personal,Website,UPI,195,686,On Time,0.0,0,Yes,2.0,29820.56,Dissatisfied
+PNR00625,Akasa Air,Delhi,Kolkata,2025-03-12,24.0,Business,Business,Website,Net Banking,122,1691,On Time,0.0,3,No,3.0,30124.97,Neutral
+PNR00626,SpiceJet,Delhi,Kolkata,2024-02-02,20.0,Premium Economy,Personal,Mobile App,Debit Card,180,1537,On Time,0.0,2,No,1.0,23565.47,Dissatisfied
+PNR00627,Akasa Air,Mumbai,Bangalore,2025-10-15,22.0,Business,Business,Website,UPI,126,1346,On Time,0.0,0,No,1.0,30140.47,Dissatisfied
+PNR00628,SpiceJet,Bangalore,Delhi,2025-12-27,34.0,Economy,Personal,Website,Credit Card,177,860,Delayed,180.0,0,No,1.0,26982.67,Dissatisfied
+PNR00629,Air India Express,Delhi,Bangalore,2024-04-04,30.0,Economy,Business,Mobile App,Credit Card,184,340,On Time,0.0,1,Yes,1.0,3521.99,Dissatisfied
+PNR00630,SpiceJet,Delhi,Mumbai,2024-10-19,27.0,Economy,Business,Airport Counter,Debit Card,136,1400,On Time,0.0,1,No,1.0,33852.44,Dissatisfied
+PNR00631,SpiceJet,Mumbai,Delhi,2025-05-02,40.0,Economy,Personal,Mobile App,Credit Card,190,878,On Time,0.0,1,No,1.0,22676.61,Dissatisfied
+PNR00632,Air India,Kolkata,Delhi,2024-05-26,45.0,Economy,Business,Mobile App,Credit Card,62,591,On Time,0.0,3,Yes,5.0,34892.21,Satisfied
+PNR00633,SpiceJet,Mumbai,Hyderabad,2024-04-13,31.0,Economy,Business,Website,Credit Card,142,986,On Time,0.0,1,Yes,2.0,4852.23,Dissatisfied
+PNR00634,SpiceJet,Mumbai,Hyderabad,2024-03-10,44.0,Economy,Business,Website,Net Banking,168,1629,Delayed,49.0,1,Yes,3.0,25494.9,Neutral
+PNR00635,Vistara,Hyderabad,Mumbai,2025-03-31,39.0,Economy,Personal,Airport Counter,UPI,196,1197,Delayed,81.0,1,Yes,4.0,7827.78,Satisfied
+PNR00636,IndiGo,Hyderabad,Mumbai,2025-03-09,49.0,Economy,Personal,Website,Credit Card,228,1773,On Time,0.0,3,No,1.0,31402.86,Dissatisfied
+PNR00637,Akasa Air,Mumbai,Delhi,2024-11-12,59.0,Business,Personal,Mobile App,Net Banking,233,769,On Time,0.0,3,No,3.0,46229.32,Neutral
+PNR00638,Air India,Mumbai,Hyderabad,2025-03-09,34.0,Economy,Personal,Mobile App,Credit Card,91,798,Delayed,38.0,3,No,3.0,3336.63,Neutral
+PNR00639,Vistara,Delhi,Bangalore,2025-11-05,24.0,Business,Personal,Website,Net Banking,232,1464,On Time,0.0,3,Yes,3.0,54367.18,Neutral
+PNR00640,SpiceJet,Delhi,Bangalore,2025-01-15,18.0,Economy,Personal,Website,Net Banking,92,559,Delayed,66.0,3,Yes,1.0,3729.15,Dissatisfied
+PNR00641,SpiceJet,Delhi,Kolkata,2024-06-23,59.0,Economy,Personal,Airport Counter,Net Banking,135,624,Delayed,163.0,0,Yes,3.0,5860.34,Neutral
+PNR00642,Air India,Delhi,Kolkata,2024-02-28,48.0,Business,Personal,Mobile App,Net Banking,183,1197,Cancelled,,1,Yes,2.0,37068.84,Dissatisfied
+PNR00643,Vistara,Mumbai,Bangalore,2024-11-12,28.0,Economy,Business,Website,UPI,103,1444,On Time,0.0,1,No,1.0,9242.76,Dissatisfied
+PNR00644,Akasa Air,Mumbai,Delhi,2025-09-08,31.0,Premium Economy,Business,Travel Agent,Credit Card,121,1573,On Time,0.0,2,No,2.0,7620.01,Dissatisfied
+PNR00645,Air India Express,Delhi,Kolkata,2024-10-24,47.0,Premium Economy,Business,Website,Debit Card,194,570,On Time,0.0,0,No,3.0,10670.85,Neutral
+PNR00646,IndiGo,Kolkata,Delhi,2025-11-27,61.0,Business,Business,Website,UPI,193,1031,On Time,0.0,1,No,3.0,48325.73,Neutral
+PNR00647,Vistara,Mumbai,Delhi,2024-04-19,19.0,Economy,Personal,Website,Debit Card,173,667,Delayed,26.0,3,No,5.0,29236.06,Satisfied
+PNR00648,Vistara,Delhi,Mumbai,2024-04-10,64.0,Economy,Business,Travel Agent,Net Banking,171,1129,Delayed,44.0,3,No,1.0,15471.05,Dissatisfied
+PNR00649,SpiceJet,Bangalore,Mumbai,2025-08-31,52.0,Economy,Personal,Website,UPI,110,1662,On Time,0.0,3,No,4.0,18497.03,Satisfied
+PNR00650,Vistara,Hyderabad,Mumbai,2024-05-18,55.0,Economy,Business,Travel Agent,UPI,74,946,On Time,0.0,0,Yes,1.0,16677.94,Dissatisfied
+PNR00651,Akasa Air,Bangalore,Mumbai,2024-02-05,34.0,Economy,Personal,Website,Net Banking,126,940,Delayed,118.0,3,Yes,1.0,6461.4,Dissatisfied
+PNR00652,SpiceJet,Bangalore,Delhi,2025-04-08,32.0,Economy,Personal,Website,Credit Card,83,450,On Time,0.0,3,No,4.0,26188.29,Satisfied
+PNR00653,Vistara,Delhi,Mumbai,2025-10-20,53.0,Economy,Business,Airport Counter,UPI,194,965,Delayed,104.0,3,No,3.0,3754.23,Neutral
+PNR00654,Air India Express,Hyderabad,Mumbai,2025-10-01,56.0,Economy,Personal,Mobile App,UPI,152,432,Delayed,124.0,0,Yes,3.0,3666.51,Neutral
+PNR00655,SpiceJet,Mumbai,Delhi,2025-05-15,26.0,Economy,Personal,Mobile App,UPI,100,661,On Time,0.0,3,Yes,2.0,12999.81,Dissatisfied
+PNR00656,SpiceJet,Mumbai,Bangalore,2024-04-04,25.0,Economy,Business,Website,Credit Card,100,1225,Cancelled,,2,Yes,4.0,12002.71,Satisfied
+PNR00657,IndiGo,Bangalore,Mumbai,2025-10-31,42.0,Business,Business,Mobile App,Net Banking,165,520,Delayed,11.0,3,No,2.0,53605.37,Dissatisfied
+PNR00658,Air India Express,Mumbai,Delhi,2025-11-05,30.0,Economy,Personal,Website,Net Banking,187,802,Delayed,32.0,2,Yes,2.0,15841.41,Dissatisfied
+PNR00659,Air India Express,Mumbai,Bangalore,2024-06-10,63.0,Economy,Business,Travel Agent,Net Banking,160,1151,On Time,0.0,2,Yes,5.0,30918.47,Satisfied
+PNR00660,SpiceJet,Mumbai,Bangalore,2025-06-05,35.0,Economy,Business,Airport Counter,Debit Card,214,311,Delayed,42.0,1,No,3.0,17827.28,Neutral
+PNR00661,Air India Express,Bangalore,Delhi,2024-01-25,36.0,Business,Personal,Travel Agent,UPI,116,1355,On Time,0.0,3,No,4.0,54814.3,Satisfied
+PNR00662,Air India Express,Bangalore,Mumbai,2025-09-29,21.0,Business,Business,Website,UPI,234,1062,On Time,0.0,0,Yes,2.0,12099.08,Dissatisfied
+PNR00663,Air India,Kolkata,Delhi,2025-09-28,19.0,Economy,Personal,Travel Agent,Debit Card,122,1410,On Time,0.0,0,No,3.0,7109.94,Neutral
+PNR00664,Air India,Delhi,Mumbai,2025-04-08,53.0,Economy,Personal,Website,Debit Card,95,396,Delayed,125.0,1,No,2.0,19799.89,Dissatisfied
+PNR00665,SpiceJet,Mumbai,Bangalore,2025-09-28,27.0,Premium Economy,Personal,Mobile App,Net Banking,124,1119,Cancelled,,3,No,3.0,19688.67,Neutral
+PNR00666,Air India Express,Delhi,Mumbai,2024-09-01,43.0,Economy,Personal,Travel Agent,Debit Card,109,1317,On Time,0.0,1,No,4.0,29371.23,Satisfied
+PNR00667,Akasa Air,Delhi,Kolkata,2024-09-30,65.0,Premium Economy,Personal,Website,UPI,210,1696,On Time,0.0,0,Yes,1.0,36826.83,Dissatisfied
+PNR00668,Vistara,Delhi,Mumbai,2024-07-22,26.0,Business,Business,Travel Agent,Credit Card,61,785,On Time,0.0,0,No,3.0,21340.95,Neutral
+PNR00669,IndiGo,Kolkata,Delhi,2025-10-07,27.0,Premium Economy,Business,Website,UPI,121,1436,On Time,0.0,0,Yes,2.0,35128.27,Dissatisfied
+PNR00670,Vistara,Hyderabad,Mumbai,2024-02-03,52.0,Economy,Personal,Airport Counter,Debit Card,223,881,On Time,0.0,0,No,3.0,6015.51,Neutral
+PNR00671,SpiceJet,Mumbai,Delhi,2025-06-23,21.0,Economy,Business,Mobile App,Debit Card,77,581,Cancelled,,0,No,5.0,4333.04,Satisfied
+PNR00672,Air India,Mumbai,Bangalore,2025-01-28,46.0,Economy,Business,Airport Counter,Debit Card,115,1591,On Time,0.0,2,No,1.0,25093.88,Dissatisfied
+PNR00673,IndiGo,Kolkata,Delhi,2025-12-12,33.0,Economy,Business,Website,UPI,216,1739,Delayed,174.0,0,Yes,2.0,10790.33,Dissatisfied
+PNR00674,Air India,Delhi,Kolkata,2024-09-22,51.0,Business,Personal,Airport Counter,Net Banking,187,1023,On Time,0.0,3,Yes,3.0,22832.01,Neutral
+PNR00675,Air India Express,Delhi,Bangalore,2024-11-12,59.0,Economy,Business,Airport Counter,Credit Card,117,808,On Time,0.0,0,Yes,3.0,27247.41,Neutral
+PNR00676,Vistara,Bangalore,Delhi,2024-05-28,32.0,Economy,Business,Mobile App,Credit Card,130,420,Delayed,78.0,1,No,2.0,2672.71,Dissatisfied
+PNR00677,IndiGo,Delhi,Mumbai,2024-11-17,41.0,Economy,Personal,Website,Credit Card,200,1641,On Time,0.0,2,No,4.0,28597.7,Satisfied
+PNR00678,Akasa Air,Delhi,Mumbai,2024-06-02,53.0,Economy,Business,Website,Credit Card,107,1747,On Time,0.0,2,No,4.0,3214.56,Satisfied
+PNR00679,Air India Express,Mumbai,Bangalore,2024-06-15,27.0,Economy,Personal,Website,Debit Card,207,1680,On Time,0.0,0,No,1.0,23599.94,Dissatisfied
+PNR00680,IndiGo,Mumbai,Bangalore,2025-10-10,48.0,Economy,Personal,Airport Counter,UPI,156,1229,Delayed,148.0,0,Yes,2.0,24349.06,Dissatisfied
+PNR00681,Air India Express,Delhi,Bangalore,2025-06-15,27.0,Economy,Business,Travel Agent,Net Banking,109,975,Delayed,134.0,3,No,2.0,29427.23,Dissatisfied
+PNR00682,IndiGo,Delhi,Kolkata,2025-07-12,39.0,Economy,Personal,Airport Counter,Net Banking,64,1271,On Time,0.0,2,No,3.0,11296.92,Neutral
+PNR00683,SpiceJet,Kolkata,Delhi,2024-11-18,35.0,Economy,Personal,Travel Agent,Net Banking,181,1575,On Time,0.0,3,Yes,1.0,16839.96,Dissatisfied
+PNR00684,Akasa Air,Delhi,Bangalore,2025-03-12,36.0,Business,Personal,Mobile App,Debit Card,139,963,On Time,0.0,0,No,5.0,37628.32,Satisfied
+PNR00685,SpiceJet,Bangalore,Mumbai,2025-04-03,25.0,Premium Economy,Personal,Mobile App,UPI,76,640,On Time,0.0,1,No,4.0,37007.42,Satisfied
+PNR00686,IndiGo,Delhi,Bangalore,2024-09-28,31.0,Business,Business,Website,Debit Card,230,1439,On Time,0.0,0,No,3.0,13774.37,Neutral
+PNR00687,Air India,Bangalore,Mumbai,2024-05-13,33.0,Premium Economy,Personal,Airport Counter,Credit Card,224,512,On Time,0.0,1,Yes,5.0,20044.32,Satisfied
+PNR00688,Akasa Air,Delhi,Kolkata,2025-04-10,32.0,Economy,Business,Website,UPI,158,1565,On Time,0.0,2,No,5.0,21581.82,Satisfied
+PNR00689,Air India Express,Mumbai,Delhi,2024-04-01,47.0,Premium Economy,Business,Mobile App,Debit Card,81,471,On Time,0.0,1,No,3.0,30910.84,Neutral
+PNR00690,Air India,Bangalore,Mumbai,2025-11-10,55.0,Business,Business,Airport Counter,Credit Card,211,603,Delayed,23.0,2,No,5.0,18628.11,Satisfied
+PNR00691,Air India Express,Bangalore,Delhi,2024-07-14,18.0,Premium Economy,Personal,Airport Counter,UPI,103,1114,Delayed,116.0,3,No,5.0,21453.73,Satisfied
+PNR00692,Air India Express,Kolkata,Delhi,2025-03-29,64.0,Economy,Business,Airport Counter,Net Banking,182,1509,Delayed,20.0,0,Yes,4.0,10519.29,Satisfied
+PNR00693,Vistara,Bangalore,Mumbai,2025-12-24,44.0,Premium Economy,Business,Website,Debit Card,121,856,On Time,0.0,1,No,1.0,33641.0,Dissatisfied
+PNR00694,Air India,Mumbai,Bangalore,2025-04-01,30.0,Economy,Personal,Website,Credit Card,115,996,Cancelled,,2,No,3.0,33482.9,Neutral
+PNR00695,SpiceJet,Mumbai,Hyderabad,2024-06-23,44.0,Economy,Business,Website,Net Banking,139,414,On Time,0.0,3,No,5.0,24505.96,Satisfied
+PNR00696,Akasa Air,Mumbai,Delhi,2024-10-29,56.0,Economy,Business,Mobile App,Net Banking,88,769,Delayed,110.0,2,No,1.0,10026.45,Dissatisfied
+PNR00697,Air India Express,Bangalore,Mumbai,2025-02-27,57.0,Economy,Business,Mobile App,Credit Card,185,454,On Time,0.0,0,No,3.0,12553.04,Neutral
+PNR00698,Akasa Air,Kolkata,Delhi,2025-09-26,46.0,Economy,Business,Airport Counter,Credit Card,65,1224,On Time,0.0,1,No,2.0,4072.87,Dissatisfied
+PNR00699,Air India Express,Delhi,Kolkata,2024-04-08,38.0,Economy,Business,Travel Agent,Credit Card,207,624,On Time,0.0,1,No,1.0,19721.6,Dissatisfied
+PNR00700,SpiceJet,Delhi,Bangalore,2024-01-25,57.0,Economy,Personal,Website,Net Banking,202,1244,On Time,0.0,3,No,2.0,31038.74,Dissatisfied
+PNR00701,Air India Express,Delhi,Bangalore,2024-03-28,55.0,Premium Economy,Personal,Travel Agent,Credit Card,66,849,On Time,0.0,2,No,3.0,28280.16,Neutral
+PNR00702,SpiceJet,Kolkata,Delhi,2025-04-08,61.0,Economy,Personal,Travel Agent,Credit Card,74,533,On Time,0.0,0,No,4.0,18271.62,Satisfied
+PNR00703,SpiceJet,Kolkata,Delhi,2024-07-15,21.0,Economy,Personal,Mobile App,Debit Card,192,1270,On Time,0.0,1,Yes,2.0,4770.51,Dissatisfied
+PNR00704,Vistara,Delhi,Bangalore,2025-09-11,35.0,Economy,Business,Website,Net Banking,196,511,On Time,0.0,0,No,2.0,27290.97,Dissatisfied
+PNR00705,SpiceJet,Mumbai,Bangalore,2025-02-15,36.0,Economy,Personal,Travel Agent,UPI,62,913,Delayed,18.0,0,No,3.0,2544.05,Neutral
+PNR00706,SpiceJet,Kolkata,Delhi,2024-01-30,40.0,Economy,Business,Travel Agent,Credit Card,69,627,On Time,0.0,1,No,5.0,16265.07,Satisfied
+PNR00707,IndiGo,Kolkata,Delhi,2025-04-06,36.0,Business,Business,Website,Credit Card,131,785,On Time,0.0,3,Yes,1.0,62184.95,Dissatisfied
+PNR00708,IndiGo,Bangalore,Mumbai,2024-04-05,51.0,Economy,Business,Mobile App,Debit Card,148,1127,On Time,0.0,0,No,5.0,11898.78,Satisfied
+PNR00709,Vistara,Mumbai,Bangalore,2025-01-28,36.0,Economy,Personal,Mobile App,Credit Card,202,694,On Time,0.0,0,No,2.0,12445.03,Dissatisfied
+PNR00710,Air India,Kolkata,Delhi,2024-05-28,29.0,Economy,Business,Mobile App,Debit Card,198,343,On Time,0.0,3,No,2.0,7561.93,Dissatisfied
+PNR00711,SpiceJet,Delhi,Mumbai,2025-04-11,52.0,Economy,Business,Mobile App,Debit Card,193,574,On Time,0.0,0,Yes,2.0,28848.74,Dissatisfied
+PNR00712,Air India Express,Kolkata,Delhi,2024-06-23,27.0,Economy,Business,Website,Debit Card,63,1634,On Time,0.0,0,No,5.0,31893.05,Satisfied
+PNR00713,SpiceJet,Mumbai,Delhi,2025-04-11,45.0,Economy,Personal,Mobile App,Debit Card,63,1281,On Time,0.0,3,Yes,4.0,19365.46,Satisfied
+PNR00714,Air India,Kolkata,Delhi,2025-03-30,20.0,Economy,Business,Mobile App,Debit Card,135,1038,On Time,0.0,1,No,5.0,26681.61,Satisfied
+PNR00715,Akasa Air,Hyderabad,Mumbai,2024-12-29,54.0,Premium Economy,Personal,Travel Agent,UPI,119,1573,On Time,0.0,0,Yes,1.0,35122.71,Dissatisfied
+PNR00716,SpiceJet,Delhi,Mumbai,2024-10-12,48.0,Economy,Business,Mobile App,Net Banking,231,1118,On Time,0.0,2,No,4.0,15040.43,Satisfied
+PNR00717,Akasa Air,Delhi,Mumbai,2025-06-03,60.0,Economy,Business,Website,UPI,72,1024,On Time,0.0,2,Yes,1.0,7360.35,Dissatisfied
+PNR00718,Vistara,Delhi,Bangalore,2024-06-23,20.0,Economy,Business,Website,UPI,142,1495,On Time,0.0,2,Yes,1.0,16073.27,Dissatisfied
+PNR00719,Akasa Air,Delhi,Bangalore,2024-12-13,47.0,Economy,Personal,Website,Credit Card,218,1188,On Time,0.0,1,No,5.0,30009.14,Satisfied
+PNR00720,Vistara,Bangalore,Delhi,2025-06-07,39.0,Economy,Business,Website,Debit Card,65,1120,On Time,0.0,1,No,4.0,12537.98,Satisfied
+PNR00721,SpiceJet,Mumbai,Bangalore,2025-01-26,64.0,Premium Economy,Business,Travel Agent,Credit Card,82,917,Cancelled,,3,Yes,4.0,15616.02,Satisfied
+PNR00722,IndiGo,Bangalore,Mumbai,2024-07-28,64.0,Economy,Personal,Website,Net Banking,60,357,On Time,0.0,1,No,4.0,15982.55,Satisfied
+PNR00723,SpiceJet,Delhi,Kolkata,2024-02-03,57.0,Economy,Business,Travel Agent,Debit Card,183,1531,On Time,0.0,0,No,5.0,27181.43,Satisfied
+PNR00724,Vistara,Mumbai,Hyderabad,2025-06-19,46.0,Economy,Personal,Website,UPI,129,515,On Time,0.0,0,Yes,1.0,21461.22,Dissatisfied
+PNR00725,Vistara,Hyderabad,Mumbai,2024-06-14,44.0,Business,Business,Mobile App,Credit Card,121,1597,Delayed,58.0,0,No,2.0,37249.75,Dissatisfied
+PNR00726,SpiceJet,Delhi,Kolkata,2025-09-03,19.0,Economy,Personal,Travel Agent,Debit Card,205,830,Delayed,95.0,0,Yes,1.0,32408.85,Dissatisfied
+PNR00727,Akasa Air,Hyderabad,Mumbai,2025-06-14,54.0,Economy,Business,Travel Agent,Debit Card,233,1044,On Time,0.0,1,No,5.0,16084.97,Satisfied
+PNR00728,Vistara,Mumbai,Hyderabad,2025-05-25,35.0,Economy,Personal,Mobile App,UPI,136,986,On Time,0.0,1,No,5.0,29065.9,Satisfied
+PNR00729,SpiceJet,Kolkata,Delhi,2024-04-06,42.0,Economy,Business,Website,Credit Card,138,315,On Time,0.0,3,Yes,2.0,8176.13,Dissatisfied
+PNR00730,Air India Express,Mumbai,Hyderabad,2025-12-03,26.0,Economy,Business,Airport Counter,Credit Card,164,1523,On Time,0.0,1,No,4.0,14315.64,Satisfied
+PNR00731,Vistara,Hyderabad,Mumbai,2025-07-06,29.0,Economy,Business,Travel Agent,Net Banking,85,1581,On Time,0.0,2,Yes,5.0,29448.41,Satisfied
+PNR00732,Air India,Mumbai,Bangalore,2025-08-23,61.0,Premium Economy,Business,Travel Agent,Debit Card,154,592,On Time,0.0,1,No,4.0,7223.28,Satisfied
+PNR00733,SpiceJet,Bangalore,Mumbai,2024-08-13,56.0,Economy,Business,Travel Agent,Net Banking,193,874,Delayed,113.0,0,Yes,4.0,15177.15,Satisfied
+PNR00734,Vistara,Bangalore,Delhi,2024-02-09,40.0,Economy,Personal,Airport Counter,Debit Card,232,1762,On Time,0.0,3,Yes,2.0,20856.62,Dissatisfied
+PNR00735,SpiceJet,Bangalore,Mumbai,2024-06-18,51.0,Economy,Business,Travel Agent,UPI,145,944,On Time,0.0,0,No,5.0,20596.39,Satisfied
+PNR00736,SpiceJet,Mumbai,Delhi,2024-05-16,38.0,Economy,Business,Mobile App,Credit Card,225,449,On Time,0.0,0,Yes,1.0,25049.98,Dissatisfied
+PNR00737,Air India Express,Bangalore,Delhi,2025-10-08,30.0,Economy,Personal,Travel Agent,Debit Card,195,1735,On Time,0.0,3,Yes,3.0,33134.82,Neutral
+PNR00738,IndiGo,Delhi,Bangalore,2025-11-21,34.0,Economy,Business,Mobile App,Credit Card,123,1455,Delayed,177.0,0,No,5.0,3839.9,Satisfied
+PNR00739,Air India Express,Mumbai,Delhi,2025-06-29,32.0,Economy,Business,Website,Credit Card,129,1340,On Time,0.0,1,No,1.0,5226.68,Dissatisfied
+PNR00740,Air India,Mumbai,Delhi,2025-03-29,30.0,Economy,Business,Travel Agent,UPI,65,1164,Delayed,96.0,3,Yes,2.0,30858.66,Dissatisfied
+PNR00741,IndiGo,Bangalore,Mumbai,2024-03-02,55.0,Economy,Business,Travel Agent,Debit Card,66,411,On Time,0.0,0,No,5.0,15232.58,Satisfied
+PNR00742,Akasa Air,Mumbai,Delhi,2025-01-30,39.0,Economy,Personal,Website,Net Banking,69,1225,On Time,0.0,1,Yes,4.0,33476.55,Satisfied
+PNR00743,IndiGo,Hyderabad,Mumbai,2025-11-25,27.0,Premium Economy,Personal,Website,Credit Card,166,1053,Delayed,111.0,2,Yes,3.0,38977.46,Neutral
+PNR00744,SpiceJet,Hyderabad,Mumbai,2025-08-14,45.0,Economy,Business,Mobile App,UPI,75,1683,On Time,0.0,2,No,3.0,19222.13,Neutral
+PNR00745,Vistara,Bangalore,Delhi,2024-10-16,41.0,Premium Economy,Personal,Website,UPI,235,1591,Delayed,123.0,2,No,2.0,31611.25,Dissatisfied
+PNR00746,Air India,Bangalore,Delhi,2025-03-19,22.0,Economy,Business,Website,Debit Card,155,1054,On Time,0.0,3,No,1.0,17160.4,Dissatisfied
+PNR00747,Air India,Mumbai,Hyderabad,2025-03-27,39.0,Economy,Business,Website,UPI,221,419,On Time,0.0,1,No,5.0,28864.99,Satisfied
+PNR00748,SpiceJet,Delhi,Kolkata,2024-09-03,62.0,Premium Economy,Business,Website,UPI,237,1416,On Time,0.0,1,Yes,3.0,39572.82,Neutral
+PNR00749,Air India Express,Delhi,Mumbai,2025-04-22,47.0,Economy,Personal,Mobile App,UPI,172,459,On Time,0.0,2,No,1.0,19891.42,Dissatisfied
+PNR00750,Air India Express,Mumbai,Hyderabad,2024-11-03,63.0,Economy,Personal,Mobile App,Net Banking,197,1497,On Time,0.0,1,No,2.0,8947.11,Dissatisfied
+PNR00751,SpiceJet,Kolkata,Delhi,2024-05-31,38.0,Economy,Business,Website,Debit Card,161,1198,On Time,0.0,0,Yes,2.0,6880.54,Dissatisfied
+PNR00752,Air India,Bangalore,Mumbai,2025-09-28,62.0,Economy,Personal,Mobile App,Credit Card,229,858,On Time,0.0,1,No,1.0,33700.39,Dissatisfied
+PNR00753,SpiceJet,Kolkata,Delhi,2025-01-13,34.0,Economy,Business,Website,Credit Card,166,1651,On Time,0.0,1,Yes,5.0,22044.19,Satisfied
+PNR00754,SpiceJet,Kolkata,Delhi,2024-11-02,32.0,Economy,Business,Website,Credit Card,235,435,On Time,0.0,0,No,1.0,25929.03,Dissatisfied
+PNR00755,Vistara,Delhi,Bangalore,2024-03-29,58.0,Economy,Personal,Travel Agent,Debit Card,106,1071,On Time,0.0,3,No,4.0,7473.88,Satisfied
+PNR00756,Akasa Air,Mumbai,Delhi,2024-12-16,27.0,Economy,Personal,Mobile App,Credit Card,202,1266,On Time,0.0,1,No,3.0,14699.76,Neutral
+PNR00757,Akasa Air,Delhi,Bangalore,2025-05-03,27.0,Economy,Personal,Mobile App,Debit Card,220,696,On Time,0.0,2,Yes,5.0,23122.39,Satisfied
+PNR00758,IndiGo,Mumbai,Bangalore,2025-06-28,21.0,Business,Personal,Mobile App,Debit Card,115,1231,On Time,0.0,2,No,2.0,10264.43,Dissatisfied
+PNR00759,Air India Express,Mumbai,Hyderabad,2025-12-07,65.0,Economy,Business,Website,Net Banking,229,771,On Time,0.0,3,Yes,5.0,29833.96,Satisfied
+PNR00760,Akasa Air,Delhi,Bangalore,2025-10-19,63.0,Economy,Business,Mobile App,UPI,218,1255,On Time,0.0,3,No,4.0,9529.78,Satisfied
+PNR00761,Akasa Air,Mumbai,Bangalore,2024-07-30,43.0,Economy,Business,Mobile App,UPI,97,659,On Time,0.0,3,No,3.0,12134.32,Neutral
+PNR00762,SpiceJet,Delhi,Bangalore,2024-02-19,31.0,Premium Economy,Business,Website,Net Banking,213,368,On Time,0.0,3,No,1.0,3924.94,Dissatisfied
+PNR00763,Akasa Air,Bangalore,Mumbai,2024-12-22,55.0,Premium Economy,Personal,Mobile App,Net Banking,121,1371,On Time,0.0,2,Yes,5.0,40792.47,Satisfied
+PNR00764,IndiGo,Mumbai,Delhi,2025-04-08,38.0,Business,Personal,Travel Agent,Net Banking,138,801,On Time,0.0,0,Yes,5.0,54022.27,Satisfied
+PNR00765,SpiceJet,Kolkata,Delhi,2025-01-30,19.0,Economy,Business,Website,Net Banking,81,828,Delayed,162.0,1,No,5.0,18523.09,Satisfied
+PNR00766,Air India,Hyderabad,Mumbai,2025-06-22,62.0,Business,Personal,Mobile App,UPI,111,1414,On Time,0.0,3,No,2.0,24256.08,Dissatisfied
+PNR00767,Air India,Delhi,Kolkata,2024-08-08,54.0,Business,Business,Mobile App,Net Banking,155,1767,On Time,0.0,2,No,3.0,7910.39,Neutral
+PNR00768,Vistara,Bangalore,Mumbai,2024-05-08,49.0,Economy,Business,Mobile App,Net Banking,116,1504,Delayed,10.0,1,Yes,2.0,19179.51,Dissatisfied
+PNR00769,Vistara,Bangalore,Delhi,2025-12-23,25.0,Premium Economy,Business,Website,Debit Card,84,1105,On Time,0.0,1,Yes,2.0,25673.3,Dissatisfied
+PNR00770,IndiGo,Hyderabad,Mumbai,2024-07-22,30.0,Economy,Personal,Airport Counter,Credit Card,67,581,On Time,0.0,0,Yes,1.0,21287.44,Dissatisfied
+PNR00771,Air India,Mumbai,Hyderabad,2024-03-11,43.0,Economy,Business,Mobile App,Credit Card,66,1659,On Time,0.0,2,Yes,3.0,23097.45,Neutral
+PNR00772,Air India,Bangalore,Delhi,2024-03-28,21.0,Economy,Business,Travel Agent,UPI,210,475,On Time,0.0,1,Yes,1.0,19881.03,Dissatisfied
+PNR00773,SpiceJet,Mumbai,Hyderabad,2025-04-04,55.0,Premium Economy,Personal,Website,Credit Card,148,609,Delayed,22.0,2,No,5.0,3317.7,Satisfied
+PNR00774,IndiGo,Mumbai,Delhi,2025-02-17,30.0,Economy,Personal,Mobile App,Debit Card,84,615,On Time,0.0,3,Yes,1.0,24003.73,Dissatisfied
+PNR00775,Akasa Air,Mumbai,Delhi,2024-12-07,65.0,Economy,Business,Mobile App,Debit Card,96,603,On Time,0.0,1,Yes,4.0,2964.0,Satisfied
+PNR00776,Air India Express,Delhi,Kolkata,2024-06-02,49.0,Premium Economy,Personal,Website,Net Banking,73,1503,On Time,0.0,3,Yes,2.0,17827.6,Dissatisfied
+PNR00777,SpiceJet,Mumbai,Delhi,2025-06-26,50.0,Premium Economy,Business,Travel Agent,Credit Card,208,847,Delayed,54.0,3,Yes,5.0,17045.54,Satisfied
+PNR00778,Akasa Air,Delhi,Bangalore,2025-03-21,25.0,Business,Personal,Website,Credit Card,166,1712,On Time,0.0,2,Yes,2.0,,Dissatisfied
+PNR00779,Vistara,Bangalore,Delhi,2025-01-01,40.0,Economy,Business,Travel Agent,Credit Card,75,1619,On Time,0.0,2,No,1.0,18597.82,Dissatisfied
+PNR00780,IndiGo,Mumbai,Hyderabad,2025-11-10,38.0,Economy,Personal,Mobile App,Debit Card,141,865,On Time,0.0,1,No,3.0,7710.04,Neutral
+PNR00781,Vistara,Delhi,Mumbai,2024-07-27,34.0,Economy,Business,Website,Net Banking,143,821,On Time,0.0,3,No,3.0,11749.83,Neutral
+PNR00782,IndiGo,Delhi,Mumbai,2025-07-22,54.0,Business,Business,Website,UPI,93,1282,On Time,0.0,2,No,1.0,6476.67,Dissatisfied
+PNR00783,Vistara,Mumbai,Bangalore,2025-04-24,53.0,Economy,Business,Website,UPI,178,1543,On Time,0.0,1,No,3.0,6259.44,Neutral
+PNR00784,Vistara,Delhi,Mumbai,2025-01-16,47.0,Premium Economy,Business,Mobile App,Credit Card,125,816,Delayed,67.0,2,No,1.0,29937.34,Dissatisfied
+PNR00785,SpiceJet,Kolkata,Delhi,2025-02-13,50.0,Economy,Business,Airport Counter,UPI,159,979,On Time,0.0,2,No,2.0,25832.95,Dissatisfied
+PNR00786,Air India,Kolkata,Delhi,2024-07-04,52.0,Economy,Business,Website,Debit Card,121,1787,On Time,0.0,3,Yes,4.0,14057.71,Satisfied
+PNR00787,SpiceJet,Kolkata,Delhi,2025-11-10,19.0,Premium Economy,Personal,Website,Debit Card,65,1691,On Time,0.0,1,Yes,3.0,18541.58,Neutral
+PNR00788,Air India,Bangalore,Mumbai,2025-09-21,56.0,Economy,Personal,Website,Net Banking,93,1384,On Time,0.0,1,No,5.0,10503.8,Satisfied
+PNR00789,Air India Express,Mumbai,Hyderabad,2024-01-27,60.0,Premium Economy,Business,Website,Net Banking,221,1148,On Time,0.0,0,Yes,3.0,18196.64,Neutral
+PNR00790,SpiceJet,Delhi,Bangalore,2025-02-19,20.0,Economy,Personal,Website,Credit Card,222,1086,Cancelled,,3,No,2.0,24106.25,Dissatisfied
+PNR00791,IndiGo,Mumbai,Bangalore,2024-09-15,22.0,Economy,Business,Mobile App,Credit Card,225,1749,On Time,0.0,1,Yes,2.0,24348.55,Dissatisfied
+PNR00792,Vistara,Mumbai,Delhi,2024-08-08,46.0,Economy,Personal,Mobile App,UPI,112,1090,On Time,0.0,1,Yes,5.0,8856.05,Satisfied
+PNR00793,IndiGo,Mumbai,Bangalore,2025-06-01,19.0,Economy,Business,Website,Debit Card,80,1396,On Time,0.0,1,Yes,3.0,21314.79,Neutral
+PNR00794,Akasa Air,Mumbai,Bangalore,2025-03-29,36.0,Economy,Business,Mobile App,Debit Card,142,1656,Delayed,167.0,2,No,2.0,13085.49,Dissatisfied
+PNR00795,SpiceJet,Mumbai,Delhi,2025-05-19,21.0,Economy,Personal,Mobile App,Net Banking,201,575,On Time,0.0,2,Yes,1.0,6055.5,Dissatisfied
+PNR00796,Vistara,Delhi,Mumbai,2025-12-25,31.0,Business,Business,Website,Credit Card,213,302,Delayed,170.0,2,Yes,4.0,43805.68,Satisfied
+PNR00797,Vistara,Bangalore,Delhi,2024-02-15,33.0,Business,Business,Website,Debit Card,135,1308,Delayed,137.0,3,Yes,2.0,33682.78,Dissatisfied
+PNR00798,SpiceJet,Mumbai,Bangalore,2024-11-22,53.0,Premium Economy,Business,Mobile App,Net Banking,159,694,Delayed,119.0,0,No,1.0,25435.9,Dissatisfied
+PNR00799,Air India Express,Bangalore,Mumbai,2024-03-15,29.0,Economy,Personal,Mobile App,Net Banking,62,1047,On Time,0.0,0,No,3.0,23229.22,Neutral
+PNR00800,Akasa Air,Bangalore,Mumbai,2024-06-20,29.0,Economy,Personal,Mobile App,Credit Card,139,1621,Delayed,174.0,1,Yes,3.0,27836.23,Neutral
+PNR00801,Vistara,Bangalore,Mumbai,2024-07-22,55.0,Economy,Personal,Airport Counter,UPI,121,556,On Time,0.0,3,No,2.0,14050.68,Dissatisfied
+PNR00802,Akasa Air,Delhi,Bangalore,2024-12-20,37.0,Economy,Business,Mobile App,UPI,131,924,On Time,0.0,1,No,4.0,15471.05,Satisfied
+PNR00803,Vistara,Bangalore,Mumbai,2025-03-03,34.0,Economy,Business,Website,Credit Card,196,1125,On Time,0.0,2,Yes,1.0,3150.38,Dissatisfied
+PNR00804,Air India,Bangalore,Mumbai,2025-04-24,62.0,Economy,Personal,Airport Counter,Credit Card,125,1588,On Time,0.0,2,No,1.0,9000.29,Dissatisfied
+PNR00805,Air India Express,Delhi,Mumbai,2024-08-04,31.0,Economy,Business,Mobile App,Debit Card,84,1525,On Time,0.0,3,No,2.0,10685.23,Dissatisfied
+PNR00806,Vistara,Kolkata,Delhi,2024-08-02,54.0,Economy,Business,Mobile App,Debit Card,130,389,Delayed,25.0,2,No,4.0,31170.42,Satisfied
+PNR00807,IndiGo,Delhi,Kolkata,2024-02-25,33.0,Premium Economy,Personal,Airport Counter,Net Banking,138,1426,On Time,0.0,0,No,1.0,31458.29,Dissatisfied
+PNR00808,Vistara,Kolkata,Delhi,2025-09-09,63.0,Premium Economy,Personal,Website,UPI,122,375,On Time,0.0,1,Yes,1.0,40942.88,Dissatisfied
+PNR00809,SpiceJet,Mumbai,Hyderabad,2024-02-16,63.0,Business,Business,Website,UPI,138,1745,On Time,0.0,0,Yes,1.0,43432.3,Dissatisfied
+PNR00810,IndiGo,Mumbai,Hyderabad,2024-02-06,58.0,Economy,Personal,Website,Credit Card,201,1656,On Time,0.0,3,Yes,4.0,5390.21,Satisfied
+PNR00811,Air India,Kolkata,Delhi,2024-12-09,28.0,Premium Economy,Personal,Airport Counter,Net Banking,217,764,On Time,0.0,3,Yes,4.0,10035.11,Satisfied
+PNR00812,SpiceJet,Hyderabad,Mumbai,2025-02-14,35.0,Premium Economy,Business,Travel Agent,Credit Card,87,765,On Time,0.0,0,Yes,4.0,19158.02,Satisfied
+PNR00813,Akasa Air,Mumbai,Bangalore,2024-09-01,29.0,Economy,Personal,Airport Counter,Net Banking,181,484,On Time,0.0,3,Yes,1.0,6647.75,Dissatisfied
+PNR00814,Vistara,Delhi,Kolkata,2024-03-18,51.0,Economy,Business,Mobile App,Net Banking,81,407,On Time,0.0,0,No,5.0,23200.62,Satisfied
+PNR00815,Vistara,Mumbai,Bangalore,2025-10-29,33.0,Premium Economy,Personal,Website,Credit Card,157,922,On Time,0.0,3,No,4.0,14836.89,Satisfied
+PNR00816,IndiGo,Delhi,Kolkata,2024-03-20,62.0,Premium Economy,Personal,Website,Net Banking,98,539,Delayed,22.0,3,Yes,5.0,8257.12,Satisfied
+PNR00817,IndiGo,Delhi,Mumbai,2024-09-05,19.0,Premium Economy,Business,Website,Net Banking,170,1417,On Time,0.0,2,No,5.0,34262.62,Satisfied
+PNR00818,Air India,Bangalore,Mumbai,2025-05-07,36.0,Economy,Business,Mobile App,Net Banking,141,1222,Delayed,123.0,2,Yes,5.0,13445.76,Satisfied
+PNR00819,IndiGo,Delhi,Mumbai,2024-08-18,32.0,Economy,Business,Travel Agent,UPI,164,498,On Time,0.0,2,Yes,4.0,24116.82,Satisfied
+PNR00820,Akasa Air,Mumbai,Hyderabad,2024-05-26,34.0,Economy,Business,Website,Debit Card,177,974,On Time,0.0,2,Yes,2.0,18264.84,Dissatisfied
+PNR00821,Akasa Air,Mumbai,Delhi,2024-01-14,34.0,Economy,Business,Travel Agent,Net Banking,211,1117,On Time,0.0,0,No,3.0,17990.29,Neutral
+PNR00822,Akasa Air,Delhi,Kolkata,2024-03-23,55.0,Premium Economy,Personal,Website,UPI,103,1345,On Time,0.0,3,Yes,5.0,6931.48,Satisfied
+PNR00823,Akasa Air,Kolkata,Delhi,2025-10-09,43.0,Economy,Personal,Website,Credit Card,67,1767,On Time,0.0,3,No,1.0,18900.83,Dissatisfied
+PNR00824,Vistara,Delhi,Mumbai,2024-08-07,62.0,Economy,Personal,Airport Counter,Debit Card,142,406,Delayed,117.0,0,Yes,2.0,22752.76,Dissatisfied
+PNR00825,Vistara,Hyderabad,Mumbai,2024-02-08,52.0,Business,Personal,Travel Agent,UPI,110,1327,On Time,0.0,3,Yes,2.0,30686.0,Dissatisfied
+PNR00826,Akasa Air,Delhi,Mumbai,2025-01-23,36.0,Economy,Business,Website,Credit Card,148,482,On Time,0.0,3,No,2.0,31745.36,Dissatisfied
+PNR00827,Vistara,Delhi,Bangalore,2024-01-14,23.0,Economy,Business,Mobile App,UPI,191,1054,On Time,0.0,1,No,1.0,13810.43,Dissatisfied
+PNR00828,Akasa Air,Bangalore,Delhi,2024-03-21,31.0,Premium Economy,Business,Website,Net Banking,77,575,On Time,0.0,3,No,4.0,17930.14,Satisfied
+PNR00829,IndiGo,Mumbai,Delhi,2025-12-22,53.0,Economy,Personal,Website,Debit Card,175,834,On Time,0.0,2,Yes,1.0,24443.66,Dissatisfied
+PNR00830,IndiGo,Mumbai,Delhi,2025-08-15,63.0,Premium Economy,Business,Website,UPI,232,1545,On Time,0.0,3,No,5.0,32417.01,Satisfied
+PNR00831,Vistara,Delhi,Mumbai,2025-04-08,50.0,Economy,Personal,Website,Debit Card,98,1123,Delayed,37.0,3,No,1.0,16804.15,Dissatisfied
+PNR00832,Air India,Bangalore,Mumbai,2024-09-16,61.0,Economy,Personal,Mobile App,Debit Card,217,1155,On Time,0.0,3,No,4.0,14529.81,Satisfied
+PNR00833,Air India Express,Delhi,Mumbai,2024-04-29,44.0,Economy,Personal,Website,Debit Card,84,1631,On Time,0.0,3,No,5.0,10873.85,Satisfied
+PNR00834,Akasa Air,Mumbai,Bangalore,2024-07-19,34.0,Premium Economy,Personal,Mobile App,Debit Card,158,1119,Delayed,136.0,0,Yes,1.0,20373.63,Dissatisfied
+PNR00835,Akasa Air,Delhi,Kolkata,2025-04-01,19.0,Economy,Personal,Mobile App,Debit Card,153,736,Delayed,124.0,3,No,4.0,10639.41,Satisfied
+PNR00836,Akasa Air,Hyderabad,Mumbai,2024-02-16,56.0,Economy,Business,Website,Credit Card,95,394,On Time,0.0,3,Yes,5.0,32701.62,Satisfied
+PNR00837,SpiceJet,Delhi,Bangalore,2024-06-03,38.0,Premium Economy,Personal,Website,UPI,78,926,On Time,0.0,0,No,3.0,28137.96,Neutral
+PNR00838,SpiceJet,Delhi,Bangalore,2025-07-14,40.0,Economy,Personal,Airport Counter,UPI,225,1626,Delayed,134.0,0,Yes,5.0,5465.46,Satisfied
+PNR00839,IndiGo,Mumbai,Bangalore,2025-11-15,54.0,Premium Economy,Personal,Website,Net Banking,67,301,On Time,0.0,0,Yes,3.0,28259.1,Neutral
+PNR00840,Vistara,Bangalore,Delhi,2025-03-03,62.0,Economy,Personal,Website,Net Banking,142,1064,On Time,0.0,2,No,4.0,26100.92,Satisfied
+PNR00841,Air India,Delhi,Kolkata,2024-07-20,37.0,Business,Business,Travel Agent,Credit Card,224,454,Delayed,53.0,1,No,1.0,5188.26,Dissatisfied
+PNR00842,Akasa Air,Bangalore,Delhi,2025-12-15,63.0,Economy,Business,Travel Agent,UPI,140,1679,Delayed,108.0,3,No,1.0,4254.98,Dissatisfied
+PNR00843,Air India Express,Kolkata,Delhi,2025-03-17,36.0,Business,Business,Mobile App,Debit Card,192,1172,On Time,0.0,1,Yes,2.0,62825.78,Dissatisfied
+PNR00844,Air India,Kolkata,Delhi,2025-02-12,37.0,Premium Economy,Business,Airport Counter,Debit Card,136,516,On Time,0.0,2,No,3.0,15347.26,Neutral
+PNR00845,Air India Express,Bangalore,Delhi,2025-07-18,19.0,Business,Business,Website,UPI,158,1570,Delayed,148.0,3,Yes,2.0,19627.18,Dissatisfied
+PNR00846,Akasa Air,Delhi,Kolkata,2024-11-02,35.0,Business,Business,Airport Counter,Credit Card,231,650,Delayed,57.0,0,Yes,3.0,29485.73,Neutral
+PNR00847,Air India Express,Delhi,Bangalore,2024-01-23,50.0,Premium Economy,Business,Mobile App,Debit Card,136,865,On Time,0.0,2,Yes,1.0,12076.48,Dissatisfied
+PNR00848,Air India Express,Delhi,Bangalore,2025-04-22,35.0,Economy,Business,Website,Net Banking,119,1189,Delayed,59.0,1,Yes,4.0,11821.41,Satisfied
+PNR00849,Akasa Air,Bangalore,Delhi,2024-10-23,47.0,Premium Economy,Personal,Mobile App,Net Banking,153,868,On Time,0.0,3,No,2.0,23723.07,Dissatisfied
+PNR00850,Air India,Mumbai,Hyderabad,2025-01-13,37.0,Economy,Business,Travel Agent,Debit Card,227,1732,Delayed,175.0,3,No,3.0,33624.06,Neutral
+PNR00851,Air India,Mumbai,Delhi,2024-02-07,31.0,Economy,Business,Travel Agent,Credit Card,197,740,On Time,0.0,0,No,4.0,34919.2,Satisfied
+PNR00852,Vistara,Delhi,Mumbai,2025-10-27,46.0,Economy,Personal,Travel Agent,Debit Card,174,695,Delayed,30.0,2,Yes,5.0,34207.16,Satisfied
+PNR00853,Air India Express,Mumbai,Hyderabad,2024-08-18,22.0,Economy,Personal,Travel Agent,UPI,176,1725,On Time,0.0,3,Yes,1.0,34000.6,Dissatisfied
+PNR00854,Air India,Hyderabad,Mumbai,2024-12-16,51.0,Economy,Business,Airport Counter,UPI,82,897,Delayed,118.0,0,Yes,4.0,29334.32,Satisfied
+PNR00855,IndiGo,Kolkata,Delhi,2025-12-19,40.0,Economy,Business,Mobile App,Debit Card,223,390,On Time,0.0,0,Yes,5.0,13017.31,Satisfied
+PNR00856,Vistara,Mumbai,Hyderabad,2025-05-31,21.0,Economy,Personal,Mobile App,Debit Card,127,422,On Time,0.0,3,Yes,2.0,17318.25,Dissatisfied
+PNR00857,SpiceJet,Kolkata,Delhi,2024-02-28,55.0,Business,Business,Travel Agent,UPI,155,1585,On Time,0.0,1,No,1.0,4559.8,Dissatisfied
+PNR00858,Air India Express,Mumbai,Hyderabad,2025-02-26,62.0,Premium Economy,Business,Website,Credit Card,148,1589,On Time,0.0,0,No,5.0,20977.91,Satisfied
+PNR00859,SpiceJet,Delhi,Kolkata,2024-06-15,25.0,Premium Economy,Personal,Website,Net Banking,227,865,Delayed,43.0,1,No,1.0,8156.25,Dissatisfied
+PNR00860,Vistara,Bangalore,Delhi,2024-03-21,43.0,Economy,Personal,Travel Agent,Credit Card,177,455,On Time,0.0,0,Yes,5.0,4107.04,Satisfied
+PNR00861,Vistara,Hyderabad,Mumbai,2025-11-12,25.0,Economy,Business,Website,Net Banking,101,312,On Time,0.0,2,No,2.0,19680.47,Dissatisfied
+PNR00862,SpiceJet,Bangalore,Delhi,2024-10-05,57.0,Economy,Business,Travel Agent,UPI,118,745,On Time,0.0,0,Yes,1.0,31155.66,Dissatisfied
+PNR00863,SpiceJet,Hyderabad,Mumbai,2025-06-21,42.0,Economy,Personal,Mobile App,Net Banking,236,1752,On Time,0.0,1,No,2.0,33090.89,Dissatisfied
+PNR00864,Akasa Air,Bangalore,Delhi,2024-07-21,21.0,Premium Economy,Personal,Website,Credit Card,144,1353,Delayed,47.0,0,No,2.0,5111.24,Dissatisfied
+PNR00865,Akasa Air,Delhi,Bangalore,2025-05-13,34.0,Economy,Personal,Travel Agent,Net Banking,205,740,Delayed,138.0,1,Yes,5.0,30626.46,Satisfied
+PNR00866,Akasa Air,Mumbai,Bangalore,2025-05-25,62.0,Economy,Business,Mobile App,Net Banking,169,1695,On Time,0.0,2,No,1.0,12567.35,Dissatisfied
+PNR00867,IndiGo,Bangalore,Mumbai,2024-12-16,57.0,Economy,Personal,Airport Counter,UPI,218,1281,On Time,0.0,1,No,2.0,13661.17,Dissatisfied
+PNR00868,Vistara,Bangalore,Delhi,2024-05-15,51.0,Business,Personal,Airport Counter,Net Banking,80,1635,On Time,0.0,2,Yes,1.0,5076.85,Dissatisfied
+PNR00869,Air India Express,Delhi,Bangalore,2025-04-09,59.0,Premium Economy,Business,Travel Agent,UPI,176,1166,On Time,0.0,1,Yes,5.0,30307.34,Satisfied
+PNR00870,Air India Express,Bangalore,Mumbai,2024-09-14,53.0,Economy,Business,Travel Agent,Credit Card,117,1139,On Time,0.0,3,Yes,5.0,33793.03,Satisfied
+PNR00871,Akasa Air,Mumbai,Hyderabad,2025-07-28,46.0,Business,Personal,Travel Agent,Credit Card,78,1670,Delayed,45.0,3,Yes,1.0,33608.15,Dissatisfied
+PNR00872,Akasa Air,Mumbai,Hyderabad,2024-09-20,43.0,Premium Economy,Personal,Mobile App,Net Banking,74,1586,On Time,0.0,3,No,5.0,14870.34,Satisfied
+PNR00873,IndiGo,Bangalore,Mumbai,2024-09-05,45.0,Premium Economy,Personal,Website,Credit Card,164,993,On Time,0.0,0,No,2.0,11363.87,Dissatisfied
+PNR00874,IndiGo,Bangalore,Delhi,2025-10-20,58.0,Economy,Business,Website,Credit Card,148,1136,On Time,0.0,0,No,4.0,16543.81,Satisfied
+PNR00875,IndiGo,Hyderabad,Mumbai,2025-01-15,43.0,Economy,Personal,Mobile App,Credit Card,149,1701,On Time,0.0,2,Yes,1.0,15937.88,Dissatisfied
+PNR00876,Air India,Hyderabad,Mumbai,2024-03-21,46.0,Economy,Personal,Airport Counter,Net Banking,143,498,On Time,0.0,3,Yes,1.0,2983.24,Dissatisfied
+PNR00877,SpiceJet,Mumbai,Hyderabad,2024-12-07,57.0,Economy,Business,Travel Agent,Net Banking,171,641,On Time,0.0,1,Yes,2.0,33540.7,Dissatisfied
+PNR00878,Akasa Air,Mumbai,Hyderabad,2025-02-15,29.0,Economy,Business,Website,Credit Card,169,1540,Cancelled,,3,Yes,3.0,22860.08,Neutral
+PNR00879,IndiGo,Mumbai,Bangalore,2025-05-02,33.0,Premium Economy,Business,Airport Counter,Net Banking,234,1158,On Time,0.0,1,No,4.0,3435.03,Satisfied
+PNR00880,IndiGo,Kolkata,Delhi,2025-09-09,18.0,Economy,Personal,Website,UPI,79,1397,On Time,0.0,2,No,1.0,3312.99,Dissatisfied
+PNR00881,IndiGo,Mumbai,Hyderabad,2025-01-04,60.0,Economy,Personal,Mobile App,UPI,148,1764,On Time,0.0,0,Yes,4.0,3945.51,Satisfied
+PNR00882,SpiceJet,Hyderabad,Mumbai,2024-07-16,36.0,Business,Business,Website,Debit Card,103,1767,Delayed,166.0,3,Yes,2.0,15185.12,Dissatisfied
+PNR00883,Akasa Air,Mumbai,Bangalore,2024-09-29,38.0,Business,Personal,Travel Agent,Credit Card,233,1171,Delayed,90.0,0,Yes,2.0,17651.55,Dissatisfied
+PNR00884,Air India,Bangalore,Delhi,2024-07-22,22.0,Economy,Personal,Travel Agent,Net Banking,158,1673,Delayed,179.0,1,No,5.0,32301.81,Satisfied
+PNR00885,Vistara,Delhi,Kolkata,2025-05-20,39.0,Economy,Personal,Website,UPI,233,1396,On Time,0.0,3,No,3.0,24329.15,Neutral
+PNR00886,IndiGo,Mumbai,Delhi,2024-11-11,56.0,Economy,Personal,Website,Debit Card,105,705,On Time,0.0,2,Yes,4.0,7894.82,Satisfied
+PNR00887,Akasa Air,Mumbai,Bangalore,2024-11-03,19.0,Economy,Business,Website,UPI,192,805,On Time,0.0,2,Yes,5.0,9055.25,Satisfied
+PNR00888,Air India Express,Kolkata,Delhi,2025-05-30,51.0,Business,Business,Travel Agent,Debit Card,77,606,On Time,0.0,0,No,1.0,10727.18,Dissatisfied
+PNR00889,Vistara,Delhi,Bangalore,2025-05-29,32.0,Economy,Personal,Mobile App,Debit Card,96,797,On Time,0.0,2,No,,15554.94,Dissatisfied
+PNR00890,IndiGo,Mumbai,Delhi,2024-08-09,22.0,Economy,Personal,Airport Counter,Debit Card,207,891,Delayed,50.0,1,No,5.0,11619.18,Satisfied
+PNR00891,Vistara,Delhi,Bangalore,2024-02-05,49.0,Economy,Personal,Website,Credit Card,138,1598,On Time,0.0,1,Yes,1.0,8879.33,Dissatisfied
+PNR00892,IndiGo,Hyderabad,Mumbai,2024-11-01,33.0,Business,Personal,Travel Agent,Credit Card,117,1531,On Time,0.0,2,No,3.0,10363.56,Neutral
+PNR00893,Air India Express,Mumbai,Bangalore,2025-08-27,35.0,Economy,Business,Travel Agent,UPI,239,593,On Time,0.0,0,No,2.0,30303.29,Dissatisfied
+PNR00894,Akasa Air,Delhi,Mumbai,2024-09-02,47.0,Economy,Business,Mobile App,Debit Card,147,1243,On Time,0.0,0,No,1.0,19991.32,Dissatisfied
+PNR00895,Air India Express,Bangalore,Mumbai,2025-04-30,21.0,Economy,Personal,Airport Counter,Credit Card,63,1328,On Time,0.0,2,Yes,4.0,9080.02,Satisfied
+PNR00896,Akasa Air,Delhi,Mumbai,2024-08-23,61.0,Economy,Personal,Website,Net Banking,141,821,Cancelled,,1,Yes,4.0,18133.11,Satisfied
+PNR00897,Air India Express,Mumbai,Delhi,2025-06-18,52.0,Economy,Personal,Airport Counter,UPI,165,396,On Time,0.0,3,No,5.0,8741.36,Satisfied
+PNR00898,SpiceJet,Bangalore,Delhi,2024-04-15,45.0,Economy,Business,Website,UPI,95,715,On Time,0.0,0,No,3.0,4389.35,Neutral
+PNR00899,Vistara,Kolkata,Delhi,2024-08-22,32.0,Economy,Business,Website,Credit Card,134,647,Delayed,101.0,0,Yes,2.0,15751.56,Dissatisfied
+PNR00900,IndiGo,Bangalore,Mumbai,2025-06-13,19.0,Premium Economy,Personal,Airport Counter,Debit Card,136,1566,On Time,0.0,1,No,4.0,10590.15,Satisfied
+PNR00901,Air India,Bangalore,Delhi,2025-04-11,60.0,Economy,Personal,Travel Agent,Net Banking,223,1445,Delayed,173.0,1,No,5.0,31057.67,Satisfied
+PNR00902,SpiceJet,Kolkata,Delhi,2024-04-04,47.0,Economy,Business,Airport Counter,Credit Card,99,483,Delayed,124.0,2,No,4.0,,Satisfied
+PNR00903,Vistara,Delhi,Bangalore,2025-10-07,36.0,Economy,Business,Website,UPI,116,1660,On Time,0.0,2,No,3.0,34793.15,Neutral
+PNR00904,Vistara,Bangalore,Mumbai,2024-06-26,46.0,Economy,Personal,Mobile App,Credit Card,180,1146,Delayed,19.0,0,No,2.0,4141.91,Dissatisfied
+PNR00905,Air India Express,Bangalore,Mumbai,2024-12-06,20.0,Premium Economy,Business,Website,UPI,112,1453,On Time,0.0,2,Yes,3.0,19212.74,Neutral
+PNR00906,Air India Express,Bangalore,Delhi,2024-08-07,30.0,Economy,Business,Website,Debit Card,201,1665,On Time,0.0,3,Yes,5.0,25652.81,Satisfied
+PNR00907,IndiGo,Mumbai,Hyderabad,2025-11-07,58.0,Economy,Personal,Travel Agent,Net Banking,124,634,On Time,0.0,1,Yes,2.0,13756.81,Dissatisfied
+PNR00908,Air India Express,Mumbai,Delhi,2024-01-05,40.0,Premium Economy,Business,Airport Counter,Debit Card,93,1468,On Time,0.0,2,Yes,1.0,6192.6,Dissatisfied
+PNR00909,Akasa Air,Delhi,Mumbai,2025-09-16,44.0,Business,Business,Website,Debit Card,91,1600,Delayed,43.0,3,No,5.0,52421.12,Satisfied
+PNR00910,Air India Express,Mumbai,Bangalore,2024-07-25,30.0,Economy,Business,Mobile App,UPI,233,1588,On Time,0.0,3,No,1.0,33466.13,Dissatisfied
+PNR00911,Air India,Mumbai,Bangalore,2024-11-02,32.0,Economy,Business,Airport Counter,Net Banking,169,307,Delayed,15.0,2,Yes,3.0,5882.47,Neutral
+PNR00912,Vistara,Mumbai,Bangalore,2025-01-04,45.0,Economy,Personal,Airport Counter,Net Banking,156,1659,On Time,0.0,0,No,1.0,19686.17,Dissatisfied
+PNR00913,SpiceJet,Delhi,Bangalore,2024-05-28,53.0,Economy,Business,Airport Counter,Credit Card,170,606,Delayed,85.0,1,No,1.0,27708.78,Dissatisfied
+PNR00914,Vistara,Mumbai,Bangalore,2025-12-02,59.0,Economy,Business,Website,Debit Card,65,305,On Time,0.0,1,No,4.0,9526.13,Satisfied
+PNR00915,Akasa Air,Delhi,Bangalore,2024-10-31,49.0,Economy,Personal,Airport Counter,Credit Card,93,1428,On Time,0.0,2,Yes,2.0,10286.83,Dissatisfied
+PNR00916,SpiceJet,Delhi,Mumbai,2025-12-08,62.0,Economy,Personal,Website,Debit Card,223,1499,On Time,0.0,1,No,1.0,9284.24,Dissatisfied
+PNR00917,IndiGo,Mumbai,Delhi,2024-07-01,41.0,Economy,Personal,Mobile App,UPI,135,1333,Cancelled,,0,Yes,3.0,8981.81,Neutral
+PNR00918,Air India Express,Delhi,Bangalore,2024-09-02,56.0,Economy,Business,Mobile App,Debit Card,149,1331,On Time,0.0,0,No,4.0,13928.14,Satisfied
+PNR00919,Air India Express,Delhi,Bangalore,2025-01-19,25.0,Economy,Business,Airport Counter,Net Banking,106,1056,On Time,0.0,0,No,2.0,31803.74,Dissatisfied
+PNR00920,Akasa Air,Hyderabad,Mumbai,2024-12-14,42.0,Economy,Business,Travel Agent,Debit Card,186,711,On Time,0.0,3,No,3.0,4349.3,Neutral
+PNR00921,SpiceJet,Delhi,Mumbai,2025-01-16,57.0,Economy,Personal,Airport Counter,Net Banking,62,1512,On Time,0.0,1,No,3.0,2836.82,Neutral
+PNR00922,IndiGo,Mumbai,Delhi,2025-06-24,18.0,Economy,Business,Mobile App,Debit Card,104,1006,On Time,0.0,2,Yes,5.0,21620.0,Satisfied
+PNR00923,Vistara,Bangalore,Delhi,2025-09-20,60.0,Economy,Personal,Mobile App,UPI,208,1286,Cancelled,,0,No,5.0,3308.47,Satisfied
+PNR00924,Vistara,Delhi,Kolkata,2025-08-03,25.0,Premium Economy,Business,Website,Debit Card,89,926,Delayed,64.0,3,No,5.0,39374.59,Satisfied
+PNR00925,Akasa Air,Mumbai,Hyderabad,2024-01-13,64.0,Economy,Business,Website,Credit Card,181,443,On Time,0.0,2,No,3.0,27380.32,Neutral
+PNR00926,IndiGo,Delhi,Mumbai,2024-10-02,63.0,Economy,Business,Website,Net Banking,155,1617,On Time,0.0,2,No,3.0,21599.24,Neutral
+PNR00927,SpiceJet,Delhi,Mumbai,2025-10-24,57.0,Economy,Personal,Website,Net Banking,123,1460,On Time,0.0,3,No,2.0,23466.96,Dissatisfied
+PNR00928,Akasa Air,Bangalore,Mumbai,2025-07-14,42.0,Premium Economy,Business,Website,UPI,195,1287,On Time,0.0,3,No,1.0,33404.74,Dissatisfied
+PNR00929,Air India,Bangalore,Mumbai,2024-02-22,32.0,Premium Economy,Personal,Website,Net Banking,150,1404,On Time,0.0,0,No,3.0,20260.97,Neutral
+PNR00930,Vistara,Mumbai,Delhi,2025-12-18,31.0,Economy,Personal,Airport Counter,Credit Card,105,1102,On Time,0.0,1,No,2.0,8292.58,Dissatisfied
+PNR00931,Vistara,Kolkata,Delhi,2024-12-25,27.0,Business,Business,Airport Counter,UPI,135,827,On Time,0.0,0,Yes,5.0,27476.51,Satisfied
+PNR00932,Air India,Bangalore,Mumbai,2025-11-21,32.0,Economy,Business,Travel Agent,UPI,150,755,Delayed,67.0,2,Yes,4.0,27149.81,Satisfied
+PNR00933,Akasa Air,Mumbai,Bangalore,2025-09-02,32.0,Economy,Personal,Website,Debit Card,234,337,On Time,0.0,3,Yes,2.0,16612.1,Dissatisfied
+PNR00934,Air India Express,Bangalore,Mumbai,2024-02-15,31.0,Premium Economy,Personal,Mobile App,UPI,222,1608,Delayed,27.0,1,No,5.0,16641.13,Satisfied
+PNR00935,SpiceJet,Bangalore,Mumbai,2025-04-28,42.0,Economy,Business,Website,UPI,218,1610,Cancelled,,1,No,4.0,6618.45,Satisfied
+PNR00936,IndiGo,Mumbai,Bangalore,2024-05-27,40.0,Business,Personal,Mobile App,Credit Card,184,1432,On Time,0.0,3,No,2.0,15724.79,Dissatisfied
+PNR00937,Akasa Air,Delhi,Kolkata,2024-10-23,24.0,Premium Economy,Business,Travel Agent,Credit Card,69,745,On Time,0.0,3,No,1.0,17652.53,Dissatisfied
+PNR00938,IndiGo,Delhi,Bangalore,2024-11-30,20.0,Premium Economy,Business,Mobile App,Credit Card,144,607,On Time,0.0,3,Yes,4.0,15868.8,Satisfied
+PNR00939,Air India,Mumbai,Hyderabad,2025-09-16,62.0,Business,Business,Website,Debit Card,124,1569,Delayed,95.0,2,Yes,3.0,41534.51,Neutral
+PNR00940,Vistara,Mumbai,Hyderabad,2024-03-19,42.0,Economy,Business,Mobile App,Net Banking,237,1141,On Time,0.0,3,Yes,4.0,31915.36,Satisfied
+PNR00941,Air India,Bangalore,Mumbai,2024-10-10,56.0,Economy,Personal,Website,UPI,148,843,On Time,0.0,1,Yes,3.0,4404.2,Neutral
+PNR00942,Vistara,Delhi,Kolkata,2024-11-11,32.0,Economy,Personal,Travel Agent,Credit Card,101,671,Delayed,24.0,3,Yes,5.0,21244.73,Satisfied
+PNR00943,Air India Express,Mumbai,Bangalore,2024-11-03,51.0,Premium Economy,Business,Airport Counter,UPI,197,521,Cancelled,,0,No,2.0,16557.77,Dissatisfied
+PNR00944,Akasa Air,Mumbai,Bangalore,2025-02-05,50.0,Business,Business,Airport Counter,Net Banking,137,577,On Time,0.0,2,No,2.0,56177.05,Dissatisfied
+PNR00945,Air India,Kolkata,Delhi,2024-10-05,58.0,Business,Business,Mobile App,Debit Card,230,1325,On Time,0.0,2,No,5.0,45995.45,Satisfied
+PNR00946,Air India,Kolkata,Delhi,2025-04-15,53.0,Economy,Business,Mobile App,Debit Card,104,827,On Time,0.0,2,No,1.0,9002.17,Dissatisfied
+PNR00947,IndiGo,Bangalore,Mumbai,2025-06-03,23.0,Economy,Business,Mobile App,Net Banking,232,1357,On Time,0.0,3,No,2.0,17190.93,Dissatisfied
+PNR00948,IndiGo,Kolkata,Delhi,2024-01-12,64.0,Economy,Business,Website,Debit Card,188,733,Cancelled,,3,No,1.0,28897.79,Dissatisfied
+PNR00949,Akasa Air,Mumbai,Hyderabad,2025-06-10,26.0,Economy,Business,Website,Credit Card,96,477,On Time,0.0,2,Yes,4.0,6106.08,Satisfied
+PNR00950,IndiGo,Mumbai,Bangalore,2025-05-06,18.0,Premium Economy,Business,Mobile App,Net Banking,74,1370,On Time,0.0,3,No,3.0,7983.95,Neutral
+PNR00951,SpiceJet,Delhi,Mumbai,2024-06-04,31.0,Business,Personal,Mobile App,UPI,89,1413,On Time,0.0,1,Yes,4.0,35244.66,Satisfied
+PNR00952,SpiceJet,Delhi,Bangalore,2024-05-29,62.0,Economy,Personal,Travel Agent,Debit Card,131,1594,On Time,0.0,1,Yes,5.0,15013.84,Satisfied
+PNR00953,Air India,Delhi,Mumbai,2024-09-25,44.0,Economy,Business,Website,Credit Card,214,1396,Delayed,169.0,1,Yes,1.0,14272.42,Dissatisfied
+PNR00954,Akasa Air,Hyderabad,Mumbai,2024-11-15,56.0,Business,Business,Mobile App,UPI,177,1258,On Time,0.0,3,Yes,5.0,31315.06,Satisfied
+PNR00955,IndiGo,Mumbai,Delhi,2025-02-15,53.0,Business,Personal,Travel Agent,UPI,203,827,On Time,0.0,1,Yes,4.0,45122.24,Satisfied
+PNR00956,Air India Express,Kolkata,Delhi,2024-02-01,34.0,Economy,Personal,Airport Counter,Debit Card,195,417,On Time,0.0,2,No,1.0,3037.46,Dissatisfied
+PNR00957,Vistara,Delhi,Kolkata,2024-12-04,27.0,Business,Personal,Mobile App,Credit Card,232,378,Cancelled,,1,No,1.0,21979.98,Dissatisfied
+PNR00958,Air India Express,Delhi,Bangalore,2025-01-14,58.0,Economy,Personal,Travel Agent,Credit Card,85,913,On Time,0.0,0,Yes,1.0,34748.08,Dissatisfied
+PNR00959,IndiGo,Delhi,Mumbai,2024-09-02,31.0,Economy,Business,Website,Debit Card,140,1582,On Time,0.0,1,Yes,5.0,28919.41,Satisfied
+PNR00960,Akasa Air,Kolkata,Delhi,2024-01-25,61.0,Economy,Personal,Website,Credit Card,196,1426,Delayed,35.0,3,Yes,5.0,17588.66,Satisfied
+PNR00961,Air India Express,Mumbai,Hyderabad,2024-10-09,60.0,Business,Personal,Travel Agent,Debit Card,153,412,On Time,0.0,3,No,1.0,39542.24,Dissatisfied
+PNR00962,Air India Express,Mumbai,Bangalore,2024-06-04,34.0,Economy,Business,Mobile App,UPI,73,461,On Time,0.0,0,Yes,4.0,7839.68,Satisfied
+PNR00963,IndiGo,Mumbai,Bangalore,2024-06-28,37.0,Economy,Business,Travel Agent,Debit Card,77,1504,On Time,0.0,2,No,4.0,15739.03,Satisfied
+PNR00964,SpiceJet,Delhi,Bangalore,2024-01-21,35.0,Economy,Personal,Travel Agent,Credit Card,78,559,On Time,0.0,2,No,1.0,12492.52,Dissatisfied
+PNR00965,Vistara,Bangalore,Mumbai,2024-06-16,18.0,Economy,Business,Website,Net Banking,140,832,Delayed,117.0,0,Yes,5.0,9507.29,Satisfied
+PNR00966,Air India,Mumbai,Delhi,2025-10-19,33.0,Economy,Personal,Mobile App,UPI,113,1450,On Time,0.0,0,No,1.0,23106.64,Dissatisfied
+PNR00967,Air India,Delhi,Mumbai,2025-05-22,44.0,Economy,Business,Website,Net Banking,140,662,On Time,0.0,2,Yes,5.0,3880.56,Satisfied
+PNR00968,SpiceJet,Kolkata,Delhi,2024-12-29,39.0,Economy,Personal,Travel Agent,Net Banking,82,617,On Time,0.0,3,No,4.0,21315.44,Satisfied
+PNR00969,Akasa Air,Delhi,Kolkata,2025-10-18,62.0,Premium Economy,Personal,Mobile App,Net Banking,159,1337,On Time,0.0,1,No,5.0,18407.98,Satisfied
+PNR00970,Air India,Hyderabad,Mumbai,2025-11-16,40.0,Economy,Business,Website,Net Banking,152,559,On Time,0.0,3,No,4.0,7754.35,Satisfied
+PNR00971,IndiGo,Hyderabad,Mumbai,2025-11-01,38.0,Economy,Business,Mobile App,Net Banking,235,399,Delayed,94.0,0,Yes,2.0,10372.66,Dissatisfied
+PNR00972,Akasa Air,Mumbai,Hyderabad,2025-11-09,39.0,Premium Economy,Personal,Airport Counter,UPI,117,841,Delayed,80.0,2,No,2.0,13183.95,Dissatisfied
+PNR00973,IndiGo,Mumbai,Delhi,2024-11-30,55.0,Business,Business,Airport Counter,UPI,138,932,Cancelled,,0,No,5.0,48822.97,Satisfied
+PNR00974,IndiGo,Hyderabad,Mumbai,2024-09-26,57.0,Premium Economy,Personal,Website,Debit Card,129,1641,On Time,0.0,0,No,3.0,6169.89,Neutral
+PNR00975,SpiceJet,Delhi,Mumbai,2025-06-25,38.0,Economy,Business,Mobile App,Net Banking,149,447,Delayed,138.0,0,Yes,1.0,6999.39,Dissatisfied
+PNR00976,Air India Express,Kolkata,Delhi,2025-11-14,58.0,Premium Economy,Personal,Airport Counter,Credit Card,63,806,On Time,0.0,1,No,3.0,7833.63,Neutral
+PNR00977,Air India,Mumbai,Delhi,2024-07-06,38.0,Economy,Personal,Travel Agent,UPI,200,430,On Time,0.0,1,No,5.0,16067.32,Satisfied
+PNR00978,Vistara,Mumbai,Bangalore,2025-08-10,36.0,Economy,Business,Mobile App,Credit Card,111,1025,On Time,0.0,3,No,2.0,6735.67,Dissatisfied
+PNR00979,Vistara,Delhi,Bangalore,2024-09-24,65.0,Premium Economy,Business,Website,Net Banking,93,553,On Time,0.0,0,No,1.0,15617.67,Dissatisfied
+PNR00980,IndiGo,Mumbai,Bangalore,2025-12-21,42.0,Premium Economy,Business,Mobile App,Credit Card,219,1315,Delayed,51.0,0,Yes,2.0,6542.69,Dissatisfied
+PNR00981,Vistara,Mumbai,Delhi,2024-04-12,37.0,Economy,Business,Website,Debit Card,164,1747,Cancelled,,0,Yes,3.0,29941.88,Neutral
+PNR00982,Vistara,Bangalore,Mumbai,2025-10-11,22.0,Economy,Business,Website,UPI,111,1675,On Time,0.0,3,No,5.0,17222.98,Satisfied
+PNR00983,Air India Express,Hyderabad,Mumbai,2025-07-14,27.0,Economy,Business,Mobile App,UPI,172,925,On Time,0.0,1,Yes,5.0,25096.56,Satisfied
+PNR00984,SpiceJet,Delhi,Kolkata,2024-09-09,45.0,Economy,Personal,Mobile App,Credit Card,178,371,On Time,0.0,1,No,1.0,27678.45,Dissatisfied
+PNR00985,Air India Express,Mumbai,Hyderabad,2024-05-04,22.0,Premium Economy,Business,Website,Debit Card,74,1259,Delayed,39.0,1,Yes,4.0,6121.27,Satisfied
+PNR00986,SpiceJet,Mumbai,Delhi,2024-12-11,32.0,Economy,Personal,Mobile App,UPI,227,676,Cancelled,,2,No,2.0,30047.37,Dissatisfied
+PNR00987,Air India,Mumbai,Delhi,2025-02-10,60.0,Economy,Business,Mobile App,Debit Card,166,472,On Time,0.0,0,No,3.0,19079.5,Neutral
+PNR00988,Akasa Air,Delhi,Mumbai,2025-04-03,49.0,Economy,Business,Travel Agent,UPI,145,925,On Time,0.0,1,No,4.0,28054.17,Satisfied
+PNR00989,Akasa Air,Mumbai,Hyderabad,2025-10-08,19.0,Economy,Personal,Website,Debit Card,93,1184,On Time,0.0,3,No,3.0,28774.96,Neutral
+PNR00990,SpiceJet,Hyderabad,Mumbai,2025-12-02,35.0,Premium Economy,Business,Travel Agent,Credit Card,197,1247,On Time,0.0,2,No,2.0,11284.17,Dissatisfied
+PNR00991,Vistara,Delhi,Mumbai,2025-08-07,52.0,Economy,Personal,Mobile App,Net Banking,174,350,Delayed,143.0,1,Yes,3.0,10491.68,Neutral
+PNR00992,Air India,Mumbai,Bangalore,2024-09-24,40.0,Economy,Personal,Website,Credit Card,175,1053,On Time,0.0,2,Yes,2.0,28745.56,Dissatisfied
+PNR00993,Air India Express,Mumbai,Bangalore,2024-05-28,50.0,Economy,Personal,Mobile App,UPI,176,757,On Time,0.0,2,No,5.0,8561.61,Satisfied
+PNR00994,Air India,Kolkata,Delhi,2024-02-05,34.0,Economy,Personal,Travel Agent,UPI,155,829,On Time,0.0,1,No,1.0,16722.51,Dissatisfied
+PNR00995,IndiGo,Mumbai,Delhi,2025-12-24,49.0,Economy,Personal,Airport Counter,Credit Card,113,399,On Time,0.0,3,No,3.0,31023.26,Neutral
+PNR00996,Vistara,Bangalore,Delhi,2024-07-08,38.0,Economy,Personal,Website,Credit Card,206,914,On Time,0.0,3,No,2.0,23028.45,Dissatisfied
+PNR00997,Air India,Kolkata,Delhi,2024-09-20,19.0,Economy,Personal,Mobile App,Credit Card,182,1361,On Time,0.0,0,No,2.0,17195.94,Dissatisfied
+PNR00998,IndiGo,Delhi,Bangalore,2025-03-24,38.0,Economy,Personal,Travel Agent,Credit Card,190,368,On Time,0.0,0,Yes,3.0,9495.06,Neutral
+PNR00999,Air India Express,Delhi,Mumbai,2024-02-16,24.0,Economy,Business,Airport Counter,Debit Card,145,1565,On Time,0.0,0,No,5.0,17014.48,Satisfied
+PNR01000,Akasa Air,Bangalore,Delhi,2025-07-21,55.0,Business,Personal,Travel Agent,UPI,122,1699,On Time,0.0,2,No,4.0,54029.31,Satisfied
+PNR00021,SpiceJet,Mumbai,Delhi,2024-06-29,63.0,Business,Business,Website,Net Banking,154,1422,Delayed,76.0,3,Yes,2.0,59265.05,Dissatisfied
+PNR00076,Air India,Delhi,Mumbai,2025-06-09,34.0,Premium Economy,Business,Website,Debit Card,68,851,Delayed,13.0,1,No,5.0,29957.65,Satisfied
+PNR00151,Air India Express,Delhi,Mumbai,2025-06-05,5.0,Business,Business,Mobile App,UPI,74,572,On Time,0.0,1,No,4.0,18580.52,Satisfied
+PNR00301,Air India,Bangalore,Mumbai,2025-11-24,26.0,Premium Economy,Personal,Website,Net Banking,170,1324,On Time,0.0,0,No,1.0,26724.46,Dissatisfied
+PNR00701,Air India Express,Delhi,Bangalore,2024-03-28,55.0,Premium Economy,Personal,Travel Agent,Credit Card,66,849,On Time,0.0,2,No,3.0,28280.16,Neutral
